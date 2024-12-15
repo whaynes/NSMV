@@ -1,0 +1,11 @@
+<objectives>
+   <ul>
+      <li>Understand the units of measurement for length, mass, time, area, volume, speed, temperature, pressure, torque, power, and speed</li>
+      <li>Understand conversions from U.S to metric and metric to U.S.</li>
+      <li>Understand Nautical Mile definition</li>
+      <li>Be able to calculate conversions</li>
+      <li>Identify and draw standard measurement symbols</li>
+      <li>Understand basic measuring instruments</li>
+      <li>Understand accuracy, precision, tolerance, calibration</li>
+   </ul>
+</objectives>

@@ -1,0 +1,308 @@
+<p>
+   <em>Power</em> is defined as the amount of energy used per unit time or rate of doing work. It has the units of watt, Btu, horsepower, or ft-lb/sec. Power is a measure of the rate at which energy is used. </p>
+<p> Regarding work, when you lift a weight of 1 pound through a distance of 1 foot, you have done 1 foot-pound of <em>work,</em> regardless of whether you do it in half a second or half an hour. A device which can do a lot of work quickly is powerful. Power, however, is time dependent. Therefore, if you lift that same 1-pound weight over the same distance more quickly, you are more powerful! </p>
+<p> The common unit of measurement for power is the <em>horsepower</em> (hp). </p>
+<p> Power is a critical physical quantity that defines the rate at which work is done or energy is transferred or converted. In the world of engineering, power plays a significant role in designing efficient systems, analyzing energy consumption, and optimizing engineering solutions. Understanding power and its measurement is essential for creating sustainable technologies, enhancing performance, and addressing real-world challenges. Let's explore how power is measured in both the US standard and metric systems, the instruments used for measurement, and any nautical-specific measurements related to power. </p>
+<p> Forms of Power </p>
+<p> In the context of science, power can refer to different concepts depending on the specific field or application. Here are several forms of power in various scientific contexts: </p>
+<p> Mechanical Power: In classical mechanics, mechanical power is the rate at which work is done or energy is transferred. It is the product of force and velocity. Mechanical power is the term used to describe when work is being done. </p>
+<p> Electrical Power: In electrical systems, power is the rate at which electrical energy is transferred or converted. It is measured in watts and is the product of voltage and current. </p>
+<p> Thermal Power: In thermodynamics, thermal power refers to the rate at which heat energy is transferred or converted. It is often measured in watts and is associated with processes involving temperature differentials. Thermal power is the term used to refer to the transfer of heat. </p>
+<p> Nuclear Power: In the context of nuclear physics, power can refer to the rate of energy release in nuclear reactions. Nuclear power is harnessed in nuclear reactors for electricity generation. </p>
+<p> Solar Power: This is a form of power derived from the sun's radiation. Solar power can be harnessed through various technologies such as photovoltaic cells and solar thermal systems. </p>
+<p> Wind Power: Wind power is the conversion of wind energy into a useful form, typically electricity, using wind turbines. </p>
+<p> Hydraulic Power: In fluid dynamics, hydraulic power is associated with the movement and pressure of fluids. It is often utilized in hydraulic systems for various applications. </p>
+<p> Chemical Power: In chemistry, chemical reactions can release or store energy. Chemical power is associated with the energy changes in chemical reactions. </p>
+<p> Muscular Power: In biology and biomechanics, muscular power refers to the rate at which work is done by muscles. It is often expressed in terms of force and velocity of muscle contraction. </p>
+<p> Photon Power: In optics, the power of a lens is a measure of its ability to converge or diverge light. It is often measured in diopters. </p>
+<p> UNITS of POWER </p>
+<p> Power is measured in various units depending on the context and the system of measurement being used. The standard unit of power in the International System of Units (SI) is the watt (W). Here are some common units of power: </p>
+<p> Watt (W): The watt is the SI unit of power and is defined as one joule per second. It is named after James Watt, a Scottish engineer. </p>
+<p> Kilowatt (kW): One kilowatt is equal to 1,000 watts. It is commonly used in the context of electrical power, especially in the rating of appliances and electrical systems. </p>
+<p> Megawatt (MW): One megawatt is equal to 1 million watts or 1,000 kilowatts. This unit is often used in the context of large-scale power generation and distribution. </p>
+<p> Gigawatt (GW): One gigawatt is equal to 1 billion watts or 1,000 megawatts. It is commonly used to express the capacity of power plants or large energy systems. </p>
+<p> Calories per Second (cal/s or kcal/s): In some contexts, especially in the field of nutrition and metabolic studies, power can be expressed in terms of calories per second. </p>
+<p> BTU per Hour (BTU/h): In the field of heating, ventilation, and air conditioning (HVAC), power is sometimes measured in British Thermal Units per hour. </p>
+<p> Horsepower (hp): Horsepower is a unit of power that is still used in various industries, particularly in the context of engines and motors. One horsepower is approximately equal to 745.7 watts. </p>
+<p> Foot-Pound per Minute (ft-lb/min): This unit is often used in the context of mechanical power, where work is done over time. </p>
+<p> These units provide a way to quantify and compare the rate at which energy is transferred or converted in various scientific and engineering applications. </p>
+<p> In the context of mechanics and engineering, mechanical power refers to the rate at which work is done or energy is transferred within a mechanical system. It is a measure of how quickly energy is used or produced in a mechanical process. The unit of mechanical power is the watt (W). </p>
+<p>
+   <em>Measurement of Power:</em>
+</p>
+<p> US Standard System: </p>
+<p> In the US standard system, power is typically measured in horsepower (hp). One horsepower is equivalent to 550 foot-pounds per second (ft-lb/s) or approximately 746 watts. It is a common unit used to express the power output of engines, motors, and other mechanical systems. </p>
+<p> One mechanical horsepower is defined as the ability to do 550 foot-pounds of work per second. In other words, if a machine can exert a force of 550 pounds over a distance of one foot in one second, it is considered to have a power output of 1 mechanical horsepower. This definition was based on Watt's observations of the work done by draft horses in coal mines and was intended to provide a meaningful measure of power that people could relate to in the late 18th century. </p>
+<p> While the original concept of horsepower was rooted in the comparison to the work done by horses, it has become a standard unit of power used in various industries, particularly in the automotive and mechanical engineering fields, to express the power output of engines and motors. </p>
+<p> By definition, 1 horsepower is equal to 33,000 foot-pounds of work per minute or 550 foot-pounds of work per second. </p>
+<p> Thus, a machine that is capable of doing 550 foot-pounds of work per second is said to be a 1-horsepower machine. (As you can see, your horsepower rating would not be very impressive if you did 1 foot-pound of work in half an hour. Figure it out. It works out to be just a little more than one-millionth of a horsepower.) </p>
+<p> Horsepower (hp) is a unit of measurement in the foot-pound-second (fps or ft-lb/s) or English system, sometimes used to express the rate at which mechanical energy is expended. </p>
+<figure>
+   <caption>A horse produces approximately one horsepower</caption>
+   <image width="50%" source="images/image48.png"/>
+   <!--Horsepower - Wikipedia-->
+</figure>
+<p> Metric System: </p>
+<p> In the metric system, power is measured in watts (W). One watt is defined as one joule per second (J/s), representing the rate at which work is done or energy is transferred. The watt is the standard unit for expressing power in the International System of Units (SI). </p>
+<p> In the International System of Units (SI), power is typically measured in watts. One mechanical horsepower is equivalent to approximately 745.7 watts. The conversion factor is often rounded to 746 watts for practical use. So, when you see a power rating for an engine or motor in horsepower, it represents the mechanical power output of that device. </p>
+<p> Power Formulas </p>
+<p> The formula for mechanical power is derived from the basic definition of power: </p>
+<p> Mechanical Power (P)=<m>\frac{Work(w)}{Time(t)}</m>
+</p>
+<p> ​Alternatively, if the system involves a force (F) acting over a distance (d), the formula for mechanical power can be expressed as: </p>
+<p>
+   <em>P</em>=<m>\frac{Fxd}{t}</m>
+</p>
+<p> ​In this formula: </p>
+<p>
+   <em>P</em> is the mechanical power </p>
+<p>
+   <em>W</em> is the work done, </p>
+<p>
+   <em>F</em> is the force applied, </p>
+<p>
+   <em>d</em> is the distance over which the force is applied, </p>
+<p>
+   <em>t</em> is the time taken. </p>
+<p> Mechanical Power </p>
+<p> Mechanical energy used per unit time is called <em>mechanical power</em>. Mechanical power is the rate at which work is done. Mechanical power is expressed in units of joules/sec (joules/s) or a watt (W) in the metric system, and feet - pounds force per second (ft-lbf/s) or horsepower (hp) in the English system. Mechanical power can be calculated using the following mathematical expression. </p>
+<p> Power= <m>\frac{WorkDone}{Timerequired}</m>
+</p>
+<p> Because work can be defined as force times distance, we can also use the following equation: </p>
+<p>
+   <em>P</em>=<m>\frac{Fxd}{t}</m>
+</p>
+<p> ) </p>
+<p> where: </p>
+<table>
+   <title/>
+   <tabular>
+      <row>
+         <cell halign="left">P</cell>
+         <cell halign="left">=</cell>
+         <cell halign="left">Power (W or ft-lb/s)</cell>
+      </row>
+      <row>
+         <cell halign="left">F</cell>
+         <cell halign="left">=</cell>
+         <cell halign="left">Force (N or lb)</cell>
+      </row>
+      <row>
+         <cell halign="left">d</cell>
+         <cell halign="left">=</cell>
+         <cell halign="left">distance (m or ft)</cell>
+      </row>
+      <row>
+         <cell halign="left">t</cell>
+         <cell halign="left">=</cell>
+         <cell halign="left">time (sec)</cell>
+      </row>
+   </tabular>
+</table>
+<p> Mechanical Power Problem US Customary Units </p>
+<p> A worker uses a winch to lift a 200-pound load to a height of 30 feet in 2 minutes. Calculate the mechanical power in foot-pounds per minute. </p>
+<p> Mechanical power (P) can be calculated using the formula: </p>
+<p> Power= <m>\frac{WorkDone}{Timerequired}</m>
+</p>
+<p> where: </p>
+<p> W is the work done in foot-pounds (ft-lb) </p>
+<p> T is the time in minutes (min) </p>
+<p> First, calculate the work done (W). Work done is given by: </p>
+<p> W=F×d </p>
+<p> where: </p>
+<p> F is the force applied (in pounds, lb) </p>
+<p> D is the distance the load is lifted (in feet, ft) </p>
+<p> Given: </p>
+<p> F=200 lb. </p>
+<p> d=30 ft </p>
+<p> Calculate the work done (W): </p>
+<p> Power= <m>\frac{WorkDone}{Timerequired}</m>
+</p>
+<p>
+   <em>P</em>=<m>\frac{Fxd}{t}</m>
+</p>
+<p> W=F×d=200 lb×30 ft=6000 ft-lb </p>
+<p> Next, calculate the power (P): </p>
+<p> Mechanical Power (P)=<m>\frac{Work(w)}{Time(t)}</m>
+</p>
+<p> Power = <m>\frac{6,000ft - lbs}{2minutes}</m>
+</p>
+<p> Answer: </p>
+<p> The mechanical power used by the winch is 3000 foot-pounds per minute (ft-lb/min). </p>
+<p> Note that the work required is the same even with more people pulling the load. </p>
+<p> Mechanical Power Problem Metric System Units </p>
+<p> Given: </p>
+<p> Force (F) =50 (Newtons) N </p>
+<p> Distance (d)=20 (Meters) m </p>
+<p> Time (t)=10 seconds (s) </p>
+<p> Step-by-step calculation: </p>
+<p> Calculate the work done W=F⋅d=50 N×20 m=1000  </p>
+<p> Calculate the power: Power (P)=<m>\frac{Work(w)}{Time(t)}</m> = <m>\frac{1000j}{10s}</m> =100 J/s </p>
+<p> So, the mechanical power delivered by the conveyor belt is 100 joules per second. </p>
+<p> Horsepower Formula: Horsepower = <m>\frac{Work}{Timex33,000}</m>
+</p>
+<p> Horsepower may also be expressed as </p>
+<p> 1 hp = <m>\frac{33,000foot - pounds}{minute}</m> or </p>
+<p> 1 hp = <m>\frac{550foot - pounds}{second}</m>
+</p>
+<p> Horsepower Problem: </p>
+<p> A motor exerts a force to lift a weight of 500 pounds vertically at a constant speed of 660 feet per minute. Calculate the horsepower delivered by the motor. </p>
+<p> Solution: </p>
+<p> Recall the definition of horsepower: </p>
+<p> 1 horsepower (hp)=33,000 foot-pounds per minute (ft-lb/min) </p>
+<p> Given: </p>
+<p> Force F = 500 pounds </p>
+<p> Speed = 660 feet per minute </p>
+<p> Power in foot-pounds per minute is calculated as: </p>
+<p> Horsepower = <m>\frac{Work}{Timex33,000}</m> = <m>\frac{Forcexdistance}{timex33,000}</m>
+</p>
+<p>
+   <me>Horsepower = \frac{500lbsx660feet}{33,000ft - lbs/min}</me>
+</p>
+<p> Horsepower = 10hp </p>
+<p> Thermal Power Problem in British Thermal Units (BTU’s) </p>
+<p>
+   <em>Thermal power</em> is the measure of thermal energy used per unit time. It is the rate of heat transfer or heat flow rate. Examples of thermal power units are British Thermal Units (Btu) or kilowatts (kW). Thermal power is calculated basically by the mathematical expression of: </p>
+<p> Thermal Power<m>= \frac{HeatUsed}{TimeRequired}</m>
+</p>
+<p> P= <m>\frac{Heat}{time}</m> = <m>\frac{Q(btu's)}{t(s)}</m>
+</p>
+<p> Problem: </p>
+<p> A heating system uses 90,000 btus of heat energy to warm a room over a period of 15 minutes. Calculate the thermal power output of the heating system in btus). </p>
+<p> To calculate the thermal power output of the heating system, we can use the formula: </p>
+<p> P= <m>\frac{Heat}{time}</m> = <m>\frac{Q(btu's)}{t(s)}</m>
+</p>
+<p> In this case: </p>
+<p> The energy used is 90,000 BTUs. </p>
+<p> The time period is 15 minutes. </p>
+<p> First, we need to convert the time period from minutes to hours since power is typically measured in BTUs per hour (BTU/hr). </p>
+<p> 15 minutes=15/60 hours=0.25 hours </p>
+<p> Now, we can calculate the power: </p>
+<p> Power=90,000 BTUs/0.25 hours​ </p>
+<p> Power=360,000 BTU/hr </p>
+<p> So, the thermal power output of the heating system is 360,000 BTU/hr. </p>
+<p> Electric Power Problem in Watts </p>
+<p> When dealing with electrical power, it's essential to consider the relationship between power, voltage, and current, which is given by the formula: </p>
+<p>
+   <em>P</em>=<em>VI</em>
+</p>
+<p> where: </p>
+<p>
+   <em>P</em> is power in watts (W) </p>
+<p>
+   <em>V</em> is voltage in volts (V) </p>
+<p>
+   <em>I</em> is current in amperes (A) </p>
+<p> Problem: </p>
+<p> An electric heater has a resistance of 10 ohms and is connected to a 120-volt power supply. Calculate the electrical power consumed by the heater in watts. </p>
+<p> Solution: </p>
+<p> Electrical power (P) can be calculated using Ohm's law and the power formula: </p>
+<p> P=​ <m>\frac{V^{2}}{R}</m>
+</p>
+<p> where: </p>
+<p> P is the power in watts (W) </p>
+<p> V is the voltage in volts (V) </p>
+<p> R is the resistance in ohms (Ω) </p>
+<p> Given: </p>
+<p> V=120 V </p>
+<p> R=10 Ω </p>
+<p> First, substitute the given values into the formula: </p>
+<p> P= ​ <m>\frac{V^{2}}{R}</m> P=​ <m>\frac{120^{2}}{10\Omega}</m>
+</p>
+<p> P= <m>\frac{14400v}{10\Omega}</m> = 1440 watts (W) </p>
+<p> Answer: </p>
+<p> The electrical power consumed by the heater is 1440 watts (W). </p>
+<p> Power is expressible also as the product of the <em>force</em> applied to move an object and the speed of the object in the direction of the force. If the magnitude of the force <em>F</em> is measured in pounds and the speed <em>ν</em> in feet per minute, the power equals <em>Fν</em> foot-pounds per minute. In the <em>International System of Units</em>, power is measured in <em>newton</em> meters per second. </p>
+<p> Most machines have rotating <em>shafts</em>, and, in terms of the twisting moment, or magnitude of <em>torque</em> (τ), on a shaft and the angular speed ω of the shaft, the power is given by τω. τ is usually expressed in inch-pounds, ω in radians per second, and power in inch-pounds per second. Another unit of mechanical power is the <em>horsepower</em> (hp), which is equal to 33,000 foot-pounds per minute, or 6,600 inch-pounds per second. </p>
+<p> Instruments Used to Measure Power: </p>
+<p> Dynamometer: an instrument used to measure torque and power output of engines, motors, and other rotating machinery. By measuring the torque and rotational speed, the dynamometer can calculate the power output of the system. </p>
+<p> Power Meter: an electronic device used to measure electrical power consumption. It is commonly used to monitor and optimize the energy usage of electrical devices and systems. </p>
+<p> Nautical-Specific Power Measurements </p>
+<p> In the nautical world, power measurements are crucial for marine engineering, ship propulsion, and navigation. Two nautical-specific power measurements are: </p>
+<p> Propulsion Power: Propulsion power refers to the power required to drive a ship or boat through water. It is a key parameter in designing efficient propulsion systems and optimizing fuel consumption for maritime vessels. </p>
+<p> Dynamic Positioning Power: Dynamic positioning (DP) systems are used on ships and offshore platforms to maintain their position without anchoring. The power required for DP operations is a critical consideration in offshore engineering projects. </p>
+<p> Understanding the concept of power and its measurement is vital in your journey as engineering students. It will empower you to design energy-efficient systems, optimize power consumption, and contribute to sustainable engineering practices both on land and at sea. </p>
+<p> Speed </p>
+<p> Speed measures how fast an object is moving through a distance, and it is calculated by the formula 𝑆=𝑑𝑡, where <em>S</em> stands for speed, <em>d</em> stands for distance, and <em>t</em> stands for time. This formula calculates the average speed of a movement, and refers to the rate at which an object moves or operates. It is a measure of how quickly something changes position or performs a function over a given period. Speed is a scalar quantity, meaning it has magnitude but no direction. It is usually expressed in units of distance per unit time, such as meters per second (m/s), kilometers per hour (km/h), or miles per hour (mph). </p>
+<p> Speed and velocity are terms that are often used interchangeably. However, in scientific and educational contexts the differences between them tend to be highlighted. This happens because they are two different types of quantities. While speed is a scalar quantity, velocity is a vector. Speed is defined only by its intensity (or magnitude), while velocity needs to have both magnitude and direction addressed. </p>
+<p> The concept of speed is better understood when contrasted with the concept of velocity. </p>
+<p> Speed is a measurement of how fast an object is moving through a path. </p>
+<p> Velocity measures how fast and to what direction is the movement of an object. </p>
+<p> The symbols for speed and velocity differ by the letters used and the notation that represents the type of quantity they are. While velocity is usually symbolized by the letter <em>v</em> with an overwritten arrow (𝑣→), one can find speed being symbolized by its full name ('speed') or by its first letter (<em>S</em>). The lack of an arrow over this symbol is an indication that speed is a scalar quantity. </p>
+<p> Types of speed </p>
+<p> Linear Speed: The rate at which an object moves along a path in a straight line. It is calculated as the distance traveled divided by the time taken. </p>
+<p> Speed=Distance/Time​ </p>
+<p> Rotational Speed (Angular Speed): The rate at which an object rotates or spins. It is measured in terms of the angle turned per unit time, such as radians per second (rad/s) or revolutions per minute (RPM). </p>
+<p> Angular Speed=Angle/Time​ </p>
+<p> Average Speed: The total distance traveled divided by the total time taken, without regard to variations in speed during the trip. </p>
+<p> Average Speed=Total Distance/Total Time​ </p>
+<figure>
+   <caption/>
+   <image width="50%" source="images/image34.jpeg"/>
+   <!-- d X t graph.-->
+</figure>
+<table>
+   <title/>
+   <tabular>
+      <row/>
+   </tabular>
+</table>
+<p> The graph shows that the object covers 20 meters in 25 seconds. Therefore, its average speed is: </p>
+<p> 𝑆𝑝𝑒𝑒𝑑=𝑑𝑡=2025=0.8𝑚/𝑠 </p>
+<p> Instantaneous Speed: The speed of an object at a specific moment in time. It can be found using calculus by taking the derivative of the position with respect to time. </p>
+<p> Flow Speed: In fluid dynamics, the speed at which a fluid flows through a pipe or channel. It is critical for calculating parameters such as Reynolds number and flow rate. </p>
+<p> Mach Number: In aeronautical engineering, the speed of an object compared to the speed of sound in the surrounding medium. A Mach number less than 1 indicates subsonic speed, while a Mach number greater than 1 indicates supersonic speed. </p>
+<p> Units of Speed </p>
+<p> Metric System: </p>
+<p> Centimeters per second (cm/s): Occasionally used for smaller-scale measurements, particularly in scientific contexts. </p>
+<p> Meters per second (m/s): This is the standard SI unit for speed. It indicates the number of meters traveled in one second. </p>
+<p> Kilometers per hour (km/h): This unit is often used for measuring the speed of vehicles and other modes of transportation. It indicates the number of kilometers traveled in one hour. </p>
+<p> US Customary System </p>
+<p> Miles per hour (mph): Commonly used in the United States and the United Kingdom for measuring the speed of vehicles. It indicates the number of miles traveled in one hour. </p>
+<p> Feet per second (ft/s): Sometimes used in various engineering contexts, especially in the United States. </p>
+<p> Nautical Units: </p>
+<p> Knots (kn or kt): Used in maritime and aviation contexts, a knot is equal to one nautical mile per hour (1 nautical mile = 1.852 kilometers). </p>
+<p> Nautical-Specific Speed Measurements: In the nautical realm, measuring speed is crucial for marine navigation and engineering. </p>
+<p> Knot: A knot is a unit of speed used primarily in navigation and marine contexts. One knot represents one nautical mile per hour (nautical mile is approximately 1.15 statute miles). Ships and boats often use knots to measure their speed over water. </p>
+<p> Rotational Speed: </p>
+<p> Revolutions per minute (RPM): Used to measure the number of complete rotations or cycles per minute. </p>
+<p> Radians per second (rad/s): Used in engineering to measure angular speed </p>
+<p> Various instruments are used to measure speed, depending on the context and type of speed being measured. Here are some common instruments: </p>
+<p> Speedometer: Commonly found in vehicles, it measures the speed of the vehicle in units such as kilometers per hour (km/h) or miles per hour (mph). Instruments, such as the speedometer, can display the instantaneous speed of a vehicle. </p>
+<p> Radar Gun: Often used by law enforcement to measure the speed of moving vehicles. It works by emitting radio waves and measuring the Doppler shift of the reflected waves. </p>
+<p> Lidar (Light Detection and Ranging): Uses laser pulses to measure the distance to an object and can determine its speed by analyzing the time it takes for the laser to return. </p>
+<p> Pedometer: Measures the number of steps taken and can estimate speed based on stride length and the number of steps per minute. </p>
+<p> GPS (Global Positioning System): Uses satellite signals to determine the position of an object over time, calculating speed based on changes in position. </p>
+<figure>
+   <caption>Speedometer showing an instantaneous speed of 172.1 Km/h.</caption>
+   <image width="50%" source="images/image35.jpeg"/>
+   <!--Speedometer showing an instantaneous speed of 172.1 Km/h.-->
+</figure>
+<p> For Measuring Rotational Speed: </p>
+<p> Tachometer: Measures the rotational speed of a shaft or disk, typically in revolutions per minute (RPM). </p>
+<p> Stroboscope: Uses flashing light to measure rotational speed by making a rotating object appear stationary when the light flashes at the same frequency as the rotation. </p>
+<p> Optical Encoders: Detect rotational position and speed by using light and photodetectors to measure the movement of a patterned disk. </p>
+<p> For Measuring Flow Speed: </p>
+<p> Pitot Tube: Used in aerodynamics and fluid dynamics to measure the flow speed of air or fluid by comparing static and dynamic pressures. </p>
+<p> Anemometer: Measures wind speed, commonly used in meteorology and environmental studies. </p>
+<p> Flowmeter: Measures the speed and volume of fluid flowing through a pipe. Types include ultrasonic, electromagnetic, and turbine flowmeters. </p>
+<p> For Measuring Instantaneous Speed: </p>
+<p> Accelerometer: Measures acceleration, which can be integrated over time to determine changes in speed. </p>
+<p> Photo Gates: Used in physics experiments to measure the speed of an object passing through two points with a known distance apart. </p>
+<p> Specialized Instruments: </p>
+<p> Laser Doppler Velocimeter (LDV): Uses laser beams to measure the velocity of particles in a fluid, often used in fluid mechanics research. </p>
+<p> Doppler Radar: Measures the speed of precipitation particles in meteorology to determine wind speeds and storm movement. </p>
+<p> Each of these instruments is designed for specific applications and provides accurate measurements within its intended range and context. </p>
+<p> Magnetic Speed Pickup Transducer </p>
+<p> The magnetic speed pickup transducer is usually referred to as a magnetic speed pickup and is the most common type of speed sensor found in gas turbine propulsion plants. It is used for sensing gas turbine speed on the LM2500 and the Allison 501-K17. It is also used to measure reduction gear speed for controllable pitch <em>propeller</em> (CPP) systems on the FFG-7 class ships. The MRGs of the DD-963 class ships use magnetic speed pickups for sensing clutch engagement speeds. </p>
+<p> Magnetic speed pickups sense speed by using a toothed gear that cuts the magnetic field of the pickup. The output of the sensor is a square-wave ac voltage. This voltage is converted to a proportional dc voltage in a signal conditioner. </p>
+<p> Example 1: How to Calculate the Speed of an Object </p>
+<p> The procedure to show how to calculate the speed of an object is straightforward. In simple problems, distance and time are given, and one only needs to execute their division. </p>
+<p> Calculate the speed of a car that crosses a 200-meter bridge in 10 seconds. </p>
+<p> Solution: </p>
+<p> 𝑆=𝑑𝑡=200𝑚10𝑠=20𝑚/𝑠 </p>
+<p> In some situations, the formula can be used to find: </p>
+<p> Distance: when speed and time values are given, the formula can be applied as 𝑑<em>=</em>𝑆∗𝑡<em>.</em>
+</p>
+<p> Time: when speed and distance are given, the formula can be applied as 𝑡<em>=</em>𝑑𝑆<em>.</em>
+</p>

@@ -1,0 +1,9 @@
+<p>The last example explains how to convert meters to inches. We start with the same units as in the first example, but finish with different units. There will be two separate conversions. First, we convert from meters to feet. Then we convert from feet to inches. Remember, there are </p>
+<p>.</p>
+<p>Convert </p>
+<p>Feet to Meters</p>
+<p>Meters to Feet</p>
+<p>Miles to KM</p>
+<p>KM to Miles</p>
+<p>7 meters to inches.&#x2028;7 meters × 3.28084 feet</p>
+<p>&#x2028;</p>

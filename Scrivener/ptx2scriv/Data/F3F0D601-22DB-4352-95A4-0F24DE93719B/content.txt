@@ -1,0 +1,212 @@
+<p> Volume is the amount of three-dimensional space an object or substance occupies. It is a scalar quantity, meaning it has magnitude but no direction. The concept of volume is used to quantify the extent of a region in space and is typically expressed in cubic units. Volume measures capacity. </p>
+<p> 6.5.2 Units for Measuring Volume </p>
+<p> These are some of the most commonly used units for measuring volume, but there are others as well, depending on specific contexts and regions. Also, there may be <em>dry</em> or <em>wet</em> measures of volume. </p>
+<p> US Standard System: In the US standard system, volume is typically measured in cubic feet (ft³) or cubic inches (in³). </p>
+<p> The primary units for measuring volume include: </p>
+<p> Cubic Inch (in³): The cubic inch is a small unit of volume commonly used in engineering and manufacturing contexts. </p>
+<p> Cubic Foot (ft³): The cubic foot is a larger unit of volume often used in construction and real estate. One cubic foot is equivalent to the volume of a cube with sides of one foot. There are 1,728 cubic inches in one cubic foot. </p>
+<p> Fluid Ounce (fl oz): The fluid ounce is commonly used for measuring liquid volumes, especially in the context of beverages and cooking. </p>
+<p> Pint (pt): The pint is a unit of liquid volume. In the U.S., there are two types of pints: the liquid pint (equal to 16 fluid ounces) and the dry pint (used for measuring dry goods). </p>
+<p> Quart (qt): The quart is a unit of liquid volume. Like the pint, there are two types: the liquid quart (equal to 32 fluid ounces) and the dry quart. </p>
+<p> Gallon (gal): The gallon is a larger unit of liquid volume, equal to 128 fluid ounces. 1 US gallon is equivalent to 231 cubic inches. </p>
+<figure>
+   <caption/>
+   <image width="50%" source="images/image25.jpeg"/>
+   <!--Picture 2073195406-->
+</figure>
+<p> Barrel: The amount of liquid a barrel contains can vary depending on the type of barrel and its size. The most common types of barrels used for liquids are oil barrels and whiskey barrels. The standard size for an oil barrel is 42 US gallons (approximately 159 liters). However, there are also other sizes used in different regions and industries. It’s important to note that the capacity of a barrel can vary depending on its construction and specific dimensions, but these are the standard sizes for these types of barrels. </p>
+<figure>
+   <caption>Barrels</caption>
+   <image width="50%" source="images/image26.jpeg"/>
+   <!--Barrel-->
+</figure>
+<p> Drum: one common size is the 55-gallon drum, which is prevalent for industrial and commercial use. This drum can hold approximately 55 US gallons of liquid, which is roughly equivalent to 208 liters. </p>
+<figure>
+   <caption>Drums</caption>
+   <image width="50%" source="images/image27.jpeg"/>
+   <!--Made in USA - 55 Gal Drum Storage Rack | MSC Industrial Supply Co.-->
+</figure>
+<p> Metric System: The standard unit for measuring volume in the International System of Units (SI) is the cubic meter (m³) or cubic centimeters (cm³). </p>
+<p> Similar to the US standard system, the volume of regular-shaped objects is determined by multiplying the three dimensions in metric units. For example, if you have a rectangular prism with dimensions 2 meters by 4 meters by 1 meter: Volume = Length × Width × Height Volume = 2 m × 4 m × 1 m = 8 m³ </p>
+<p> In the metric system, volume is typically measured using the liter (L) as the standard unit. The liter is equivalent to 1 cubic decimeter (dm³). The cubic meter (m³) is the standard unit for larger volumes. Here are some common metric units for measuring volume: </p>
+<p> Cubic Meter (m³): The cubic meter is the SI unit for volume and is equal to the volume of a cube with sides of one meter. </p>
+<p> Liter (L): The liter is commonly used for everyday measurements of liquid volumes. One liter is equal to 1 cubic decimeter. </p>
+<p> Milliliter (mL): The milliliter is a smaller unit used for precise measurements of liquids. One milliliter is equal to one-thousandth of a liter. </p>
+<p> Cubic Centimeter (cm³): The cubic centimeter is often used in scientific and medical contexts for measuring the volume of small objects or substances. It is equivalent to one milliliter. </p>
+<p> In summary, the liter is the most common unit for expressing volume in the metric system, especially in everyday situations. The cubic meter is used for larger volumes, and smaller units like milliliters and cubic centimeters are used for more precise measurements. The metric system provides a straightforward and decimal-based system for measuring volumes, making it widely adopted in scientific and everyday applications around the world. </p>
+<p> The Ton: A Ton has a long history and has acquired several meanings and uses. </p>
+<p> Depending on context, a ton may refer to a unit measure of mass, volume or force. For volume, it could be a dry or wet measure. </p>
+<p> In transportation, one metric ton can be equal to one cubic meter (CBM) of volume. A CBM is a unit of measurement used in the shipping and transportation industries to show how much space a shipment takes up: 1 meter x 1 meter x 1 meter (or 1 cubic meter). </p>
+<p> The amount of liquid that one ton contains depends on the density of the liquid. Density is a measure of how much mass is contained in a given volume. </p>
+<p> Density is <em>the ratio of the mass to the volume</em> of a substance: </p>
+<p> Density =<m>\frac{Mass}{Volume}</m> = ρ = m / V </p>
+<p> Density of Water - US System </p>
+<p> Mass (m) refers to the amount of water measured in pounds (lbs.). </p>
+<p> Volume (V) refers to the volume of water measured in cubic feet (ft³). </p>
+<p> One cubic foot of water weighs 62.4 lbs. @ 39.2°F </p>
+<p> Density =<m>\frac{Mass}{Volume}</m>= 62.4 lbs. =<m>\frac{62.4lbs}{{1ft}^{3}}</m> = 62.4 lb./ft³ </p>
+<p> Density (ρ, rho): The density of water in pounds per cubic foot (lbs./ft³) is 62.4 lbs./ft³ </p>
+<p> Density of Water Metric System </p>
+<p> One cubic meter of water weighs 1000 kilograms (kg) @ 4°C </p>
+<p> Volume equals one cubic meter </p>
+<p> Density = <m>\frac{1000kg}{{1m}^{3}}</m> = 1000 kg/<m>m^{3}</m>
+</p>
+<p>
+   <em>English or Long Ton = 2240 lb. (1016.05 kg)</em>
+</p>
+<p>
+   <em>American or Short Ton' = 2000 lb. (907.18 kg)</em>
+</p>
+<p>
+   <em>Tonne or Metric Ton' = 1000 kg (2204.62 lb.)</em>
+</p>
+<p>
+   <em>Measurement or Shipping Ton = 1 cubic meter.</em>
+</p>
+<p> So, the volume of one ton of liquid depends on the density of the particular liquid you're considering. </p>
+<p> 6.5.3 Instruments for Measuring Volume </p>
+<p> When dealing with regular-shaped objects like cubes or rectangular prisms, you calculate the volume by multiplying the length, width, and height of the object. For instance, the volume of a cube with sides measuring 3 feet each is calculated as follows: Volume = Length × Width × Height Volume = 3 ft × 3 ft × 3 ft = 27 ft³. </p>
+<p> Various instruments are used to measure volume, and the choice of instrument depends on the nature of the substance being measured (solid, liquid, or gas) and the required level of precision. Here are some common measuring instruments for determining volume: </p>
+<p> A Graduated Cylinder is a cylindrical container marked with calibrated lines to indicate volume. It is commonly used in laboratories to measure the volume of liquids. </p>
+<figure>
+   <caption/>
+   <image width="50%" source="images/image28.jpeg"/>
+   <!--Measurement Uncertainty, Accuracy, and Precision (1.5) – Chemistry 110-->
+</figure>
+<p> Beakers are cylindrical or conical containers with volume markings. While they are not as precise as graduated cylinders, they are often used for approximate volume measurements. </p>
+<figure>
+   <caption>Beaker</caption>
+   <image width="50%" source="images/image29.jpeg"/>
+   <!--beaker - list of lab equipment-->
+</figure>
+<p> Pipettes are calibrated glass or plastic tubes used to measure and transfer small volumes of liquids with high precision. There are different types, including volumetric pipettes and micropipettes. </p>
+<figure>
+   <caption>Pipettes</caption>
+   <image width="50%" source="images/image29.png"/>
+   <!--Picture 1243325601-->
+</figure>
+<p> A burette is a long, graduated tube with a valve at the bottom. It is commonly used in analytical chemistry for precise dispensing of liquids. </p>
+<figure>
+   <caption>Burette</caption>
+   <image width="50%" source="images/image30.jpeg"/>
+   <!--Glass Burette - PTFE Stopcock (Class B) - 50ml-->
+</figure>
+<p> A gas syringe is used to measure the volume of gases in chemical reactions. The plunger is pushed or pulled to change the volume, and the graduations on the syringe indicate the volume of the gas. </p>
+<figure>
+   <caption/>
+   <image width="50%" source="images/gas-syringe.png"/>
+   <!--Collecting Gas using a Gas Syringe-->
+</figure>
+<p> Geometric Instruments (for Irregular Shapes): For irregularly shaped objects, displacement methods or geometric instruments like Archimedes' principle can be used to determine volume. </p>
+<p> Laser scanners use laser technology to create a three-dimensional point cloud representation of an object's surface. By analyzing the point cloud, engineers can calculate the object's volume with high accuracy. </p>
+<p> 6.5.4 Volume Measurements Aboard Ship </p>
+<p> In the nautical world, understanding volume measurements is crucial for various maritime activities and engineering projects. Two nautical-specific volume measurements are: </p>
+<p> Displacement Volume: In naval architecture, displacement volume refers to the volume of water displaced by a floating vessel, such as a ship or boat. It is an essential measurement for determining a vessel's buoyancy and stability. </p>
+<p> Cargo Capacity: For shipping and maritime logistics, measuring the cargo capacity of a vessel is vital. It involves calculating the available space inside the ship to transport goods, ensuring efficient and safe cargo handling. </p>
+<p> Along with these are the measurements of various liquids held in tanks aboard ships. To determine this we use <em>soundings.</em>
+</p>
+<p> What is Sounding? </p>
+<p> Checking the level of the fluid in a tank is considered part of the sounding process on ship. The final sounding value of the tank is the total quantity of fluid (oil, bilge, sludge, or water) inside a ship’s tank. The initial process is to first measure the depth of the fluid from the surface to the bottom of the tank by using sounding tape. </p>
+<p> The sounding tape value is later used in calculation of the final sounding value, which is derived using the sounding table, taking the list and trim of the ship into account and the temperature at which the fluid (specifically for oil) is stored (as density of oil is affected by temperature). </p>
+<p> Importance of Sounding </p>
+<p> Is it necessary to take soundings of various tanks every day? Yes. </p>
+<p> In some cases, the sounding has to be taken in every watch. A ship is a floating factory with several mechanical systems working continuously. These systems require fuel oil, lube oil and water to operate, and these fluids are consumed from service tanks or sump tanks. The service and sump tanks on a ship need to be sounded every watch to ensure the level is maintained. </p>
+<p> The service tanks and sump tanks levels are maintained by filling them up with appropriate fluid using storage tanks, which are sounded once in a day. </p>
+<p> The four most important operations which are dependent on the sounding values are: </p>
+<p> Stability of the Ship: The ship stability highly depends on how various fluids (oil, water, fluid cargo etc.) are stored to tackle the free surface effect, which is a very important factor for defining ship’s stability </p>
+<p> Voyage Planning: The current volume of fluids (oil, water etc.) in various tanks and the estimated volume needed to reach the next port or complete a voyage needs to be known before the ship sails. This is to ensure a minimum quantity is always maintained even when a ship is diverted to a longer route so that the essential fluids used to run machinery and systems do not get consumed early, which may leave the ship stranded. Also, to plan bunkering of fuel or receiving of fuel, vendors need to be notified well ahead of time for making arrangements in preferred port of call, hence sounding of all tanks in a ship is very important. </p>
+<p> Cargo Planning: The cargo loading and arrangement of the cargo at different bays or holds are performed by the planner based on the current stability of the ship. The knowledge of volume in various tanks is important to perform this task to avoid damage to the ship structure and to avoid any other risk to ship’s stability. </p>
+<p> For Assessing Leakages/Loss: Regular monitoring and keeping record of sounding for tanks containing oil and water is necessary for detecting unwanted leakages or loss of content from the tank. For example, if an oil storage tank which is not in use shows a decrease in the sounding value, it might be due to an open/malfunctioning valve of the tank or due to leakage from the tank. Also, the sounding values of service tanks in the engine room are used to determine the fuel/lube oil consumption by machinery. </p>
+<p> Methods for taking sounding on a ship </p>
+<p> Certain cargos carried on ships are toxic, hazardous and inflammable, hence various methods are provided on a ship to measure the volume in the tank. Some of the most common gauging methods used on ships are: </p>
+<p> Manual sounding </p>
+<p> All important tanks on ships are provided with sounding tubes through which a person can insert a sounding tape to measure the level in the tank manually. </p>
+<p> Sounding tape comes in meters or feet and is normally made up of brass and steel with a weighted bob attached at the end of the tape using a strap hook. See <xref ref="sounding-tape-1"/> and <xref ref="sounding-tape-2"/>. Sounding tape is the most commonly used method used for calculation of tank capacity. </p>
+<figure xml:id="sounding-tape-1">
+   <caption>Sounding Tape with Ullage and Plumb (Innage) bobs.</caption>
+   <image width="50%" source="images/image31.jpeg"/>
+   <!--Content Placeholder 5-->
+</figure>
+<figure xml:id="sounding-tape-2">
+   <caption>Sounding Tape with Innage Bob and Grounding Strap</caption>
+   <image width="50%" source="images/image30.png"/>
+   <!--Content Placeholder 5-->
+</figure>
+<p> Innage Sounding Value is the measure from the top of the liquid to the bottom of the sounding tube (using innage/plumb bob). See <xref ref="sounding-innage"/>below. </p>
+<figure xml:id="sounding-innage">
+   <caption>Innage Sounding</caption>
+   <image width="50%" source="images/image31.png"/>
+   <!--Content Placeholder 4-->
+</figure>
+<p> Ullage Sounding Value is the measure from the top of the liquid (using ullage bob) to the top of the sounding tube. See <xref ref="sounding-ullage"/>. </p>
+<figure xml:id="sounding-ullage">
+   <caption>Ullage Sounding</caption>
+   <image width="50%" source="images/image32.png"/>
+   <!--Content Placeholder 5-->
+</figure>
+<p> Electronic Sounding Gauges: In electronic sounding, a sensor is used which senses the pressure inside the sounding pipe or by sensing the tank pressure and sends a signal to the receiver. Here the signal is translated to the tank’s content value with the help of a PLC circuit. The value is displayed using an electrically operated servo gauge or electrical capacitance gauge. </p>
+<p> Electrically Powered Servo-Operated Gauges: This tank gauging system is based on the principle of displacement measurement. A small displacer is accurately positioned in the liquid medium using a servo motor. The displacer is suspended on a measuring wire that is wound onto a finely grooved drum housing within the instrument. </p>
+<p> Pneumercator (Bubbler) Gauges: This gauging system works on the principle of hydrostatic pressure measurement to determine liquid level. The pressure created by the actual depth of liquid is fed to the gauge which moves the reading until an equilibrium is reached. </p>
+<figure>
+   <caption>Pneumercator (Bubbler) Gage</caption>
+   <image width="50%" source="images/image32.jpeg"/>
+   <!--Content Placeholder 7-->
+</figure>
+<p> Ultrasonic Gauges: This works on principle similar to that of an echo sounder wherein an ultrasonic wave is thrown from the gauge. The sensor detects the echo from the surface and routes it back to the microprocessor for a digital representation of the distance between the sensor and the surface level. </p>
+<p> Mechanical Sounding Gauges: Mechanical provisions are made inside the tank so that the quantity of a tank can directly be read through a level marker, an indicator, or a float level sensor. In the tank a float can be attached to a pointer through a pulley. As the level varies, the pointer reading will change accordingly. A level gauge glass is also attached to the tank to read the quantity of the fluid inside the tank. The gauge may also be a pneumatic/hydraulic operated gauge or differential pressure gauge. </p>
+<p> Bunkering or Taking on Fuel Oil Aboard Ship </p>
+<p> Bunker Calculation: Bunker quantity calculations are critical calculations which every marine engineer should be familiar with throughout his/her career. Bunker fuel, being a highly valued product, has to be very carefully and accurately calculated for determining the quantity. </p>
+<p> The volume of a definite quantity of bunker increases with an increase in temperature whereas its weight remains the same. For this reason, the bunker is always ordered and measured in weight and not by volume. </p>
+<p> The density of fuel oil (in kg/<m>m^{3}</m>) at a standard reference temperature of 15⁰C is always provided by the supplier in <em>Bunker Delivery Note</em>. With this, the density of fuel oil at tank temperature can be determined using an ASTM table or using software most commonly installed on all ship’s computer. </p>
+<figure>
+   <caption>ASTM Table</caption>
+   <image width="50%" source="images/image33.png"/>
+   <!--marine cargo ship surveyors-->
+</figure>
+<figure>
+   <caption>Bunker Weight</caption>
+   <image width="50%" source="images/image34.png"/>
+   <!--tank weight-->
+</figure>
+<p> FORMULAS for Calculating Volume of different shapes </p>
+<p> The method for measuring volume depends on the shape of the object. For simple shapes like cubes, rectangular prisms, cylinders, and spheres, there are specific formulas you can use. For example: </p>
+<p> Cube: The volume of a cube or rectangular prism is calculated by multiplying the length, width, and height. </p>
+<p> The volume, V, of a <em>cube</em> with edge, s, is: </p>
+<p> V = s<m>3</m>
+</p>
+<figure>
+   <caption>Cylinder</caption>
+   <image width="50%" source="images/image35.png"/>
+   <!--Picture 112-->
+</figure>
+<p> The volume of a cylinder is calculated by multiplying the area of its base (usually a circle) by its height. </p>
+<p> V = π r<m>2</m> h </p>
+<p> where r is the radius of the base and h is the height of the cylinder. </p>
+<figure>
+   <caption>Sphere</caption>
+   <image width="50%" source="images/image36.png"/>
+   <!--Picture 111-->
+</figure>
+<p> The volume, V, of a sphere with radius, r, is: </p>
+<p> The volume of a sphere is calculated using the formula V = (4/3) πr<m>3</m>. </p>
+<figure>
+   <caption>For irregularly shaped objects, you can use techniques like water displacement, where you submerge the object in water and measure the volume of water displaced.</caption>
+   <image width="50%" source="images/image37.png"/>
+   <!--Picture 110-->
+</figure>
+<figure>
+   <caption>For irregularly shaped objects, you can use techniques like water displacement, where you submerge the object in water and measure the volume of water displaced.</caption>
+   <image width="50%" source="images/image38.png"/>
+   <!--Picture 109-->
+</figure>
+<p> Examples of Volume (capacity) </p>
+<p> The basic unit of volume in the metric system is a cube, 10 centimeters on each side. Contained in this cube are 1,000 cubic centimeters or one liter. A liter contains slightly more liquid than a quart. Very large volumes may be measured in cubic meters (1 cubic meter = about 264 gallons). </p>
+<p>
+   <em>Liquid Measure</em>
+   <!-- linebreak -->1 liter = 1.057 (1) quart<!-- linebreak -->1 quart = .9464 (1) liter<!-- linebreak -->1 liter = .2642 (.25) gallons<!-- linebreak -->1 gallon = 3.785 (4) liters<!-- linebreak -->1 dekaliter (dal) = 2.642 (2.5) gallons </p>
+<p>
+   <em>Dry Measure</em>
+   <!-- linebreak -->1 cubic meter = 1.308 (1.3) cubic yards<!-- linebreak -->1 cubic yard = .7646 (.76) cubic meters<!-- linebreak -->1 bushel = 1.244 (1.25) cubic feet<!-- linebreak -->1 bushel = .0352 (.035) cubic meters<!-- linebreak -->1 cubic meter = 28.38 (30) bushels </p>
+<p> Understanding volume is essential in various scientific fields, including physics, chemistry, engineering, and biology. It is used to describe the capacity of containers, the displacement of fluids, the size of objects, and many other aspects of spatial measurements. </p>
+<p> In summary, you can calculate volume using specific formulas depending on the shape of the object. </p>
+<p> Mastering the concept of volume will be indispensable in your engineering endeavors. Whether you're designing structures, analyzing fluid flows, or working on nautical projects, understanding volume measurements will enable you to tackle complex challenges and create innovative solutions that shape the world around us. </p>

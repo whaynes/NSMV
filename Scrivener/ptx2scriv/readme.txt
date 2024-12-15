@@ -1,0 +1,35 @@
+Work in progress 8/14/19
+
+This reads a pretext file and creates a document which can be opened by scrivener.
+
+It's not finished, but basically working.
+
+Temporary Files are
+Data/  holds text/rtf files for import to scrivener
+structure.xml  holds intermediate structure analysis of ptx doc
+binder-out.xml  holds binder children for import into scivx
+
+To use:
+
+1.  Start by opening the  PreTeXt_shell.scriv file and moving everything from the drafts folder to the trash, empty trash and close file.  This file will be stuffed with the pretext files
+
+2.  Setup the ptx2scriv scenario in oxygen to run the ptx2scriv.xsl against a pretext file and execute it.   
+
+This should create a folder called "Data" full of files, and a binder-out.xml file which is the scrivener binder description for these files.
+
+3.  Run the makefile with 'make' 
+
+This should 
+  a. convert the .txt files in the Data folder to .rtf file using textutil
+  b. move them into the .scriv file
+  c. run StuffBinder.xsl against the binder to put the binderItems into the drafts folder.
+  d. run add_styles.rb to update the rtf to include character and paragraph styles 
+  
+  
+4. Open the .scriv file and run "save and rebuild search indexes" 
+
+TODO
+I need to improve add_styles.rb to include more styles and work better
+There's a particular problem with lists, because <p><ul><li><p>text</p></li></ul></p>  ie. nested p tags.
+I need to work on scrivener's compile and style formats to make scrivener output ptx
+I need to work on ptx2scriv to include section types into the binder

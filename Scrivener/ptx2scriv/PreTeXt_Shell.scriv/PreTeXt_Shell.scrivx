@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="7230DFF0-D98F-4CD3-826E-BAA953D9CA8C" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="whaynes-MBP" Author="" Modified="2024-07-16 08:24:52 -0400" ModID="6831518A-3A82-4928-8E43-D23434CC7FE1">
+    <Binder>
+        <BinderItem UUID="4497343D-E609-408A-B00A-2B537F7BADFD" Type="DraftFolder" Created="2019-08-02 15:16:02 -0400" Modified="2019-08-02 15:16:02 -0400">
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="BEE182DB-ED55-426A-B5DD-FD93E1D03FBB" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:44:32 -0400">
+                    <Title>Document</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="BFCB3BAE-6ED0-4A20-8413-C141BD71F759" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                            <Title>Engineering Measurement</Title>
+                            <MetaData>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>ptx-container</FieldID>
+                                        <Value>chapter</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>xml:id</FieldID>
+                                        <Value>engineering-measurement</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B030C9BA-7521-426C-A8B7-D10B8C13992D" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:27 -0400">
+                                    <Title>introduction</Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>introduction</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="ABD0F88E-3CE6-406A-900A-1D803B709B76" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:44:32 -0400">
+                                    <Title>Length</Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>section</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>xml:id</FieldID>
+                                                <Value>engineering-measurement-length</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="BE45EAB0-A2EC-487F-B3F8-4D76EA4B683A" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                            <Title>A Brief History</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>engineering-measurement-a-brief-history</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="E9E3E038-6015-43B9-9418-3594D21D7E09" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                            <Title>Length Units</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>engineering-measurement-length-units</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="1411F535-A340-473A-9397-28500014AD8C" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                            <Title>Length Measuring Instruments</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>engineering-measurement-length-measuring-instruments</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="A053EDF5-66BB-4EEB-B89D-ABB7A91FE02F" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                            <Title>Unit Conversions</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>engineering-measurement-unit-conversions</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="9232AC1A-ABDE-42E1-AF9B-54E5A7FE87AD" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                            <Title>Example</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>engineering-measurement-example</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="27E11326-AFE0-4262-ADC9-F91B7F5D7E28" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:47 -0400">
+                                            <Title>Example Problem</Title>
+                                            <MetaData>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>ptx-container</FieldID>
+                                                        <Value>subsection</Value>
+                                                    </MetaDataItem>
+                                                    <MetaDataItem>
+                                                        <FieldID>xml:id</FieldID>
+                                                        <Value>engineering-measurement-example-problem</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="3592C410-2EC8-44F2-8C27-DDAC4089A648" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                    <Title>Temperature</Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>section</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="74492A22-B2A5-4D26-BACE-BB1ED4140D5B" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                    <Title>Pressure</Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>section</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="911EE128-D66D-426F-81C9-FF0B7775E61A" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                    <Title>Mass</Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>section</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="9B6EC49B-3BEE-4956-B52C-CF4D2DBCF522" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                    <Title>Time</Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>section</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="78C59153-9A62-4F75-9982-B89A136156B8" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                    <Title>Area</Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>section</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="F3F0D601-22DB-4352-95A4-0F24DE93719B" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                    <Title>Volume</Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>section</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="6D39C865-7A4A-4A2E-BD93-587F83822D79" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                    <Title> Torque </Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>section</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="03148E26-97A3-4FFF-B0B4-B2CE8952ACAD" Type="Folder" Created="2024-07-12 09:44:32 -0400" Modified="2024-07-12 09:45:14 -0400">
+                                    <Title>Power</Title>
+                                    <MetaData>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>ptx-container</FieldID>
+                                                <Value>section</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="9B32606B-7EB8-4CB3-88BA-E8B1B8D1D915" Type="ResearchFolder" Created="2019-08-02 14:45:13 -0400" Modified="2019-08-02 14:45:13 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="68F9DB8A-73A7-4E9C-9336-36748787D6CB" Type="Text" Created="2019-08-11 18:03:04 -0400" Modified="2024-07-12 09:45:14 -0400">
+                    <Title>Style Samples</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>141,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C3C64DBB-A9B2-4E3F-A572-B6BD764C531E" Type="Folder" Created="2024-04-26 21:14:19 -0400" Modified="2024-07-12 09:45:14 -0400">
+                    <Title>article</Title>
+                    <MetaData>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>ptx-container</FieldID>
+                                <Value>article</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="9B84E92B-6673-449E-B52B-DE93F318FCC2" Type="TrashFolder" Created="2019-08-02 14:45:13 -0400" Modified="2019-08-02 14:45:13 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48952820-3CA1-4C9E-BB93-E3EE69EEEA83" Color="1.0 1.0 1.0">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="AA3D5B2E-5662-4D3A-B5D3-07710DB02173" Color="0.922173 0.818612 0.999627">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">&lt;$</SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="3D5834D2-A007-48E2-AE1F-323E9E479C16">document</Type>
+            <Type ID="05C14891-B2CC-4849-985B-DCCD09D31D57">pretext</Type>
+            <Type ID="D0EB5383-8568-4684-9439-BAF61DDBA66E">book</Type>
+            <Type ID="F82A4B0D-0CCC-4E6E-9853-C79843A0117E">chapter</Type>
+            <Type ID="063CDB4B-01A0-4A7F-A2A9-8B10168ABEFA">section</Type>
+            <Type ID="F51973C4-9434-45C8-BB6D-D690AC714F0E">subsection</Type>
+            <Type ID="A7742824-F74C-4A44-8EF0-885E668C5D73">subsubsection</Type>
+            <Type ID="44C6378D-A93D-4430-853F-231D74ED1117">use-title</Type>
+            <Type ID="4BC1D167-9197-4F91-96EA-17A8EE79295B">as-is</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>3D5834D2-A007-48E2-AE1F-323E9E479C16</Type>
+                <Type>05C14891-B2CC-4849-985B-DCCD09D31D57</Type>
+                <Type>D0EB5383-8568-4684-9439-BAF61DDBA66E</Type>
+                <Type>F82A4B0D-0CCC-4E6E-9853-C79843A0117E</Type>
+                <Type>063CDB4B-01A0-4A7F-A2A9-8B10168ABEFA</Type>
+                <Type>F51973C4-9434-45C8-BB6D-D690AC714F0E</Type>
+                <Type>A7742824-F74C-4A44-8EF0-885E668C5D73</Type>
+            </Folders>
+            <Containers>
+                <Type>4BC1D167-9197-4F91-96EA-17A8EE79295B</Type>
+            </Containers>
+            <Files>
+                <Type>4BC1D167-9197-4F91-96EA-17A8EE79295B</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <CustomMetaDataSettings>
+        <MetaDataField ID="xml:id" Type="Text" Wraps="No" Align="Left">
+            <Title>xml:id</Title>
+        </MetaDataField>
+        <MetaDataField ID="ptx-container" Type="Text" Wraps="No" Align="Left">
+            <Title>ptx-container</Title>
+        </MetaDataField>
+        <MetaDataField ID="otherattributes" Type="Text" Wraps="No" Align="Left">
+            <Title>Other Attributes</Title>
+        </MetaDataField>
+    </CustomMetaDataSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-08-02 14:45:12 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-07-17 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2024-07-16 08:24:47 -0400"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2024-07-16 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

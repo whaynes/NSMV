@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="./docinfo.ptx"/>
+
+  <book xml:id="NSMV-TM">
+    <title>Engineering Training Manual</title>
+    <subtitle>Training Ship Patriot State</subtitle>
+    <xi:include href="./frontmatter.ptx"/>
+    <xi:include href="./TSPS.ptx"/>
+    <xi:include href="./main-propulsion.ptx"/>
+  </book>
+</pretext>

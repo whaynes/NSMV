@@ -1,0 +1,97 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cambria;\f2\fnil\fcharset0 Cambria-Bold;
+\f3\fnil\fcharset0 Cambria-Italic;\f4\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red201\green219\blue252;\red16\green128\blue214;
+\red6\green20\blue127;\red97\green16\blue51;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c82745\c89020\c99216;\csgenericrgb\c6100\c50000\c84000;
+\cssrgb\c2000\c14900\c57300;\cssrgb\c46300\c11000\c25900;}
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf0 <$Scr_Ps::0>
+\f1\fs32 The 
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 unit-factor method
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  or the 
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 unity bracket method
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  is a widely used method for unit conversions using the rules of algebra. This method utilizes\cb3  the fact that any number or expression can be multiplied by one (unity) without changing its value\cb1 .  The advantage of this method is that it explicitly accounts for units, rather than treating a conversion factor as a 
+\f0\fs24 \cf2 <$Scr_Cs::3>
+\f3\i\fs32 magic number
+\f0\i0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32 .\
+To use this method, conversion factors are expressed as fraction equal to 
+\f0\fs24 \cf2 <$Scr_Cs::3>
+\f3\i\fs32 one
+\f0\i0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32 , and multiplied against the original value while keeping careful track of the units in each term. Multiplying a value by a unit-factor and canceling any dimensional units appearing in both the numerator and denominator will express the original quantity in different units. \
+For example, since 
+\f0\fs24 \cf4 <$Scr_Cs::4>
+\f4\fs32 \\inch\{1\} = \\cm\{2.54\}
+\f0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32 , dividing both sides by 
+\f0\fs24 \cf4 <$Scr_Cs::4>
+\f4\fs32 \\inch\{1\}
+\f0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  inch gives the unit-factor<me> 1 = \\left[\\frac\{\\cm\{2.54\}\}\{\\inch\{1\}\}\\right]</me>.  The fraction bar in this term can be read as <q>per</q>, so this unit-factor says that there are <q>2.54 centimeters per inch</q>.\
+To convert 
+\f0\fs24 \cf4 <$Scr_Cs::4>
+\f4\fs32 36
+\f0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  inches to cm, just multiply by 
+\f0\fs24 \cf4 <$Scr_Cs::4>
+\f4\fs32 36
+\f0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  inches by the appropriate unit-factor, and cancel the inch units that appear in both the numerator and denominator.\
+<me>\\inch\{36\}  \\times \\left[\\frac\{\\cm\{2.54\} \}\{\\inch\{1\}\}\\right] =  36 \\cancel\{\\text\{ in\}\} \\times \\left[\\frac\{2.54 \\text\{ cm\}\}\{\\cancel\{1 \\text\{ in\}\}\}\\right] = \\cm\{91.44\}</me>\
+To convert from cm to inches, use the reciprocal of this unit-factor, which is also unity.\
+<me>\\cm\{100\}  \\times \\left[\\frac\{\\inch\{1\}\}\{\\cm\{2.54\} \}\\right] =  100 \\cancel\{\\text\{ cm\}\} \\times \\left[\\frac\{1 \\text\{ in\}\}\{2.54 \\cancel\{\\text\{ cm\}\}\}\\right] = \\inch\{39.37\}</me>\
+Thus 
+\f0\fs24 \cf4 <$Scr_Cs::4>
+\f4\fs32 \\yd\{1\}
+\f0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  (
+\f0\fs24 \cf4 <$Scr_Cs::4>
+\f4\fs32 \\inch\{36\}
+\f0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32 ) is a bit shorter than a meter (
+\f0\fs24 \cf4 <$Scr_Cs::4>
+\f4\fs32 \\cm\{100\}
+\f0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32 ), and 
+\f0\fs24 \cf4 <$Scr_Cs::4>
+\f4\fs32 \\m\{1\}
+\f0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  is a little more than 
+\f0\fs24 \cf4 <$Scr_Cs::4>
+\f4\fs32 \\inch\{39\}.
+\f0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32 \
+Unit conversion is often easier 
+\f0\fs24 \cf2 <$Scr_Cs::3>
+\f3\i\fs32 within
+\f0\i0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32  the the SI system, since the relations between units are logical, and the prefixes increase or decrease by <m>10^3</m>, so unit conversions can often be done in your head.\
+\pard\tx720\tx1395\sb400\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf5 <!$Scr_Ps::0><$Scr_Ps::1>
+\f1\fs32 Several different conversion factors can be applied sequentially or simultaneously until only the desired set of dimensional units remains. This way, you only need to remember a few common conversion factors to make many different conversions.  Here are some relations that you should remember:\
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf6 \CocoaLigature0 <!$Scr_Ps::1>
+\f4\fs28 <md>\
+<mrow> \\mi\{1\}  \\amp = \\ft\{5280\} </mrow>\
+<mrow> \\ft\{1\}  \\amp = \\inch\{12\} </mrow>\
+<mrow> \\yd\{1\}  \\amp = \\ft\{3\}</mrow>\
+<mrow> \\inch\{1\} \\amp = \\cm\{2.54\} </mrow>\
+<mrow> \\m\{1\} \\amp= \\cm\{100\} </mrow>\
+<mrow> \\hr\{1\}   \\amp = \\minute\{60\} </mrow>\
+<mrow> \\minute\{1\}  \\amp = \\second\{60\}</mrow>\
+</md></p>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf0 \CocoaLigature1 <$Scr_Ps::0>
+\f1\fs32 With these values we can find the conversion factor between miles per hour and meters per second, as shown in the next example.\
+More conversion factors available in <xref ref="conversion-factor-pdf"/> or online.
+\f0\fs24 <!$Scr_Ps::0>}

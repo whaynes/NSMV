@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="main-propulsion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Main Propulsion System</title>
+  <section xml:id="main-propulsion-main-engines">
+    <title>Main Engines</title>
+    <p>Turbocharged, 4-stroke, single acting, trunk piston, non-reversible, direct fuel injection</p>
+    <figure xml:id="main_engine_generator" landscape="yes">
+      <caption>Main Engine and Generator</caption>
+      <image source="images/main_engines_er1.jpeg">
+        <remix>
+          <source>own work weh</source>
+        </remix>
+      </image>
+    </figure>
+    <table xml:id="main_engine_info">
+      <title/>
+      <tabular>
+        <row header="yes">
+          <cell>Manufacturer</cell>
+          <cell>GE Wabtec</cell>
+        </row>
+        <row>
+          <cell>Model</cell>
+          <cell>16 V250MDC</cell>
+        </row>
+        <row>
+          <cell>Maximum Continuous Power</cell>
+          <cell>4200 kW  (5632 hp)</cell>
+        </row>
+        <row>
+          <cell>Rated Speed</cell>
+          <cell>900 rpm</cell>
+        </row>
+        <row>
+          <cell>Arrangement and number of Cylinders</cell>
+          <cell>V-16</cell>
+        </row>
+        <row>
+          <cell>Bore</cell>
+          <cell>250 mm (9.8 in)</cell>
+        </row>
+        <row>
+          <cell>Stroke</cell>
+          <cell>320 mm (12.6 in)</cell>
+        </row>
+      </tabular>
+    </table>
+  </section>
+</chapter>

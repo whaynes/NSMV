@@ -1,0 +1,127 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cambria;\f2\fnil\fcharset0 Cambria-Bold;
+\f3\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red97\green16\blue51;\red6\green20\blue127;
+\red65\green107\blue34;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c46300\c11000\c25900;\cssrgb\c2000\c14900\c57300;
+\cssrgb\c31800\c48600\c17600;}
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf0 <$Scr_Ps::0>
+\f1\fs32 Next, we will describe the operation of one simple and common motor controller: an 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 across-the-line
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  starter.  It is given this name because the controller connects the motor\'92s stator windings directly across the power lines and starts it using full line voltage. This type of motor controller is very common, and is worth studying as its basic control circuit is the foundation of many other devices.\
+The power and control circuits for an across-the-line starter are shown in <xref ref="fig_motor_controller"/>. The circuit consists of two parts: the three-phase power circuit (blue) , which connects the power supply, entering from the left, to the motor, and the single-phase control circuit (black) which is responsible for the control functions. \
+The power circuit consists of a circuit breaker (1), three main contacts (2),  three overload sensors (3), and connections to the motor (4). The control circuit consists of two control fuses (5), start (6) and stop (7) buttons, an auxiliary relay, (8), the contactor operating coil (9), and normally closed overload relay contacts (10).\
+\
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 <figure xml:id="fig_motor_controller">\
+<caption> Across-the-line starter  </caption>\
+<image width="90%" source="images/motor_controller">\
+<remix> <source>whaynes@maritime.edu cc0</source></remix>\
+</image>\
+</figure>
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \
+\pard\sb240\partightenfactor0
+
+\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 \
+\pard\tx720\tx1395\sb400\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf4 <!$Scr_Ps::0><$Scr_Ps::2>
+\f1\fs32 The operation is as follows: <ol>\
+\pard\tx560\pardeftab720\sl336\slmult1\sb60\sa60\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf5 <!$Scr_Ps::2><$Scr_Ps::3>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 The 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 start button
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is a momentary push-to-close switch. When it is closed, it completes the control circuit, and energizes the main operating coil. \
+The 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 main operating coil
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is part of the 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 contactor
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  assembly<fn>The contactor assembly consists of the coil (9), and contacts (2), and (8).  When the coil is de-energized, the contacts are held open by a spring.  When it is energized, the coil closes the contacts electromagnetically. </fn>. When the main operating coil energizes it closes three 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 main contacts
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539   in the power circuit and the 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 auxiliary contact
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  in the control circuit. \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf3 <!$Scr_Ps::3><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 <li>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 Closing the main contacts completes the circuit between the power supply and the motor, allowing current to flow directly to the motor's terminals and start the motor.\
+Since the auxiliary contact is  wired in parallel with the start button, after it closes the start button may be released and the motor will continue to operate.  For this reason, the auxiliary contact is sometimes called the 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 latch
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  contact.\
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 </li>\
+<li><p>The motor will continue to run until one of the following happens:<ul>\
+\pard\tx560\pardeftab720\sl336\slmult1\sb60\sa60\pardirnatural\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf5 <!$Scr_Ps::1><$Scr_Ps::3>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 The 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 stop button
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is pressed.  This breaks the control circuit and de-energizes the main coil.  This causes the main and auxiliary contacts to open and stop the motor.\
+One of the three 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 overload sensors
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  detects the motor drawing high current.  This opens the corresponding 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 overload contact
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  in the control circuit and stops the motor.\
+A 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 short circuit
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is detected by the 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 circuit breaker
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 , tripping it.  This secures power to both the power and control circuits and stops the motor.  Fuses will de-energize the control circuit if a short occurs there.\
+A 
+\f0\fs24 \AppleTypeServices \cf2 <$Scr_Cs::4>
+\f3\b\fs28 low voltage condition
+\f0\b0\fs24 \cf5 <!$Scr_Cs::4>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  occurs when the supply voltage drops below about 90% of its nominal value.  If this happens, the current through the operating coil decreases, causing its electromagnet to weaken enough to release the main contacts, which stops the motor.  If the voltage returns to normal, the motor will remain stopped until the start button is pressed again.\
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf3 <!$Scr_Ps::3><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 </ul></p></li></ol></p>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 A motor which does not restart after a power failure is described as having 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 Low Voltage Protection
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  (LVP).  The alternate behavior, where the motor automatically restarts after a power failure is called  
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 Low Voltage Release
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  (LVR).  Critical machinery such as the steering gear and lube oil pumps have LVR, while other machines have LVP.
+\f0\fs24 <!$Scr_Ps::0>}

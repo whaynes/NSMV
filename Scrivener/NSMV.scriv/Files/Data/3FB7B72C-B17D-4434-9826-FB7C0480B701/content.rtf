@@ -1,0 +1,308 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Arial-BoldMT;\f1\froman\fcharset0 Times-Roman;\f2\fswiss\fcharset0 ArialMT;
+\f3\ftech\fcharset0 Wingdings-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid101\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\deftab720
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs26\fsmilli13333 \cf2 \expnd0\expndtw0\kerning0
+Dc link voltage (Excitation voltage) 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 The DC Link Voltage is internally measured from rectified voltage of excitation input power. This signal is used for protective function and monitoring purpose. The monitored excitation voltage of the HDCM software is not value directly measured from excitation output terminal but calculated from dc link voltage by using PWM duty and voltage drop of power module (IGBT). 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs26\fsmilli13333 \cf2 Excitation current 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 This signal is internally measured from output current of power module (IGBT) by using of current sensor installed in HDEC2000 unit. This signal is used for the excitation current control, over excitation limitation, protective functions and monitoring purpose. 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs26\fsmilli13333 \cf2 Excitation power 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 Three kinds of Excitation input power source (Shunt power, PMG power and External utility) are available. Three phase ac. source, single phase ac. source, or dc power source is usable and the permissible maximum voltage is 260Vac or 360Vdc. The input power is rectified and smoothed by capacitor, and then supplied to excitation winding through the power module (IGBT). 
+\f1\fs24 \
+
+\f2\fs26\fsmilli13333 The current ratings of excitation input power source and all other components carrying excitation current are not calculated from the power rating of HDEC2000 unit, but should be determined from design data of the generator. 
+\f1\fs24 \
+
+\f2\fs26\fsmilli13333 If the excitation input voltage is much higher than the excitation requirement, the dynamic response is improved but control accuracy or stability may be reduced.\uc0\u8232 On the other hand if the margin of excitation input voltage is a little bit higher than excitation requirement, the control accuracy or stability may be improved, but the dynamic response may be very poor. The balance between dynamic response and control accuracy is the first consideration in the designation of excitation system (input power). See Appendix C (Specification) for more information. 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs26\fsmilli13333 \cf2 Control power 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 HDEC2000 unit does not require the external control power for the most of application. In case of external control power is supplied depending on application, some consideration may be made. For more information, see Voltage Buildup function of this section, section 2 (Installation and Hardware) and Appendix C (Specification). 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs32 \cf2 Digital (Relay) Output 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 HDEC2000 unit provides three programmable output relays and one watchdog relay. The output relays are controlled by DSP (digital signal processor) and the power rating is 250Vac, 10A.\uc0\u8232 Even though the current rating of relays is 10A, we strongly recommend that the output relay be used with the control purpose only for the robustness of overall excitation system. 
+\f1\fs24 \
+
+\f2\fs26\fsmilli13333 If the output relay is connected with reactive load (ex: relay coil) in dc circuit, the load should have freewheeling diode across the load terminals, or the freewheeling diode should be installed externally to protect the circuit against switching arc. 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs26\fsmilli13333 \cf2 Programmable Output relay #1 to #3 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 The output relay#1 to #3 can be assigned for any functions (or events) listed below. When the assigned function or event is activated, the output relay is also energized and latched (if assigned for fault event). The logic of each relay contact can be configured with normally opened (NO) or normally closed (NC). 
+\f1\fs24 \
+
+\f2\fs26\fsmilli13333 More than one function can be assigned simultaneously for one relay. In this case, the logical combination (combined with OR logic) determines whether the output relay is energized or not. Assignable fault events (or functions) are listed below: 
+\f1\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \cf2 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 generator over voltage 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 generatorundervoltage 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 generatorovercurrent 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 excitationovercurrent 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 lossoffield 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 lossofsensing 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 lossofpower 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 DFM(diodefaultmonitor)opendiodealarm 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 DFM(diodefaultmonitor)shortdiodefault 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 shortcircuitexcitationoutput 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 excitationonstatus 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 FCRstatus 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 secondaryunitstatus(notsupportednow) 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 localMode 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 modemismatch 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 uppersetpointlimitationstatus 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 lowersetpointlimitationstatus 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 OELstatus 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 UELstatus 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 SCLstatus 
+\f1\fs24 \uc0\u8232 \
+\ls1\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 UFL(V/Flimiter)status 
+\f1\fs24 \uc0\u8232 
+\f0\b\fs26\fsmilli13333 Watchdog relay 
+\f1\b0\fs24 \uc0\u8232 
+\f2\fs26\fsmilli13333 Watchdog process detects the abnormal software execution. The watchdog process energizes the watchdog 
+\f1\fs24 \uc0\u8232 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 relay when the abnormal software execution is detected, and then its output contact will be closed. The logic of watchdog relay is normally open. Also, if the abnormal software execution is detected, the excitation power output is shut downed by HDEC2000 unit to prevent the damages of the generator, system and the HDEC2000 unit. 
+\f1\fs24 \
+
+\f2\fs26\fsmilli13333 In case of critical application, we recommend that the excitation power input be disconnected for overall system protection if watchdog relay contact is closed 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs32 \cf2 Peripheral Device 
+\fs26\fsmilli13333 Communication and User interface 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 The communication ports consist of RS232 (COM0), CAN (COM1) and RS485 (COM2) ports. For more information about communication, see section 4 (Configuration) and separated MODBUS communication manual.\uc0\u8232 For Information about User interface, see section 5 (User Interface). 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs26\fsmilli13333 \cf2 Memory usage and configuration 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 Three types of memories (Flash memory, RAM and EEPROM) are internally used for HDEC2000 unit operation. EEPROM stores configuration parameters, and user can access (readable and writable) to this information via HDCM software. Executable control software code (firmware) is stored in the nonvolatile Flash memory integrated in the DSP. RAM is used for temporary data storage, and it is also integrated in the DSP. 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs32 \cf2 OPERATIONAL FUNCTION 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 This section describes control modes, limitation functions and protective functions of HDEC2000 unit. The helpful technical information is also described for understanding the internal architecture of the unit. 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs32 \cf2 Regulation Mode and More 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs26\fsmilli13333 \cf2 Controller (Function block) and Control gain 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs26\fsmilli13333 \cf2 HDEC2000 unit has four regulation (operating) modes called FCR, AVR, VAR and PF mode. One regulation mode is selected depending on the combination of digital input(s) and configuration parameters. 
+\f1\fs24 \
+
+\f2\fs26\fsmilli13333 Each regulation functions are performed by its controller (sometimes called software function block) containing adjustable control gains, and each controller controls the target parameter such as voltage, excitation current, reactive power or power factor by using control gains. Thus, the control gain is one of the major parameters which determine the dynamic (or static) response or steady state stability of generator and excitation system. 
+\f1\fs24 \
+
+\f2\fs26\fsmilli13333 Four major control gains are used for each controller. Some controller has all four control gains or more and other controller has only two control gains. The simplified description of each control gains are listed below 
+\f1\fs24 \
+
+\f2\fs26\fsmilli13333 LoopGainK
+\fs16 \dn6 G
+\fs26\fsmilli13333 \up0 :scalinggain,determinestheoverallresponse\uc0\u8232 
+\f1\fs24 \
+
+\f2\fs26\fsmilli13333 ProportionalGainK
+\fs16 \dn6 P
+\fs26\fsmilli13333 \up0 :Improvetransientresponse 
+\f1\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls2\ilvl0
+\f3\fs21\fsmilli10667 \cf2 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 Integral Gain K
+\fs16 \dn6 I
+\fs26\fsmilli13333 \up0 : improve steady state error and recovery speed 
+\f1\fs24 \uc0\u8232 \
+\ls2\ilvl0
+\f3\fs21\fsmilli10667 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\'a0
+\f2\fs26\fsmilli13333 Derivative Gain K
+\fs16 \dn6 D
+\fs26\fsmilli13333 \up0 : Improve the steady state stability and initial response 
+\f1\fs24 \uc0\u8232 
+\f2\fs26\fsmilli13333 For more detailed information about control gains tuning and controller structure, see section 4 (Configuration) and Appendix B (Mathematical Models). 
+\f1\fs24 \uc0\u8232 
+\f0\b\fs26\fsmilli13333 FCR mode 
+\f1\b0\fs24 \uc0\u8232 
+\f2\fs26\fsmilli13333 FCR regulation mode controls the excitation current by setpoint. HDEC2000 unit measures the excitation current and compares it with commanded setpoint. And the unit controls the excitation current so that the excitation current be equal to [FCR Setpoint]. FCR controller is PI (proportional, integral) controller which has K
+\fs16 \dn6 G
+\fs26\fsmilli13333 \up0 , K
+\fs16 \dn6 P
+\fs26\fsmilli13333 \up0 , and K
+\fs16 \dn6 I
+\fs26\fsmilli13333 \up0 . In the FCR mode, over excitation limiter, stator current limiter, under-excitation limiter and the under frequency limiter are not enabled. 
+\f1\fs24 \uc0\u8232 
+\f2\fs26\fsmilli13333 FCR mode is normally used for commissioning or selected for the application which requires manual control like test bench system. 
+\f1\fs24 \uc0\u8232 
+\f0\b\fs26\fsmilli13333 AVR mode 
+\f1\b0\fs24 \uc0\u8232 
+\f2\fs26\fsmilli13333 AVR regulation mode controls the generator voltage by setpoint. HDEC2000 unit measures the generator voltage and compares it with commanded setpoint. And the unit controls the excitation current so that the generator voltage be equal to [AVR Setpoint]. AVR controller is PID (proportional, integral, derivative) controller which has K
+\fs16 \dn3 G
+\fs26\fsmilli13333 \up0 , K
+\fs16 \dn3 P
+\fs26\fsmilli13333 \up0 , K
+\fs16 \dn3 I 
+\fs26\fsmilli13333 \up0 and K
+\fs16 \dn3 D
+\fs26\fsmilli13333 \up0 . 
+\f1\fs24 \uc0\u8232 
+\f2\fs26\fsmilli13333 In case of the medium or small size generator which is connected with related big power grid (not island grid) or in case of synchronous motor application, the AVR mode cannot be selected. In which case, the VAR mode or the PF mode is preferred. 
+\f1\fs24 \uc0\u8232 
+\f0\b\fs26\fsmilli13333 VAR mode 
+\f1\b0\fs24 \uc0\u8232 
+\f2\fs26\fsmilli13333 VAR regulation mode controls the reactive power by setpoint. The HDEC2000 unit measures the reactive power and compares it with commanded setpoint. And the unit controls the excitation current so that the reactive power be equal to [VAR Setpoint]. VAR controller is PI (proportional, integral) controller which has K
+\fs16 \dn3 G
+\fs26\fsmilli13333 \up0 , K
+\fs16 \dn3 I
+\fs26\fsmilli13333 \up0 . 
+\f1\fs24 \uc0\u8232 
+\f2\fs26\fsmilli13333 VAR control mode is only prepared in case of small or medium generator which is connected with related big power grid (not island grid) or in case of synchronous motor application. 
+\f1\fs24 \uc0\u8232 
+\f0\b\fs26\fsmilli13333 PF mode 
+\f1\b0\fs24 \uc0\u8232 
+\f2\fs26\fsmilli13333 PF regulation mode controls the power factor by setpoint. The HDEC2000 unit measures the power factor and compares it with commanded setpoint. And the unit controls the excitation current so that the power factor be equal to [PF Setpoint]. PF controller is PI (proportional, integral) controller which has K
+\fs16 \dn3 G
+\fs26\fsmilli13333 \up0 , K
+\fs16 \dn3 I 
+\f1\fs24 \up0 \uc0\u8232 
+\f2\fs26\fsmilli13333 PF control mode is only prepared in case of small or medium generator which is connected with related big power grid (not island grid) or in case of synchronous motor application. 
+\f1\fs24 \uc0\u8232 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs26\fsmilli13333 \cf2 HDEC 2000 User Manual Rev. D 
+\f1\b0\fs24 \
+\
+}

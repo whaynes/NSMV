@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TextTransformComponents</key>
+	<array>
+		<dict>
+			<key>ComponentArguments</key>
+			<dict>
+				<key>ReplaceString</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fswiss\fcharset0 Helvetica;\f2\fmodern\fcharset0 Courier-Bold;
+\f3\fmodern\fcharset0 Courier-Oblique;\f4\froman\fcharset0 TimesNewRomanPSMT;}
+{\colortbl;\red255\green255\blue255;\red76\green0\blue6;\red179\green179\blue179;\red0\green0\blue0;
+\red255\green255\blue255;\red7\green69\blue205;\red230\green230\blue230;\red26\green26\blue26;\red85\green140\blue52;
+\red155\green155\blue155;\red16\green128\blue214;\red113\green55\blue249;}
+{\*\expandedcolortbl;;\cssrgb\c37300\c1200\c1600;\csgray\c75300;\csgray\c0;
+\csgray\c100000;\cssrgb\c0\c36900\c84300;\csgray\c92200;\csgray\c13700;\cssrgb\c40000\c60800\c26300;
+\csgray\c67100;\csgenericrgb\c6100\c50000\c84000;\cssrgb\c52500\c34100\c98400;}</string>
+				<key>SearchString</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}</string>
+			</dict>
+			<key>ComponentName</key>
+			<string>ReplaceAll</string>
+			<key>Disabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>ComponentArguments</key>
+			<dict>
+				<key>ReplaceString</key>
+				<string>\pard\plain&lt;$Scr_Ps::0&gt;\f0\fs28\sb240</string>
+				<key>SearchString</key>
+				<string>&lt;p&gt;</string>
+			</dict>
+			<key>ComponentName</key>
+			<string>ReplaceAll</string>
+			<key>Disabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>ComponentArguments</key>
+			<dict>
+				<key>ReplaceString</key>
+				<string>\
+\pard\plain&lt;!$Scr_Ps::0&gt;\f0\fs28\sb240\cf2</string>
+				<key>SearchString</key>
+				<string>&lt;/p&gt;\</string>
+			</dict>
+			<key>ComponentName</key>
+			<string>ReplaceAll</string>
+			<key>Disabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>ComponentArguments</key>
+			<dict>
+				<key>ReplaceString</key>
+				<string>\pard\plain&lt;$Scr_Ps::1&gt;\f1\fs28\cf9\sb240</string>
+				<key>SearchString</key>
+				<string>&lt;!--</string>
+				<key>UseGrep</key>
+				<false/>
+			</dict>
+			<key>ComponentName</key>
+			<string>ReplaceAll</string>
+			<key>Disabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>ComponentArguments</key>
+			<dict>
+				<key>ReplaceString</key>
+				<string>\\\n\\pard\\plain&lt;!$Scr_Ps::1&gt;\\f0\\fs28\\sb240\\cf2</string>
+				<key>SearchString</key>
+				<string> ?--&gt;\\</string>
+				<key>UseGrep</key>
+				<true/>
+			</dict>
+			<key>ComponentName</key>
+			<string>ReplaceAll</string>
+			<key>Disabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>ComponentArguments</key>
+			<dict>
+				<key>ReplaceString</key>
+				<string>\cf6\cb7&lt;$Scr_Cs::9&gt;\f0\fs28 </string>
+				<key>SearchString</key>
+				<string>&lt;m&gt;</string>
+			</dict>
+			<key>ComponentName</key>
+			<string>ReplaceAll</string>
+		</dict>
+		<dict>
+			<key>ComponentArguments</key>
+			<dict>
+				<key>ReplaceString</key>
+				<string>&lt;!$Scr_Cs::9&gt;\plain\fs28\sb240\ </string>
+				<key>SearchString</key>
+				<string>&lt;/m&gt;</string>
+			</dict>
+			<key>ComponentName</key>
+			<string>ReplaceAll</string>
+		</dict>
+	</array>
+	<key>TextTransformOptions</key>
+	<dict>
+		<key>SaveMode</key>
+		<string>yes </string>
+		<key>SearchRecursive</key>
+		<true/>
+		<key>TextFilesOnly</key>
+		<true/>
+	</dict>
+	<key>TextTransformSources</key>
+	<array>
+		<dict>
+			<key>SourceNodeData</key>
+			<string>file:///Users/whaynes/ptx/statics/Scrivener/tools/ptx2scriv/PreTeXt_Shell.scriv/Files/Data/2B516642-43AA-474B-A3CE-9587D876395B/content.rtf</string>
+			<key>SourceNodeType</key>
+			<string>OpenDocument</string>
+		</dict>
+		<dict>
+			<key>SourceNodeData</key>
+			<string>file:///Users/whaynes/ptx/statics/Scrivener/tools/ptx2scriv/Data/</string>
+			<key>SourceNodeType</key>
+			<string>Folder</string>
+		</dict>
+	</array>
+</dict>
+</plist>

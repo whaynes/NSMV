@@ -1,0 +1,183 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cambria;\f2\fnil\fcharset0 Cambria-Bold;
+\f3\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red97\green16\blue51;\red6\green20\blue127;
+\red16\green128\blue214;\red65\green107\blue34;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c46300\c11000\c25900;\cssrgb\c2000\c14900\c57300;
+\csgenericrgb\c6100\c50000\c84000;\cssrgb\c31800\c48600\c17600;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf0 <$Scr_Ps::0>
+\f1\fs32 A three-phase 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 induction motor
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  sometimes called a 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 squirrel-cage motor
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32 , is a type of electric motor that operates based on the principles of electromagnetic induction. \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 <figure xml:id="induction_motor">\
+<caption>  Three-phases Induction Motor  </caption>\
+<image width="50%" source="images/induction_motor">\
+<remix><source>Siemens STEP program Basics of Induction Motors   </source></remix>\
+</image>\
+</figure>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 The stator carries three identical sets of 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 phase windings
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  placed 120 degrees apart in a symmetrical pattern and connected in wye.. The specific pattern of the windings determines the number of magnetic poles.  Small motors typically have two or four poles per phase, but the ship\'92s propulsion motors have ten poles per phase. \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 <figure>\
+<caption>Stator Windings</caption>\
+<sidebyside width="30%" valign="bottom">\
+<figure xml:id="stator_1">\
+\
+<caption> Partially Wound  </caption>\
+<image source="images/stator_1">\
+<remix><source>Siemens STEP program Basics of Induction Motors   </source></remix>\
+</image>\
+</figure>\
+<figure xml:id="stator_2">\
+<!-- Source:  Siemens STEP program Basics of Induction Motors  "/>\
+</figure>  -->\
+<caption>  Complete  </caption>\
+<image  source="images/stator_2"/>\
+</figure>\
+</sidebyside>\
+</figure>\
+\pard\sb120\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf2 <!$Scr_Ps::1>
+\f3\fs28 \
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf0 <$Scr_Ps::0>
+\f1\fs32 When three-phase AC power is applied to the stator windings, a 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 rotating magnetic field
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  develops rotating at the 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 synchronous speed
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32 . \
+\pard\tx720\tx1395\sb400\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf4 <!$Scr_Ps::0><$Scr_Ps::2>
+\f1\fs32 The synchronous speed is determined by the frequency of the power supply and the number of motor poles.  <me>n_s =\\frac\{120 f\}\{ P\}</me> Where: <ul marker="">\
+\pard\tx560\pardeftab720\sl336\slmult1\sb60\sa60\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf5 <$Scr_Cs::5><!$Scr_Ps::2><$Scr_Ps::3>
+\f3\fs32 n_s
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is the synchronous speed in revolutions per minute (RPM).\
+
+\f0\fs24 \AppleTypeServices \cf5 <$Scr_Cs::5>
+\f3\fs32 f
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is the frequency of the power supply in hertz (Hz).\
+
+\f0\fs24 \AppleTypeServices \cf5 <$Scr_Cs::5>
+\f3\fs32 P
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is the number of magnetic poles per phase.\
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf3 <!$Scr_Ps::3><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 </ul></p>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 Synchronous speed represents the speed the motor will spin under no load conditions.  \
+The 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 rotor
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32  is typically made of a laminated iron core with conductive bars embedded within it.  The bars are shorted at the ends, to form closed loop 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 rotor windings
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32 . \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 <figure xml:id="rotor_cutaway">\
+\
+<caption>  Rotor Cutaway Diagram </caption>\
+<image width="75%" source="images/rotor_cutaway">\
+<remix><source>Siemens STEP program Basics of Induction Motors   </source></remix>\
+</image>\
+\pard\sb120\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf2 <!$Scr_Ps::1>
+\f3\fs28 </figure>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf0 <$Scr_Ps::0>
+\f1\fs32 As the rotating magnetic field passes over the rotor windings, it induces a voltage, according to Faraday's law of electromagnetic induction. This voltage drives a current through the rotor windings, which, in turn, generates a magnetic field surrounding the rotor windings.\
+The magnetic field of the rotor interacts with the rotating magnetic field of the stator and magnetic attraction pulls the rotor in the same direction as the rotating magnetic field. As the rotor rotates, it tries to catch up with the rotating magnetic field. \
+However, the mechanical load on the motor retards the shaft, so the rotor  speed 
+\f0\fs24 \cf5 <$Scr_Cs::5>
+\f3\fs32 n
+\f0\fs24 \cf0 <!$Scr_Cs::5>
+\f1\fs32 , always remains slightly less than the synchronous speed, 
+\f0\fs24 \cf5 <$Scr_Cs::5>
+\f3\fs32 n_s
+\f0\fs24 \cf0 <!$Scr_Cs::5>
+\f1\fs32 .  The difference between the synchronous speed and the actual \
+operating speed is called 
+\f0\fs24 \cf2 <$Scr_Cs::4>
+\f2\b\fs32 slip
+\f0\b0\fs24 \cf0 <!$Scr_Cs::4>
+\f1\fs32 , often expressed as a percentage of the synchronous speed <me>\\textrm\{\\% slip\}= \\left(\\frac\{n_s-n\}\{n_s\}\\right) \\times 100\\%</me>.\
+The difference in speed between the rotating magnetic field and the rotor's rotational speed induces the current, torque, and power that drives the load connected to the motor shaft.   Slip is required for the motor to generate torque and perform useful work.
+\f3 \
+\pard\tx720\tx1395\sb400\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf4 <!$Scr_Ps::0><$Scr_Ps::2>
+\f1\fs32 The mechanical power produced by a motor can be calculated using the formula:<me>P  = \\tau \\omega</me> Where: <ul marker="">\
+\pard\tx560\pardeftab720\sl336\slmult1\sb60\sa60\pardirnatural\partightenfactor0
+\ls1\ilvl0
+\f0\fs24 \cf5 <$Scr_Cs::5><!$Scr_Ps::2><$Scr_Ps::3>
+\f3\fs32 P
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is the shaft power in Watt (W). \
+\ls1\ilvl0
+\f0\fs24 \AppleTypeServices \cf5 <$Scr_Cs::5>
+\f3\fs32 \\tau
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is torque or twisting force generated by the motor, measured in Newton-meters (Nm).\
+\ls1\ilvl0
+\f0\fs24 \AppleTypeServices \cf5 <$Scr_Cs::5>
+\f3\fs32 \\omega
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539  is the angular velocity of the motor in radians per second (rad/s).  Angular velocity is equal to the shaft rpm 
+\f0\fs24 \AppleTypeServices \cf5 <$Scr_Cs::5>
+\f3\fs32 \\times \\frac\{2\\pi\}\{60\}.
+\f0\fs24 \cf6 <!$Scr_Cs::5>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 \
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf3 <!$Scr_Ps::3><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 </ul></p>\
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 In practical applications, mechanical power can also be expressed in other units such as kilowatts (kW), Horsepower (HP),  or foot-pounds per minute (ft-lb/min).\
+An increase in load on the motor causes the shaft to slow down slightly, which increases both slip and torque.  The power output of the motor automatically adjusts to match the requirements of the load.\
+Although the motor always has some slip, the rotor speed is generally close to the synchronous speed.  For a motor with a fixed number of poles, the rotor speed can be changed by changing the frequency of the power supply with a variable speed drive or a frequency converter. \
+\
+
+\f0\fs24 <!$Scr_Ps::0>}

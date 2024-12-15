@@ -1,0 +1,151 @@
+<p>
+   <em>INTRODUCTION</em>
+</p>
+<p> Torque is a measure of the force that can cause an object to rotate about an axis. The example of opening a door offers an intuitive understanding of torque. When a person opens a door, they push on the side of the door farthest from the hinges. Pushing on the side closest to the hinges requires considerably more force. Although the work done is the same in both cases (the larger force would be applied over a smaller distance), people generally prefer to apply less force, hence the usual location of the door handle. </p>
+<p> Torque is the rotational equivalent of force. It is the measure of the tendency of a force to rotate an object around an axis of rotation. In simpler terms, torque is the turning force that causes an object to rotate, turn or twist. Imagine you're trying to turn a wheel. You need to apply a force to make it spin, right? Torque is the measure of how much force you need to apply to make an object rotate around a turning point. It's measured in Newton meters, or foot-pounds, which is a fancy way of saying how hard you need to push on something and how far away from the turning point you are. </p>
+<figure>
+   <caption>Example of Torque, Screwdriver turning a screw</caption>
+   <image width="50%" source="images/image39.png"/>
+   <!--Picture 1-->
+</figure>
+<p> Different terminologies, such as moment or moment of force, are interchangeably used to describe torque. </p>
+<p> The distance of the point of application of force from the axis of rotation is called the moment arm or lever arm. See figure below. </p>
+<figure>
+   <caption>Moment Arm</caption>
+   <image width="50%" source="images/image40.png"/>
+   <!--Picture 83-->
+</figure>
+<p> Direction of Torque </p>
+<p> Understanding the direction of torque is crucial in analyzing rotational dynamics, ensuring the correct application of forces in mechanical systems, and solving problems involving rotational motion. </p>
+<figure>
+   <caption>Direction of torque</caption>
+   <image width="50%" source="images/image33.jpeg"/>
+   <!--C:\Users\rgill.MARITIME-EDU\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\A2392C1B.tmp-->
+</figure>
+<p> Wrench Turning a Bolt: </p>
+<p> If you apply the force to turn the bolt clockwise, the torque vector points downwards. </p>
+<p> If you apply a force to a wrench to turn a bolt counterclockwise, the torque vector points upwards. </p>
+<p> Rotating a Wheel </p>
+<p> As torque is a vector quantity, both magnitude and direction are needed to define it. The direction of torque can be found using the right-hand rule, where four fingers of the right hand are pointed in the direction of the force F that is applied. The direction of the torque is the same as the direction of the thumb. </p>
+<p> If a force applied to the edge of a wheel causes it to rotate counterclockwise, the torque vector points out of the plane (perpendicular to the wheel's surface). </p>
+<p> If the force causes the wheel to rotate clockwise, the torque vector points into the plane. </p>
+<figure>
+   <caption>Right Hand Rule</caption>
+   <image width="50%" source="images/image41.png"/>
+   <!--Picture 81-->
+</figure>
+<p> 2.2 Units of Torque </p>
+<p> US Standard System: In the US standard system, torque is typically measured in foot-pounds (ft-lb) or inch-pounds (in-lbs.). These units represent the amount of force applied at a specified distance from the rotational axis. For example, one foot-pound of torque is equal to a force of one pound applied at a distance of one foot from the axis of rotation. </p>
+<p> Metric System: In the metric system, torque is measured in newton-meters (N-m) or in some cases, newton-centimeters (N-cm). The newton-meter represents the force (in newtons) applied at a distance of one meter from the rotational axis. Similarly, the newton-centimeter is the force (in newtons) applied at a distance of one centimeter from the axis of rotation. </p>
+<figure>
+   <caption>Units of Torque in Foot-Pounds and Newton-Meters</caption>
+   <image width="50%" source="images/image42.png"/>
+   <!--Picture 77-->
+</figure>
+<p> Work and Torque </p>
+<p> Like work, torque is a force multiplied by a distance. However, the difference lies in how force and distance are multiplied, and what kind of distance is used in this scenario. For work, the force (<em>F</em>) and the distance (<em>d</em>) are multiplied by a dot product. Because it is the dot product of two vectors, it is a scalar value. </p>
+<p>
+   <em>W</em>=<em>F</em>⋅ <em>d</em>=<em>F d cos θ</em>
+</p>
+<p> Let’s clarify the difference with examples. If there is a box and I am pushing it horizontally, I am doing work on it. If I push it onto an inclined plane to load it onto the back of a truck, it’s still work because the box is not fixed on any particular axis. However, if I take that box and put it on one end of a seesaw, with myself standing at the other, both the box and I are applying torques on the seesaw. The seesaw’s fulcrum fixes it on an axis that causes rotational motion. </p>
+<p> Torques, however, involve rotation along a fixed axis. Therefore, instead of a dot product, we need to use a cross product. We also can’t use the distance d that we applied in the previous work equation because we are not displacing the object a certain distance. We are rotating it along a fixed axis. To calculate torque, we must introduce a new vector, <em>r</em> (radius). Physically, <em>r</em> is the distance from the axis of rotation to the point where the force is applied. </p>
+<p>
+   <em>τ</em>=<em>r</em> ×<em>F</em>= <em>r F sin θ</em>
+</p>
+<p> Torque (τ⃗) is calculated using the cross product of the position vector (r⃗) and the force vector (F⃗): </p>
+<p> Magnitude of Torque: τ= r⋅ F ⋅ sin (θ) where θ is the angle between the position vector and the force vector. </p>
+<p> Direction of Torque: The direction of τ⃗ is given by the right-hand rule as described above. It is perpendicular to the plane formed by r⃗ and F⃗ </p>
+<p> Torque Formula is given by the cross product between Force and the displacement vector from the pivot point. Thus, mathematically torque can be written as: </p>
+<p>
+   <em>Torque = Force × Displacement Vector</em>
+</p>
+<p>
+   <em>OR</em>
+</p>
+<p> Torque (τ) = Force (F) × Distance (r) × sin (θ) </p>
+<p>
+   <em>Where θ is the angle between vector r and vector F.</em>
+</p>
+<p> τ is the torque. </p>
+<p> F is the force applied. </p>
+<p> r is the distance from the axis of rotation to the point where the force is applied. </p>
+<p> θ is the angle between the lever arm and the direction of the force. </p>
+<figure>
+   <caption>Torque Formula</caption>
+   <image width="50%" source="images/image43.png"/>
+   <!--Torque Measurement -->
+</figure>
+<figure>
+   <caption>Torque Formula with Values</caption>
+   <image width="50%" source="images/image44.png"/>
+   <!--Examples of Torque-->
+</figure>
+<p> In the above diagram: </p>
+<p> F = 5 N </p>
+<p> r = 4 m </p>
+<p> sin θ = 30° </p>
+<p> Putting in these values we have, </p>
+<p> τ = 5 x 4 x sin 30° </p>
+<p> τ = 10 N · m </p>
+<p> Example 1 </p>
+<p> A mechanic applies a force of 400N to a wrench for loosening a bolt. He applies the force which is perpendicular to the arm of the wrench. The distance between the bolt to the hand is 60cm. Find out the torque applied. </p>
+<p> Solution: </p>
+<p> As mentioned in the question that the applied force is perpendicular to the arm of wrench so, the angle will be 90°. </p>
+<p> F = 400N </p>
+<p> r = 60cm = 60⁄100 = .60 </p>
+<p> Torque = F × distance × sin θ </p>
+<p> τ = F × r × sin 90° </p>
+<p> τ = 400 × 0.60 × 1 [sin 90° = 1] </p>
+<p> τ = 240 Nm </p>
+<p> Therefore, the magnitude of torque will be 240 Nm. </p>
+<p>
+   <em>Example 2</em>
+</p>
+<p> Calculate the Torque on an object from a Force applied at an angle </p>
+<p> A wrench is loosening a bolt, the force applied is 25 Newtons at an angle of 60 degrees relative to the wrench. If the wrench is 30 centimeters long and the force is applied at the end of the wrench, what is the Torque on the bolt? </p>
+<p> Length of lever arm, r, = 30 centimeters, 0.3 meters. </p>
+<p> Force = 25 Newtons </p>
+<p> Angle Force makes with wrench is 60 degrees </p>
+<p> Torque = r x F x sin () </p>
+<p> Torque = 30cm x 25N x sin <m>60^{0}</m>
+</p>
+<p> sin <m>60^{0} =</m>0.86 </p>
+<p> T = 6.5 NM </p>
+<p> 2.3 Instruments Used to Measure Torque </p>
+<p> Torque Wrench: A torque wrench is a precision tool commonly used to apply a specific amount of torque to fasteners such as nuts and bolts. It has a calibrated scale that allows engineers to set the desired torque value, ensuring accurate and consistent tightening </p>
+<figure>
+   <caption>Torque Wrench</caption>
+   <image width="50%" source="images/image45.png"/>
+   <!--Picture 74-->
+</figure>
+<p> A torque wrench has a calibrated scale or a digital display that allows the user to set and control the applied torque accurately. </p>
+<p> Torque Sensors: </p>
+<p> Torque sensors are devices that measure the torque applied to an object or produced by a rotating system. These sensors can be integrated into machinery or used as standalone devices to provide real-time torque measurements. </p>
+<p> Dynamometers: </p>
+<p> A Prony brake is a friction brake and torque-measuring system that was invented by French mathematician and engineer Gaspard de Prony in 1821. The term "brake horsepower" is one measurement of power derived from this method of measuring torque. (Power is calculated by multiplying torque by rotational speed.) It's also known as an absorption dynamometer. </p>
+<figure>
+   <caption>Prony Brake Dynamometer</caption>
+   <image width="50%" source="images/image46.png"/>
+   <!--Picture 73-->
+</figure>
+<p> 2.4 Types of Torque </p>
+<p> Torque can be either static or dynamic </p>
+<p> Static Torque is the force needed to initiate movement from a standstill or to stop an already moving object. It’s the amount of Torque required to overcome the inertia of a stationary object and start its rotation. This concept is commonly used in scenarios where an object needs to be moved from a rest position, such as starting a car engine or unscrewing a tightly fixed bolt. A person pushing a closed-door is applying a static torque because the door isn’t rotating despite the force applied. </p>
+<figure>
+   <caption>Static Torque: Turning a bolt</caption>
+   <image width="50%" source="images/torque-on-bolt.png"/>
+   <!--Torque is related to bolt tightness, but many additional factors, such as friction, combined into a single nut factor, can have a significant impact on the relationship of torque to the tightness of the bolted joint.-->
+</figure>
+<p> Dynamic Torque refers to the twisting force that maintains an object’s constant rotational motion once it has started moving. This type of torque is used to accelerate or decelerate a moving object, such as a wheel or a motor. It’s the Torque necessary to keep an object spinning at a steady rate, overcoming any frictional forces acting against it. Dynamic Torque is often used in the context of continually operating systems, like turbines in a power plant or motors in electric appliances. </p>
+<p> Example Usage </p>
+<p> Dynamic Torque: Running a motor </p>
+<p> Dynamic Torque: Torque to maintain rotation </p>
+<p> The drive shaft in a racing car accelerating from the start line exhibits dynamic torque because it must be producing an angular acceleration of the wheels, given that the car is accelerating along the track. </p>
+<p> How can we increase or decrease torque? </p>
+<p> It is often necessary to increase or decrease the torque produced by a motor to suit different applications. Recall that the length of a <em>lever</em> can increase or decrease the force on an object at the expense of the distance through which the lever must be pushed. Similarly, the torque produced by a motor can be increased or decreased through the use of gearing. An increase in torque comes with a proportional decrease in rotational speed. The meshing of two gear teeth can be viewed as equivalent to the interaction of a pair of levers as shown in <xref ref="gear-ratio"/>. </p>
+<p> Gear Ratio </p>
+<p> When a larger gear drives a smaller one, for one rotation of the larger gear the small gear must complete more revolutions - so the output will be faster than the input. If the situation is reversed, and a smaller gear drives a larger output gear, then for one rotation of the input the output will complete less than one revolution – so the output will be slower than the input. The ratio of the sizes of the two gears is proportional to the speed and torque changes between them. </p>
+<figure xml:id="gear-ratio">
+   <caption>Gear Ratios </caption>
+   <image width="50%" source="images/image47.png"/>
+</figure>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../xsl/weh-pretext.rnc" type="application/relax-ng-compact-syntax"?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+<xi:include href="docinfo.ptx"/>
+<book >
+<title>Introduction to Marine Engineering</title>
+<frontmatter xml:id="frontmatter">
+    <titlepage>
+    <titlepage-items/>
+    </titlepage>
+<bibinfo>
+        <author>
+          <personname>Massachusetts Maritime Academy</personname>
+          <department>Engineering Department</department>
+          <institution>Massachusetts Maritime Academy</institution> 
+       </author> 
+       <date>
+          <today/>
+        </date> 
+</bibinfo>
+ </frontmatter>
+
+<chapter xml:id="TSPS"> 
+<title>TS Patriot State</title>
+<introduction>
+<p>The <em>Patriot State II</em>  is the second of five National Security Multi-mission Vessels (NSMV) S5-ME-155a class vessels built for the U.S. Department of Transportation’s Maritime Administration (MARAD).  </p>
+
+<figure xml:id="nsmv_in_yard">
+<caption>TS Patriot State under Construction, May 2023</caption>
+<image source="images/TSPS_under_construction.png">
+<remix><source>Roger Gill own work</source></remix>
+</image>
+</figure>
+<p>The ship has dual missions:  its primary mission is to provide a modern platform for training future Merchant Marine Officers, additionally, she is also an available government resource to provide Humanitarian Assistance end Disaster Relief (HA/DR) where and when needed.</p>
+<p>The NSMVs are passenger-type vessel with capacity for on-deck cargo and container stowage as well as a ramp for roll-on roll-off (RORO) cargo.  </p>
+<p>Accommodation for 600 cadets and 100 officers and crew are located over the forward and midships portions of the vessel.  60 additional berths are available for HA/DR missions by doubling up single-occupancy staterooms.</p>
+<p>Diesel-electric propulsion: 4 engines, 2 motors, single fixed-pitch propeller, Azimuthing Bow Thruster, Stern Thruster.</p></introduction>
+
+<section xml:id=""><title>Principle Dimensions</title>
+
+
+<table xml:id="principle_dimensions">
+    <title>Principle Dimensions</title>
+    <tabular>
+        <row header="no">
+            <cell>Length, overall</cell>
+            <cell>160 m</cell>
+            <cell>(525 ft)</cell>
+        </row>
+           <row>
+            <cell>Beam</cell>
+            <cell> 27 m</cell>
+            <cell>(89 ft) </cell>
+
+        </row>
+        <row>
+            <cell>Depth,  to main deck </cell>
+            <cell> 16.8 m</cell>
+            <cell>(55 ft)</cell>
+        </row>
+        <row>
+            <cell>Draft, load line</cell>
+            <cell> 7.35 m</cell>
+            <cell>(24 ft) </cell>
+        </row>
+        <row>
+            <cell>Masthead Height, above keel </cell>
+            <cell> 44 m</cell>
+            <cell>(144 ft) </cell>
+        </row>
+        <row>
+            <cell>Total installed Power</cell>
+            <cell>16,800 kW </cell>
+            <cell>(22,500 hp)</cell>
+
+        </row>
+        <row>
+            <cell>Design Speed </cell>
+            <cell>18 knots</cell>
+            <cell>(20.7 mph)</cell>
+
+        </row>
+
+    </tabular>
+</table>
+
+<table xml:id="nsmv_capacities">
+    <title>Capacities</title>
+    <tabular>
+        <row header="no">
+            <cell>Cadet Berths</cell>
+            <cell>600</cell>
+        </row>
+        <row>
+                <cell>Officers and Crew Berths (Single Occupancy)</cell>
+                <cell>100</cell>
+        </row>
+        <row>
+            <cell>Additional Berths (Double Occupancy)</cell>
+            <cell>60</cell>
+        </row>
+        <row>
+            <cell>RO-RO Cargo Space</cell>
+            <cell>990  m<m>^2</m></cell>
+        </row>
+        <row>
+            <cell>Deck Container Capacity</cell>
+            <cell>60 TEU</cell>
+        </row>
+        <row>
+            <cell>Fuel Marine Gas Oil</cell>
+            <cell>2169 m<m>^3</m></cell>
+        </row>
+        <row>
+            <cell>Fresh Water</cell>
+            <cell>1234 m<m>^3</m></cell>
+        </row>
+<row>
+            <cell>Salt Water Ballast</cell>
+            <cell>3567 m<m>^3</m></cell>
+        </row>
+        <row>
+            <cell>Fresh Water Ballast</cell>
+            <cell>1275 m<m>^3</m></cell>
+        </row>
+        <row>
+            <cell>Gray Water</cell>
+            <cell>655 m<m>^3</m></cell>
+        </row>
+        <row>
+            <cell>Black Water</cell>
+            <cell>166 m<m>^3</m></cell>
+        </row>
+
+    </tabular>
+</table></section>
+
+<section xml:id=""><title>Deck Plans</title>
+
+
+<figure xml:id="fig_waterline_profile" landscape="yes">
+<caption> <em>Patriot State</em>  Waterline Profile  </caption>
+<image width="100%" source="images/waterline_profile">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_outboard_profile" landscape="yes">
+<caption> <em>Patriot State</em>  Outboard Profile  </caption>
+<image width="100%" source="images/outboard_profile">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_inboard_port" landscape="yes">
+<caption> <em>Patriot State</em>  Inboard Profile Port  </caption>
+<image width="100%" source="images/inboard_port">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_inboard_stbd" landscape="yes">
+<caption> <em>Patriot State</em>  Inboard Profile Starboard  </caption>
+<image width="100%" source="images/inboard_stbd">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_05_level" landscape="yes">
+<caption> <em>Patriot State</em>  05 Level  </caption>
+<image width="100%" source="images/05_level">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_04_level" landscape="yes">
+<caption> <em>Patriot State</em>  04 Level  </caption>
+<image width="100%" source="images/04_level">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_03_level" landscape="yes">
+<caption> <em>Patriot State</em>  O3 Level  </caption>
+<image width="100%" source="images/03_level">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_02_level" landscape="yes">
+<caption> <em>Patriot State</em>  02 Level  </caption>
+<image width="100%" source="images/02_level">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_01_level" landscape="yes">
+<caption> <em>Patriot State</em>  01 Level  </caption>
+<image width="100%" source="images/01_level">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_main_deck" landscape="yes">
+<caption> <em>Patriot State</em>  Main Deck  </caption>
+<image width="100%" source="images/main_deck">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_2nd_deck" landscape="yes">
+<caption> <em>Patriot State</em>  2nd Deck  </caption>
+<image width="100%" source="images/2nd_deck">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_3rd_deck" landscape="yes">
+<caption> <em>Patriot State</em>  3rd Deck  </caption>
+<image width="100%" source="images/3rd_deck">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_4th_deck" landscape="yes">
+<caption> <em>Patriot State</em>  4th Deck  </caption>
+<image width="100%" source="images/4th_deck">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_tank_top" landscape="yes">
+<caption> <em>Patriot State</em>  Tank Tops  </caption>
+<image width="100%" source="images/tank_top">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+<figure xml:id="fig_inner_bottom" landscape="yes">
+<caption> <em>Patriot State</em>  Inner Bottom  </caption>
+<image width="100%" source="images/inner_bottom">
+<remix><source>MARAD</source></remix>
+</image>
+</figure>
+
+</section>
+
+<section xml:id=""><title>Ship's History</title>
+
+<p>Construction History:  design started, keel laid, ship launched, ship delivered, first cruise,$300 million cost, Philly shipyard, TOTE services.</p>
+</section>
+</chapter>
+
+
+<chapter xml:id="main-propulsion"> 
+<title>Main Propulsion System</title>
+<section xml:id=""><title>Main Engines</title>
+
+<p>Turbocharged, 4-stroke, single acting, trunk piston, non-reversible, direct fuel injection</p>
+
+<figure xml:id="main_engine_generator" landscape="yes">
+<caption>Main Engine and Generator  
+ </caption>
+<image source="images/main_engines_er1.jpeg">
+<remix><source>own work weh</source></remix>
+</image>
+</figure>
+ 
+<table xml:id="main_engine_info">
+    <title>  </title>
+    <tabular>
+        <row header="yes">
+            <cell> Manufacturer </cell>
+            <cell> GE Wabtec</cell>
+        </row>
+        <row>
+                <cell>Model</cell>
+                <cell>16 V250MDC</cell>
+        </row>
+        <row>
+            <cell>Maximum Continuous Power  
+</cell>
+            <cell> 4200 kW  (5632 hp) 
+</cell>
+        </row>
+        <row>
+            <cell>Rated Speed</cell>
+            <cell>900 rpm </cell>
+        </row>
+
+        <row>
+            <cell>Arrangement and number of Cylinders </cell>
+            <cell>V-16</cell>
+        </row>
+        <row>
+            <cell> Bore</cell>
+            <cell> 250 mm (9.8 in) 
+</cell>
+        </row>
+        <row>
+            <cell>Stroke</cell>
+            <cell> 320 mm (12.6 in) 
+</cell>
+        </row>
+    </tabular>
+</table>
+</section>
+</chapter>
+</book>
+</pretext>

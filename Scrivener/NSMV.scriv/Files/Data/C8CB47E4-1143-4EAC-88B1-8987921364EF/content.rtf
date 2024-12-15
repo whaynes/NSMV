@@ -1,0 +1,98 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cambria;\f2\fnil\fcharset0 Cambria-Bold;
+\f3\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red97\green16\blue51;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c46300\c11000\c25900;}
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf0 <$Scr_Ps::0>
+\f1\fs32 An 
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 automatic voltage regulator
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  (
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 AVR
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32 ) is a control device which detects any fluctuation in a generator\'92s voltage and adjusts the excitation current to offset the fluctuation and so keep the output voltage constant regardless of load changes. \
+A simplified block diagram of the components of the Hyundai HDEC2000 AVR used on the training ship is shown in <xref ref ="avr_block_diagram"/>.     The primary function is to provide continuous voltage regulation of the generator through excitation current control with a 
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 PID
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  (
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 proportional, integral, derivative
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32 ) software control algorithm, but the device also includes function blocks which provide monitoring, alarm, and system protection.  Two-way communications are provided through a network interface or via the front panel.\
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0><$Scr_Ps::1>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 \
+<figure xml:id="AVR">\
+<caption>Automatic Voltage Regulator (AVR)</caption>\
+<sidebyside widths="30% 70%" valign="bottom">\
+<figure xml:id="Front_Panel">\
+<caption> Front Panel  </caption>\
+<image source="images/AVR">\
+<remix><source>DV951E001_MAIN ALTERNATOR_OPERATION MANUAL_AVR   </source></remix>\
+</image>\
+</figure>\
+<figure xml:id="avr_block_diagram">
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \
+
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 \cf3 \
+<caption>Simplified Block Diagram</caption>\
+<image  source="images/AVR_block_diagram">\
+<remix><source>weh cc0   </source></remix>\
+</image>\
+</figure>\
+</sidebyside>\
+</figure>
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf2 \
+\pard\sb240\partightenfactor0
+
+\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::1><$Scr_Ps::0>
+\f1\fs32 The three main components of the AVR are the Digital Signal Processor, the Rectifier, and the Power Module. The device uses a combination of hardware and software to perform its functions.\
+The 
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 Digital Signal Processor
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 (DSP)
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  is a specialized microprocessor designed to process and manipulate digital signals in real time.  The DSP software is executable code stored in nonvolatile Flash memory.  The DSP executes code and controls hardware to enable the AVR to perform functions such as regulation, measurement, monitoring, protection, and communications.\
+The DSP accepts both digital and analog inputs, the most important being the generator voltage and current, which are measured using current and potential (voltage) transformers on the generator output, and digitized by an 
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 analog to digital converter
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  (
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 ADC
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32 ) in the DSP.  Based on these values and the system requirements, the DSP calculates the amount of excitation current required and produces a command signal that is transmitted to the Power Module.\
+The 
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 Rectifier
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  module supplies DC power to the power module.  The power source for the module may come from a Permanent Magnet Generator, as done on the training ship, or directly from the main generator terminals if the generator is self-excited.  The module uses a three-phase full-wave rectifier, <xref ref="three_phase_rectifier"/>, to convert the supply to a DC voltage. \
+The Power Module uses 
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 pulse width modulation
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 (PWM)
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  to trigger a set of 
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 insulated gate bipolar transistors
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  (
+\f0\fs24 \cf2 <$Scr_Cs::2>
+\f2\b\fs32 IGBT)
+\f0\b0\fs24 \cf0 <!$Scr_Cs::2>
+\f1\fs32  that supply the requested excitation current  An excitation current signal is transmitted back to the DSP to be used for to PID feedback, and for over-excitation limitation, protection functions and monitoring.  PWM and IGBTs are discussed in more detail in <xref ref="what-is-pulse-width-modulation" text="title" /> and <xref ref="what-is-an-igbt" text="title"/>.\
+\
+
+\f0\fs24 <!$Scr_Ps::0>}

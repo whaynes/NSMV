@@ -1,0 +1,78 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cambria;\f2\fnil\fcharset0 Cambria-Bold;
+\f3\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red6\green20\blue127;\red0\green0\blue0;\red97\green16\blue51;
+}
+{\*\expandedcolortbl;;\cssrgb\c2000\c14900\c57300;\csgray\c0;\cssrgb\c46300\c11000\c25900;
+}
+\deftab720
+\pard\tx720\tx1395\pardeftab720\sb400\sa120\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf2 <$Scr_Ps::0>
+\f1\fs32 A basic variable frequency drive has three main components: <ol><li>\
+\pard\pardeftab720\sb240\partightenfactor0
+
+\f0\fs24 \cf0 <!$Scr_Ps::0><$Scr_Ps::1>
+\f1\fs32 The 
+\f0\fs24 \cf3 <$Scr_Cs::3>
+\f2\b\fs32 Diode Front End
+\f0\b0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32   which takes in an AC power supply from the mains and converts it into DC power using a three-phase rectifier. \
+\pard\pardeftab720\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf4 <!$Scr_Ps::1><$Scr_Ps::2>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 </li><li>\
+\pard\pardeftab720\sb240\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::2><$Scr_Ps::1>
+\f1\fs32 The 
+\f0\fs24 \cf3 <$Scr_Cs::3>
+\f2\b\fs32 DC Capacitor
+\f0\b0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32   The rectified power is stored in a large capacitor, which acts as a buffer to provide a stable DC voltage to the DC Bus.\
+\pard\pardeftab720\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf4 <!$Scr_Ps::1><$Scr_Ps::2>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 </li><li>
+\f0\fs32 \AppleTypeServices\AppleTypeServicesF65539 \cf3 \
+\pard\pardeftab720\sb240\partightenfactor0
+
+\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::2><$Scr_Ps::1>
+\f1\fs32 The 
+\f0\fs24 \cf3 <$Scr_Cs::3>
+\f2\b\fs32 Inverter
+\f0\b0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32  The inverter is responsible for converting the DC power back into AC power with variable voltage and frequency. This stage utilizes power electronic devices, such as 
+\f0\fs24 \cf3 <$Scr_Cs::3>
+\f2\b\fs32 insulated gate bipolar transistors
+\f0\b0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32  (
+\f0\fs24 \cf3 <$Scr_Cs::3>
+\f2\b\fs32 IGBTs
+\f0\b0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32 ), to switch the DC voltage in a controlled manner. \
+To synthesize the desired AC waveform, the VFD uses a technique called 
+\f0\fs24 \cf3 <$Scr_Cs::3>
+\f2\b\fs32 Pulse Width Modulation
+\f0\b0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32  (
+\f0\fs24 \cf3 <$Scr_Cs::3>
+\f2\b\fs32 PWM
+\f0\b0\fs24 \cf0 <!$Scr_Cs::3>
+\f1\fs32 ). PWM involves rapidly switching the IGBTs on and off to create a series of voltage pulses with varying widths. By adjusting the width of these pulses, the VFD can control the effective voltage and frequency of the output AC waveform.\
+\pard\pardeftab720\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf4 <!$Scr_Ps::1><$Scr_Ps::2>
+\f3\fs28 \AppleTypeServices\AppleTypeServicesF65539 </li></ol></p>\
+\
+<figure xml:id="VFD_main_components">\
+<caption> Main Components of a VFD  </caption>\
+<image width="100%" source="images/MV7000_topology">\
+<remix><source>Siemens STEP program Basics of Induction Motors   </source></remix>\
+</image>\
+</figure>\
+\pard\pardeftab720\sb240\partightenfactor0
+
+\f0\fs24 \AppleTypeServices \cf0 <!$Scr_Ps::2><$Scr_Ps::1>
+\f1\fs32 By regulating the voltage and frequency supplied to the motor, a VFD allows for precise control of motor speed and torque. This enables energy savings, improved motor performance, and enhanced control in various applications, such as industrial machinery, HVAC systems, and electric vehicle drives.
+\f0\fs24 <!$Scr_Ps::1>}

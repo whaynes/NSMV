@@ -1,0 +1,16 @@
+<p>Using unit-factor method we can express a distance in meters from feet as:</p>
+<p>To Find distance in meters = (distance in ft) <m>\times</m> (12 in/1 ft) <m>\times</m> (2.54 cm/1 in) <m>\times </m>(1 m/100 cm)</p>
+<p>The Conversion factor is .3048 m/ft</p>
+<p>distance in meters = (distance in ft) x 0.3048 m/ft</p>
+<p>1 foot = 12”/1 ft <m>\times</m> 2.54 cm/1” = 30.48 cm/ft</p>
+<p>1 foot = 1 M/100 cm <m>\times</m> 30.48 cm = 0.3048 Meters </p>
+<p>Conversion Factor = .3048</p>
+<p>1 meter =1ft/12 in <m>\times</m> 1 in/2.54 cm <m>\times</m> 100 cm/1 m=100 /30.48</p>
+<p>1 meter = 100/30 =3.28 ft</p>
+<p>Conversion Factor</p>
+<p>1 foot = 0.3048 m</p>
+<p>1 inch = 2.54 cm</p>
+<p>Nautical Miles</p>
+<p>1 Statute Mile= 1 Statute Mile/5280 ft x 6076 ft/1 NM = 1.15 Mile/NM</p>
+<p>Conversion Factor = 1.15 mile/NM</p>
+<p>1 km =1.852 NM</p>

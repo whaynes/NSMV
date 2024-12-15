@@ -1,0 +1,137 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\froman\fcharset0 Times-Roman;\f2\fswiss\fcharset0 Helvetica;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\deftab720
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf2 \expnd0\expndtw0\kerning0
+Propulsion Motor Braking 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs29\fsmilli14667 \cf2 When the speed of a variable speed motor is reduced by reducing the frequency of the motor supply voltage, energy is fedback into  on the DC link will increase.This does not matter for small changes in motor speed, however, for large changes this could be a problem, as the feedback of large amounts of energy into the drive could cause damage. 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 As this converter system uses a Diode Front End (DFE) (and not an active front end), this energy cannot be fed back into the supply network (regeneration). Therefore, an alternative means of dissipating this braking energy from the motor must be utilized. This system uses a chopper unit and this is connected to the DClink, and when the voltage of the DClink rises above a certain level due to the braking energy from the motor, the chopper unit will activate and feed the excess energyt o a braking resistive load - the Braking Resistor Unit (BRU). The braking resistors heat-up rapidly and this heat is then dissipated slowly. 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 The main component of the chopper unit are IGBTs and these can handle large amounts of energy very quickly, and so this excess energy is dissipated from the drive rapidly. The control for theseIGBTs is from the PIBe unit in the AC OUT cubicle, this provides the trigger pulses for both the output IGBTs and the chopper IGBTs. The IGBTs in the chopper unit will switch the excessDC voltage to the braking resistors until such a time as the voltage on the DC link falls to a normal value. 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 The braking resistor units are installed forward and aft of the associated frequency converter rooms at 4th deck level. The specification of the braking resistors are as follows: 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 Manufacturer: \
+Type:\
+Material: \
+Resistance: \
+Voltage: \
+Insulation level: \
+Rated: 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 Surge: 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 MS Resistances B-006-014-0020-20-HE Stainless steel alloy\
+2 x 7ohms at 45\'b0C 5.5kV nominal 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 7.2kV\
+2 x 10MJ / 20 seconds every 30 minutes 2.6MW to 0MW in 15.4 seconds 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 The resistors are made up of grids of stainless steel alloy and these are spot welded together in banks mounted between two end plates, supported both horizontally and vertically by porcelain insulators. 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 The assemblies are mounted in an enclosed cabinet that is cooled by an air to water cooling unit, the cooling air flow is by natural convection as the hot air from the resistors rises and is cooled by the air to water heat exchanger and the rise of the hot air from the resistors draws in cool air from the bottom of the enclosure. The cooling water is supplied from the propulsion auxiliary fresh water cooling system. The cooler has a water leakage detector fitted and temperature monitoring via two PT100 sensors. 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 A thermostatically controlled 120V 50W anti-condensation heater is also fitted in the braking resistor enclosure. 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 The specification of the air to water cooler is as follows: 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 Manufacturer: Model:\
+Type:\
+Water temperature: Water flow:\
+Pressure drop:\
+Heat dissip. in water: Heat dissip. in air: Operating pressure: 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 VDL Klima\
+16 KDLD-261-1620-2-2 Double tubed\
+34\'b0C to 38\'b0C max 10m
+\fs21\fsmilli10667 \up8 3
+\fs29\fsmilli14667 \up0 /h\
+30kPa\
+11.1kW\
+2.25kW\
+6 bar 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 There are certain alarms associated with the braking resistor unit: 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf2 Function 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs29\fsmilli14667 \cf2 Air temperatureH 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 Air temperatureHH 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 Water leakage 
+\f1\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf2 Set point 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs29\fsmilli14667 \cf2 \dn6 250
+\fs21\fsmilli10667 \up5 0
+\fs29\fsmilli14667 \dn6 C 
+\f1\fs24 \up0 \
+
+\f2\fs29\fsmilli14667 \dn6 300
+\fs21\fsmilli10667 \up5 0
+\fs29\fsmilli14667 \dn6 C 
+\f1\fs24 \up0 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b\fs29\fsmilli14667 \cf2 Result 
+\f1\b0\fs24 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f2\fs29\fsmilli14667 \cf2 Alarm and limit regen. o 1/3 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 Alarm and limit regen. to 0 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 Alarm 
+\f1\fs24 \
+
+\f2\fs29\fsmilli14667 In order to avoid a large energy storage in the braking resistors, the activation of the braking resistors is managed as follows: 
+\f1\fs24 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa293\partightenfactor0
+\ls1\ilvl0
+\f2\fs29\fsmilli14667 \cf2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+If zero speed or reverse speed is requested the activation of the braking chopper is restricted to under 40% of full speed. \
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+In a crash stop situation when: \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sa293\partightenfactor0
+\ls1\ilvl1\cf2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Two motors are running, the activation of the chopper is allowed under 50% of full speed. \
+\ls1\ilvl1\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+One motor running, the activation of the chopper is allowed under 45% of full speed. \
+In a crash stop situation, the air temperatureH andHH limitations are inhibited and only an alarm will be raised.}

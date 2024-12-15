@@ -1,0 +1,421 @@
+<Children xmlns:fn="http://www.w3.org/2005/xpath-functions"
+          xmlns:uuid="java:java.util.UUID"
+          xmlns:xi="http://www.w3.org/2001/XInclude">
+   <BinderItem UUID="BEE182DB-ED55-426A-B5DD-FD93E1D03FBB"
+               Type="Folder"
+               ptx=""
+               Created="2024-07-12T09:20:18.868158-04:00">
+      <Title>Document</Title>
+      <MetaData>
+         <CustomMetaData>
+            <MetaDataItem>
+               <FieldID>ptx-container</FieldID>
+               <Value/>
+            </MetaDataItem>
+            <MetaDataItem>
+               <FieldID>xml:id</FieldID>
+               <Value/>
+            </MetaDataItem>
+            <MetaDataItem>
+               <FieldID>Other Attributes</FieldID>
+               <Value/>
+            </MetaDataItem>
+         </CustomMetaData>
+      </MetaData>
+      <Children>
+         <BinderItem UUID="BFCB3BAE-6ED0-4A20-8413-C141BD71F759"
+                     Type="Folder"
+                     ptx="chapter"
+                     Created="2024-07-12T09:20:18.868158-04:00">
+            <Title>Engineering Measurement</Title>
+            <MetaData>
+               <CustomMetaData>
+                  <MetaDataItem>
+                     <FieldID>ptx-container</FieldID>
+                     <Value>chapter</Value>
+                  </MetaDataItem>
+                  <MetaDataItem>
+                     <FieldID>xml:id</FieldID>
+                     <Value>engineering-measurement</Value>
+                  </MetaDataItem>
+                  <MetaDataItem>
+                     <FieldID>Other Attributes</FieldID>
+                     <Value/>
+                  </MetaDataItem>
+               </CustomMetaData>
+            </MetaData>
+            <Children>
+               <BinderItem UUID="B030C9BA-7521-426C-A8B7-D10B8C13992D"
+                           Type="Folder"
+                           ptx="introduction"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title>introduction</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>introduction</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+               <BinderItem UUID="ABD0F88E-3CE6-406A-900A-1D803B709B76"
+                           Type="Folder"
+                           ptx="section"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title>Length</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>section</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value>engineering-measurement-length</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children>
+                     <BinderItem UUID="BE45EAB0-A2EC-487F-B3F8-4D76EA4B683A"
+                                 Type="Folder"
+                                 ptx="subsection"
+                                 Created="2024-07-12T09:20:18.868158-04:00">
+                        <Title>A Brief History</Title>
+                        <MetaData>
+                           <CustomMetaData>
+                              <MetaDataItem>
+                                 <FieldID>ptx-container</FieldID>
+                                 <Value>subsection</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>xml:id</FieldID>
+                                 <Value>engineering-measurement-a-brief-history</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>Other Attributes</FieldID>
+                                 <Value/>
+                              </MetaDataItem>
+                           </CustomMetaData>
+                        </MetaData>
+                        <Children/>
+                     </BinderItem>
+                     <BinderItem UUID="E9E3E038-6015-43B9-9418-3594D21D7E09"
+                                 Type="Folder"
+                                 ptx="subsection"
+                                 Created="2024-07-12T09:20:18.868158-04:00">
+                        <Title>Length Units</Title>
+                        <MetaData>
+                           <CustomMetaData>
+                              <MetaDataItem>
+                                 <FieldID>ptx-container</FieldID>
+                                 <Value>subsection</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>xml:id</FieldID>
+                                 <Value>engineering-measurement-length-units</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>Other Attributes</FieldID>
+                                 <Value/>
+                              </MetaDataItem>
+                           </CustomMetaData>
+                        </MetaData>
+                        <Children/>
+                     </BinderItem>
+                     <BinderItem UUID="1411F535-A340-473A-9397-28500014AD8C"
+                                 Type="Folder"
+                                 ptx="subsection"
+                                 Created="2024-07-12T09:20:18.868158-04:00">
+                        <Title>Length Measuring Instruments</Title>
+                        <MetaData>
+                           <CustomMetaData>
+                              <MetaDataItem>
+                                 <FieldID>ptx-container</FieldID>
+                                 <Value>subsection</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>xml:id</FieldID>
+                                 <Value>engineering-measurement-length-measuring-instruments</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>Other Attributes</FieldID>
+                                 <Value/>
+                              </MetaDataItem>
+                           </CustomMetaData>
+                        </MetaData>
+                        <Children/>
+                     </BinderItem>
+                     <BinderItem UUID="A053EDF5-66BB-4EEB-B89D-ABB7A91FE02F"
+                                 Type="Folder"
+                                 ptx="subsection"
+                                 Created="2024-07-12T09:20:18.868158-04:00">
+                        <Title>Unit Conversions</Title>
+                        <MetaData>
+                           <CustomMetaData>
+                              <MetaDataItem>
+                                 <FieldID>ptx-container</FieldID>
+                                 <Value>subsection</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>xml:id</FieldID>
+                                 <Value>engineering-measurement-unit-conversions</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>Other Attributes</FieldID>
+                                 <Value/>
+                              </MetaDataItem>
+                           </CustomMetaData>
+                        </MetaData>
+                        <Children/>
+                     </BinderItem>
+                     <BinderItem UUID="9232AC1A-ABDE-42E1-AF9B-54E5A7FE87AD"
+                                 Type="Folder"
+                                 ptx="subsection"
+                                 Created="2024-07-12T09:20:18.868158-04:00">
+                        <Title>Example</Title>
+                        <MetaData>
+                           <CustomMetaData>
+                              <MetaDataItem>
+                                 <FieldID>ptx-container</FieldID>
+                                 <Value>subsection</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>xml:id</FieldID>
+                                 <Value>engineering-measurement-example</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>Other Attributes</FieldID>
+                                 <Value/>
+                              </MetaDataItem>
+                           </CustomMetaData>
+                        </MetaData>
+                        <Children/>
+                     </BinderItem>
+                     <BinderItem UUID="27E11326-AFE0-4262-ADC9-F91B7F5D7E28"
+                                 Type="Folder"
+                                 ptx="subsection"
+                                 Created="2024-07-12T09:20:18.868158-04:00">
+                        <Title>Example Problem</Title>
+                        <MetaData>
+                           <CustomMetaData>
+                              <MetaDataItem>
+                                 <FieldID>ptx-container</FieldID>
+                                 <Value>subsection</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>xml:id</FieldID>
+                                 <Value>engineering-measurement-example-problem</Value>
+                              </MetaDataItem>
+                              <MetaDataItem>
+                                 <FieldID>Other Attributes</FieldID>
+                                 <Value/>
+                              </MetaDataItem>
+                           </CustomMetaData>
+                        </MetaData>
+                        <Children/>
+                     </BinderItem>
+                  </Children>
+               </BinderItem>
+               <BinderItem UUID="3592C410-2EC8-44F2-8C27-DDAC4089A648"
+                           Type="Folder"
+                           ptx="section"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title>Temperature</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>section</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+               <BinderItem UUID="74492A22-B2A5-4D26-BACE-BB1ED4140D5B"
+                           Type="Folder"
+                           ptx="section"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title>Pressure</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>section</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+               <BinderItem UUID="911EE128-D66D-426F-81C9-FF0B7775E61A"
+                           Type="Folder"
+                           ptx="section"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title>Mass</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>section</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+               <BinderItem UUID="9B6EC49B-3BEE-4956-B52C-CF4D2DBCF522"
+                           Type="Folder"
+                           ptx="section"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title>Time</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>section</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+               <BinderItem UUID="78C59153-9A62-4F75-9982-B89A136156B8"
+                           Type="Folder"
+                           ptx="section"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title>Area</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>section</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+               <BinderItem UUID="F3F0D601-22DB-4352-95A4-0F24DE93719B"
+                           Type="Folder"
+                           ptx="section"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title>Volume</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>section</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+               <BinderItem UUID="6D39C865-7A4A-4A2E-BD93-587F83822D79"
+                           Type="Folder"
+                           ptx="section"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title> Torque </Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>section</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+               <BinderItem UUID="03148E26-97A3-4FFF-B0B4-B2CE8952ACAD"
+                           Type="Folder"
+                           ptx="section"
+                           Created="2024-07-12T09:20:18.868158-04:00">
+                  <Title>Power</Title>
+                  <MetaData>
+                     <CustomMetaData>
+                        <MetaDataItem>
+                           <FieldID>ptx-container</FieldID>
+                           <Value>section</Value>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>xml:id</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                        <MetaDataItem>
+                           <FieldID>Other Attributes</FieldID>
+                           <Value/>
+                        </MetaDataItem>
+                     </CustomMetaData>
+                  </MetaData>
+                  <Children/>
+               </BinderItem>
+            </Children>
+         </BinderItem>
+      </Children>
+   </BinderItem>
+</Children>
