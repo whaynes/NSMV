@@ -1,0 +1,11 @@
+/*  enlarge logo image in masthead to fit better. */
+.ptx-masthead .logo-link img {
+width: auto;
+height: 2em;
+max-height: unset;
+}
+/*  hide gigantic ptx logo */
+.ptx-toc::after {display:none;}
+
+/* Put subtitle on its own line in masthead*/
+.ptx-masthead span.subtitle {display:block}
