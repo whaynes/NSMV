@@ -6,8 +6,10 @@
   <book xml:id="NSMV-TM">
     <title>Engineering Training Manual</title>
     <subtitle>Training Ship <em>Patriot State</em></subtitle>
-    <xi:include href="./frontmatter.ptx"/>
-    <xi:include href="./TSPS.ptx"/>
-    <xi:include href="./main-propulsion.ptx"/>
+    <xi:include href="frontmatter.ptx"/>
+    <xi:include href="TSPS.ptx"/>
+    <xi:include href="main-propulsion.ptx"/>
+    <xi:include href="watchstanding.ptx"/>
+    <xi:include href="casualty-control.ptx"/>
   </book>
 </pretext>

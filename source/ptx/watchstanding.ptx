@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="watchstanding" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Watchstanding</title>
+  <introduction>
+    <p>Watchstanding is the primary duty of the third assistant engineer, and all Massachusetts Maritime Academy engineers should graduate competent to stand a safe watch.</p>
+    <p>The three parts of watchstanding: taking over the watch, performing the watch, and handing over the watch will be discussed in this chapter.</p>
+  </introduction>
+  <section xml:id="watchstanding-taking-over-the-watch">
+    <title>Taking over the watch</title>
+    <p>Your responsibilities when you take over a watch are clearly delineated by <pubtitle>STCW Section A-VIII/2</pubtitle>, which states:</p>
+    <blockquote>
+      <p>
+        Prior to taking over the engineering watch, relieving officers shall satisfy themselves regarding at least the following:
+        <ol>
+          <li>The standing orders and special instructions of the chief engineer officer relating to the operation of the ship's systems and machinery;</li>
+          <li>the nature of all work being performed on machinery and systems, the personnel involved and potential hazards;</li>
+          <li>the level and, where applicable, the condition of water or residues in bilges, ballast tanks, slop tanks, reserve tanks, fresh water tanks, sewage tanks and any special requirements for use or disposal of the contents thereof;</li>
+          <li>the condition and level of fuel in the reserve tanks, settling tank, day tank and other fuel storage facilities;</li>
+          <li>any special requirements relating to sanitary system disposals;</li>
+          <li>condition and mode of operation of the various main and auxiliary systems, including the electrical power distribution system;</li>
+          <li>where applicable, the condition of monitoring and control console equipment, and which equipment is being operated manually;</li>
+          <li>where applicable, the condition and mode of operation of automatic boiler controls such as flame safeguard control systems, limit control systems, combustion control systems, fuel-supply control systems and other equipment related to the operation of steam boilers;</li>
+          <li>any potentially adverse conditions resulting from bad weather, ice, contaminated or shallow water;</li>
+          <li>any special modes of operation dictated by equipment failure or adverse ship conditions;</li>
+          <li>the reports of engine-room ratings relating to their assigned duties;</li>
+          <li>the availability of fire-fighting appliances; and</li>
+          <li>the state of completion of engine-room log.</li>
+        </ol>
+      </p>
+    </blockquote>
+    <p>These items can be ascertained by inspecting the logbook and night orders, consulting with the off-going engineer and the bridge, and most importantly: completing a thorough inspection round of the engine room. You should make a complete inspection of all operating machinery before you take over the watch, and make quick rounds hourly throughout the watch.</p>
+    <p>You are also required to insure that all members of your watch appear to be fully capable of performing their duties effectively.  This means no hangovers!</p>
+    <paragraphs>
+      <title>Engineroom rounds</title>
+      <p>Making a thorough inspection round is an important part of being a professional marine engineer. The round will enable you to become familiar with the “normal” operating conditions of the plant, i.e. temperatures, pressures, vibrations, noises, liquid levels and odors. As problems develop, you will recognize small variations and catch them before they develop into larger problems. You will learn which machines are running, which will reduce the time necessary to restart a tripped machine, or to start up a stand-by unit in an emergency. You will note which tanks are in service and their levels, to insure that you have sufficient fuel oil, lube oil and feedwater to complete the watch.</p>
+      <p>
+        When you make an engine room round, you should:
+        <ul>
+          <li>Feel all motors for temperature and vibration. The ends of the motors will give an indication of the condition of the bearings. Heat generated on the motor sides may mean a motor overload or a cooling problem.</li>
+          <li>Check pump bearings and packing glands for excessive temperature or leakage. Leaking glands should be carefully tightened to minimize leakage into the bilge.</li>
+          <li>Be observant as you move from space to space.  Note any leaks, unusual vibrations, heat, smells or noises as you move from space to space.</li>
+          <li>Check bilge levels for water or oil.</li>
+          <li>Maintain good housekeeping. Leaks and spills, burned out light bulbs, loose tools, trash, etc. should be attended to.</li>
+          <li>Note the operation of gages and other instrumentation. A properly ranged gage will have the needle near the mid position (12 o’clock) during normal operation. A gage which never appears to move may be faulty, and should be replaced.  Note mis-calibrated gages in the maintenance log.</li>
+          <li>Observe and log all pressures and temperatures to see that they remain normal. Compare your observations with recent readings in the logbook, and look back to identify trends. Subtle changes in pressures or temperatures may indicate developing machinery problems.</li>
+          <li>Check the oil level in machinery sumps regularly; if changes occur, investigate for leaks. Samples of oil should be tested regularly to check for water leaks and acidity.</li>
+          <li>Observe and log the main engines and auxiliary machinery oil and cooling water temperatures</li>
+          <li>Check the instrumentation on the main switchboard, to note the electrical load and check for grounds.</li>
+          <!--todo  discuss this with operating engineers -->
+        </ul>
+      </p>
+    </paragraphs>
+  </section>
+  <section xml:id="watchstanding-standing-the-watch">
+    <title>Standing the watch</title>
+    <p>When you are the Engineering Officer of the Watch (EOW) you are in charge of the engine room and responsible for the proper operation of all machinery and the safety of all personnel in the engine room.  These are your primary duties, as STCW clearly states:</p>
+    <blockquote>
+      <p>Officers in charge of an engineering watch shall not be assigned or undertake any duties which would interfere with their supervisory duties in respect of the main propulsion system and ancillary equipment.  They shall keep the main propulsion plant and auxiliary systems under constant supervision until properly relieved, and shall periodically inspect the machinery in their charge.  They shall also ensure that adequate rounds of the machinery and steering-gear spacers are made for the purpose of observing and reporting equipment malfunctions or breakdowns, performing or direction routine adjustments, required upkeep and any other necessary tasks.</p>
+      <p>
+        <attribution><pubtitle>STCW Code Section A-VIII/2 part 3-2 ¶ 69</pubtitle></attribution>
+      </p>
+    </blockquote>
+    <p>As long as you are on watch, you are in charge and responsible.  Your responsibility only ends when you are properly relieved.  Even if the chief engineer is in the engineroom, you remain responsible for the watch unless he specifically informs you that he has taken charge.</p>
+    <p>The authority of the Cadet Engineer of the watch aboard the <em>Patriot State</em> is more limited than that of the watch engineer, so as a cadet you should get permission of the watch officer before carrying out any operations described below.</p>
+    While on watch, operations should always be conducted according to ship's policy, standing orders, U.S. and international regulations, and orders from your superior officers.  When the plant is in maneuvering status, the throttles must be continuously manned, and all equipment used for maneuvering must be ready for immediate use. You must carry out any bridge orders promptly.  
+
+The plant status, operational requirements, personnel, and material condition of the machinery are constantly changing so you must keep yourself advised of the status of everything in the engine room by making regular rounds of the machinery space.  In particular, you should look for any equipment that is out of service, expected to malfunction, or that requires special attention which may affect engineroom operations.
+
+You should operate all machinery according to standard procedure and the manufacturer's instructions and make routine adjustments as necessary to keep the plant running smoothly.  Some examples of routine operations include:
+
+*	responding to alarms,
+*	taking on make up feed,
+*	changing over tank suctions and discharge,
+*	shifting and cleaning strainers, and
+*	changing over to stand-by equipment.
+
+However, you must obtain permission from the bridge before conducting out any operations that have effects outside the engineroom.  Examples include:
+
+*	blowing tubes,
+*	starting the main engine jacking gear, 
+*	spinning the engine with steam, and 
+*	pumping bilges.
+
+Significant changes in the alignment of the main or auxiliary plants should only be made under the cognizance of the chief engineer, for example: 
+
+*	lighting off the boiler,
+*	warming up the main engines,
+*	securing after "finished with engines," and
+*	changing over generators.
+    <paragraphs>
+      <title>Orders</title>
+      You are expected to carry out routine operations without being specifically told to what to do, but direction can be found in the *standing orders*, and in the *night orders.* Standing orders and night orders may be formal written instructions, requiring the watch officer to read and sign, or they may be less formal, simply written on the engine room status board.  On some ships, instructions are verbally passed from watch to watch.
+Standing orders are the generalized and permanent orders written by the chief engineer that describe ship's policy, standard operating procedures, and the normal daily routine of the plant. The chief may establish the frequency for switching over machinery to equalize wear, or assign a daily task to a particular watch, such as having the 4-8 watch change over the TG lube oil strainers.
+Night orders are daily, specific instructions issued by the chief or first engineer, detailing machinery to be secured or started, tanks to be filled or drained, maintenance to be carried out, etc.  Orders to prepare the plant to get underway would be found in the night orders.
+    </paragraphs>
+    <paragraphs>
+      <title>Logbooks</title>
+      The Engineering Officer of the Watch is responsible for maintaining several logbooks. Every ship will have an  *Engineroom Logbook*, an *Oil Record Book* (ORB), and if not automatically logged, a *Bell Book*.  In addition, the *Kennedy* also maintains a *Maintenance Log*.
+
+The Engineering Log, ORB, and Bell Book are vital, legal documents and should be handled accordingly.  They serve to document the operations carried out aboard ship, and should answer the questions: who? what? where? when? and why? Logbooks will be used by the Coast Guard in any accident, casualty, or spill investigation.  A properly filled out logbook may be able to exonerate you, while a fraudulent one might convict you.
+
+When filling out logbooks, entries are to be printed legibly, using a black pen, and no erasures are permitted.  If a mistake is made, a single line should be drawn through the error and the correction entered and initialed. Entries must be maintained contemporaneously with the events they describe.  Wash your hands before filling out the logbook, and keep the logbook clean.  Sign the logbook at the end of the watch.
+      <paragraphs>
+        <title>Engineroom Logbook</title>
+        The Engineering Log is a complete daily record of important events and data pertaining to the operation of the plant.  The log includes operational details such as:
+
+-	the average watch speed in rpm,
+-	the total engine miles steamed,
+-	fuel, water and lube oil on hand -- received, expended,
+-	the status of the engine, boilers and principal auxiliaries, and
+-	important temperatures, pressures, etc.
+
+The watch rpms are computed to the even hour at the end of the watch. Fuel oil meter and shaft counter readings should be recorded at arrival, departure, stand-by, FWE, and at the end of the watch. Entries are normally maintained only for machinery and systems that are on line.  The entry for machinery and systems that are off line is a dashed line. 
+
+The remarks section of the log book is used to record non-routine events, such as:
+
+*	accidents resulting in personnel injury or death,
+*	emergency drills, including all equipment tested during the drill,
+*	equipment tests such as the emergency diesel, steering gear, throttles, etc.,
+*	bunkering, including amount and FO characteristics,
+*	non-routine starting and stopping of equipment, changes in plant status, and
+*	machinery or systems casualties or damage.
+&gt;**0900**	Examined and tested primary and secondary steering gear, whistle, internal communications equipment, telegraph, and shaft alley watertight doors.
+
+&gt; `\noindent`{=latex} **1435**	Tested emergency generator. Observed steady state temperatures and pressure readings.
+
+&gt; `\noindent`{=latex} **0730**	Tested main propulsion machinery ahead and astern.  All found in good order.
+      </paragraphs>
+      The Bell Book is a chronological record of orders pertaining to the speed of the main engine.  It shows the time that each order directing a propeller speed is received and the meaning of such order. Most ships today are equipped with automatic bell logging equipment 
+
+The following information should be recorded in the bell book at stand-by for getting underway, departure, stand-by for entering port and finished with engines:
+
+-	Time 
+-	Signal received 
+-	FO meter reading 
+-	Main engine shaft counter reading
+
+The following symbols are used when recording engine order telegraph orders:
+
+| EOT Command    |   Symbol  |  
+| :------------- | :-------: |  
+Dead slow ahead  |  ![][dsa] |  
+Slow ahead       |  ![][sa]  |  
+Half ahead       |  ![][ha]  |  
+Full ahead       |  ![][fa]  |  
+Stop             | ![][stop] |  
+Dead slow astern |  ![][ads] |  
+Slow astern      |  ![][as]  |  
+Half astern      |  ![][ah]  |  
+Full astern      |  ![][af]  |  
+Stand-by         |  ![][sb]  |  
+
+
+[dsa]: pics/bells/deadslowahead.png width=0.5in
+[sa]: pics/bells/slowahead.png width=0.5in
+[ha]: pics/bells/halfahead.png width=0.5in
+[fa]: pics/bells/fullahead.png width=0.5in
+[stop]: pics/bells/stop.png width=0.5in
+[ads]: pics/bells/deadslowastern.png width=0.5in
+[as]: pics/bells/slowastern.png width=0.5in
+[ah]: pics/bells/halfastern.png width=0.5in
+[af]: pics/bells/fullastern.png width=0.5in
+[sb]: pics/bells/standby.png width=0.5in
+Cargo and passenger ships are required maintain an *Oil Record Book Part I (Machinery Space Operations)* by Federal [33CFR151.25][#CFR] and MARPOL 73/78 regulations. The Oil Record Book contains a record of all movements of oil or oily water that occurs aboard the vessel.  Tankers are subject to different, more extensive rules, and must maintain Part I and also Part II (Cargo/Ballast Operations).
+
+Oil Record Book are available from the Coast Guard Marine Safety Office or Marine Inspection Office. The latest version of the ORB is Revision 11-16.  You should always use an up-to-date ORB, because older versions do not reflect the current laws.  Even though the ORB is used aboard the ship, it technically remains the property of the U.S. Government.
+
+You must make an entry in the Oil Record Book whenever any of the following machinery space operations take place:  
+
+-	ballasting or cleaning of fuel oil tanks,
+-	discharge of dirty ballast or cleaning water from fuel oil tanks,
+-	disposal of oily residues (sludge),
+-	discharge overboard or disposal otherwise of bilge water that has accumulated in machinery spaces, or
+-	emergency, accidental or other exceptional discharge of oil or oily mixture.
+
+The law establishes several requirements for maintaining an Oil Record Book. ORB entries must be fully recorded without delay after each operation. Each completed operation must be signed by the person in charge of the operation, and each completed page signed by the master. The ORB must be kept aboard for a period of at least three years, and readily available for inspection at all times.   Legally the ORB is the responsibility of the Master of the vessel, but the day-to-day entries will be made by the engineering watch officer. 
+
+Maintenance of the Oil Record Book is serious.  Here is a recent press release from the US Environmental Protection Agency.
+
+&gt;(10/13/05) A.P. Moller-Maersk, A/S, of Denmark, pleaded guilty and was sentenced to pay a half million dollar fine on Sept. 26 by the U.S. District Court for the Northern District of California. Moller-Maersk, which operates a fleet of more than 200 vessels worldwide, was also ordered to develop and implement a fleet-wide environmental compliance program. The investigation began on May 25, 2004, when members of the Coast Guard Marine Safety Office discovered waste oil in the overboard piping of the Motor Vessel Jane Maersk during a routine inspection. Further investigation by the Coast Guard and EPA's Criminal Investigation Division also uncovered evidence of false entries in the ship's Oil Record Book. The false entries in the book concerned the operation of the ship's incinerator which, in part, is used to burn waste oil sludge. In a related court action, Johnnie Nielsen of Copenhagen, Denmark, who is the ship's second engineer was sentenced to four months' community confinement for his role in concealing and destroying key documents in anticipation of the Coast Guard inspection of the Jane Maersk. Nielsen further admitted that he had observed engineers on other Moller-Maersk vessels hiding the same key documents prior to pending inspections. Failing to properly maintain an Oil Record Book is a violation of the MARPOL Treaty, which is designed to prevent pollution from vessels that can, among other things, represent a threat to fish and other aquatic life. The case was investigated by the U.S. Coast Guard Investigative Service and the San Francisco Office of EPA's Criminal Investigation Division with assistance from the Coast Guard Pacific Judge Advocate General's Office. It was prosecuted by the U.S. attorney's office in San Francisco.[][#EPA]
+    </paragraphs>
+    The watch engineer should be prepared to respond to emergencies such as fire, flooding, loss of feed water pressure, loss of vacuum, major steam leak, etc.  You should rehearse in your mind the action to be taken in the event of casualties such as these. In addition, rehearse the action to be taken in the event of any sudden maneuvers requested from the bridge, i.e., astern bells or man overboard.
+
+If a casualty occurs, notify the chief Engineer and the bridge and take immediate action to correct the situation. Afterwards, make appropriate entries in the log book.  
+
+If you have any doubt as to the safe operation of any equipment or if you consider it necessary for the safety of the vessel, secure the doubtful item immediately and take all necessary precautions to safeguard the vessel, personnel, and machinery.
+
+If the situation is escalating or beyond your capabilities, call for help without hesitation before it's too late.
+
+Casualty control is discussed in detail in [][Casualty Control].
+  </section>
+  <section xml:id="watchstanding-handing-over-the-watch">
+    <title>Handing over the watch</title>
+    <p>
+      When the end of your watch comes,  you are responsible to insure that the watch is ready to be handed over, in particular be sure that:
+      <ul>
+        <li>The bilges are dry and oil free.</li>
+        <li>The trash cans are emptied.</li>
+        <li>The decks are swept up.</li>
+        <li>The logbook is completed, signed, and the log desk area is clean and neat.</li>
+        <li>The coffee is made fresh and the coffee pot area is clean and wiped down.</li>
+        <li>The machinery is operating normally. Any problems should be discussed with the relieving officer. If he agrees to accept the watch, he also agrees to accept the outstanding problems.</li>
+      </ul>
+    </p>
+    <p>Finally, <pubtitle>STCW Section A-VIII/2 part 3-2 ¶ 56</pubtitle> states that:</p>
+    <blockquote>
+      <p>the officer on charge of the engineering watch shall not hand over the watch to the relieving officer if there is reason to believe that the latter is obviously not capable of carrying out the watchkeeping  duties effectively, in which case the chief engineer officer shall be notified.</p>
+    </blockquote>
+  </section>
+</chapter>

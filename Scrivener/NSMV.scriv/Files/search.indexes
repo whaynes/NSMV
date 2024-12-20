@@ -40,6 +40,23 @@ For each conversion, we create an appropriate unit-factor from &lt;xref ref="atm
         <Document ID="41688EDE-13EF-48C8-A4A4-7F1D03235C4D">
             <Title>Diesel - pre edit by weh</Title>
         </Document>
+        <Document ID="BA45C54A-9679-44B5-B091-1C4D06C162DA">
+            <Title>Hot bearings</Title>
+            <Text>A *hot* bearing is one which is operating above its normal temperature, where *normal* depends on the bearing, the load on the bearing, and the shaft speed. A hot bearing should be watched carefully and rectified before it becomes *uncontrollably hot*.  A bearing is considered 
+uncontrollably hot when it reaches 180 °F, has a 50 °F rise across the bearing, or is increasing rapidly and cannot be controlled. The most effective treatment of a hot bearing is to immediately slow down the main engine, which which will reduce the frictional load on the bearing.
+
+The main propulsion system and the turbogenerators, use *plain* bearings to maintain critical radial and axial alignment between the turbine and casings, gears and line shaft.  Plain bearings, which includes cylindrical journal bearings and Kingsbury thrust bearings, are designed to safely transmit the dynamic loads, weight, and thrust of the shaft to the stationary structure of the ship.  They also serve to maintain the radial and axial position of the rotating parts, which is critical to prevent vibration and unwanted contact. 
+
+Plain bearings have two surfaces -- one moving, one stationary -- separated by a wedge of lubricating oil. The oil film prevents the friction and wear resulting from localized welding that occurs when the parts come in contact with each other. The moving element is usually polished steel, either an integral part of the shaft, or a replaceable sleeve, and the stationary surface is usually a *babbitt* coated shell attached to steal backing. A properly designed and lubricated plain bearing has a higher load carrying capacity, a lower coefficient of friction, and a longer life than an equivalent rolling contact bearing.
+
+Babbitt is a soft, white-metal alloy which has excellent bearing properties.  It is a mixture of about 90% tin and 10% mixture of antimony and copper, with traces of lead, iron, arsenic, bismuth, zinc, aluminum, and cadmium.  Babbitt has a ductile composition which enables it to conform to the moving surfaces and promote the formation of a lubricant film.  Foreign particles will embed themselves into the soft babbitt rather than score the shaft.  
+
+Unfortunately babbitt metal has a low melting temperature. If the bearing is allowed to overheat it will soften like butter and the bearing will *wipe*.  Therefore babbitted bearings must be operated within strict temperature limits to avoid serious damage to the plant.  A wiped bearing can stop the ship.
+
+A bearing will not wipe if it is supplied with enough cool, high quality lube oil of the correct viscosity to form an oil wedge and carry away frictional heat.  Any bearing that is uncomfortably hot to touch should be watched carefully, as should any bearing that is operating hotter than it normally does.
+
+When starting up machinery, you should observe the bearing temperatures carefully.  A bearing temperature of 160 °F may be of no concern if it rose to that value gradually, while the engine is operating at full speed.  The same bearing would be a concern if it suddenly spiked to that value in a short period for no apparent reason.  When starting up, a temperature rise of more than about one degree per minute should be investigated.</Text>
+        </Document>
         <Document ID="B850ED40-1A89-4BF5-865B-532C4AE696BF">
             <Text>Mass in one unit can easily converted to other units by using simple conversion factors.  Some important mass relations to remember are: &lt;md&gt;
 &lt;mrow&gt;1 \mathrm{\ kg}  \amp= 1000 \mathrm{\ g}&lt;/mrow&gt;
@@ -486,8 +503,18 @@ Impeller vanes which curve backwards with respect to their direction of rotation
  The pump efficiency would decrease. 
  &lt;/ul&gt;&lt;/p&gt;</Text>
         </Document>
+        <Document ID="6C16DE38-A114-4E5E-9080-01642B8685E0">
+            <Title>Orders</Title>
+            <Text>You are expected to carry out routine operations without being specifically told to what to do, but direction can be found in the *standing orders*, and in the *night orders.* Standing orders and night orders may be formal written instructions, requiring the watch officer to read and sign, or they may be less formal, simply written on the engine room status board.  On some ships, instructions are verbally passed from watch to watch.</Text>
+        </Document>
         <Document ID="4220B3A7-F96B-49C7-9CDA-0A9F744F958B">
             <Title>Gate Valves</Title>
+        </Document>
+        <Document ID="C3307939-39BC-4348-91CA-BD523EE16905">
+            <Title>Action [actioncontrolair]</Title>
+            <Text>When the control air pressure alarm sounds, immediately check the control air compressor and attempt to restart it if  it is not running.  If the control air compressor can't be restarted, restore pressure by opening the crossover valve between the control air system and the ship's service air system. 
+
+If you are unable to restore pressure, or if there is a major leak that can not be isolated, it is doubtful that you will be able to get everything under hand control without losing the plant.  If so, start the auxiliary diesel generator and put it online, while simultaneously attempting to stabilize the plant using the regulating valve handwheel jacks or by-passes.</Text>
         </Document>
         <Document ID="32E76A26-9F82-4F2F-9D8F-7B3B9C1C9657">
             <Text>Threaded pipe connections, also known as screw or tapered pipe threads, are a common method for joining pipes and fittings in plumbing, industrial, and fluid conveyance systems. These connections involve the use of threads, which are helical ridges or grooves on the exterior or interior surface of a pipe or fitting, to create a secure and leak-resistant joint. Here's how threaded pipe connections work:
@@ -954,6 +981,11 @@ Phase Shift Phase shift refers to the time difference between two periodic wavef
 &lt;/image&gt;
 &lt;/figure&gt;
 </Text>
+        </Document>
+        <Document ID="07A33C9E-3124-48A3-A546-8021D7D5DC53">
+            <Title>Boiler gage glass failure</Title>
+            <Text>This problem is easy to discover and correct.  A cracked gage glass will be indicated by hissing, leaking steam, and water dripping from the glass.  This problem usually occurs immediately after improper installation of a new glass, or after the glass has been in service for a long time.</Text>
+            <Notes>Casualty Control Document in my files, from unknown source.</Notes>
         </Document>
         <Document ID="A990D340-8B32-4517-8774-146C3611D206">
             <Title>Steam Propulsion</Title>
@@ -1810,6 +1842,28 @@ The history of time measurement is a fascinating subject, from the ancient sundi
         <Document ID="38B35A89-AE4A-4A73-83F1-5CD4E059D63F">
             <Title>UNIONS</Title>
         </Document>
+        <Document ID="32091CEF-051B-4F1C-8687-DE470A33CD2E">
+            <Title>Loss of lube oil pressure</Title>
+            <Text>Lube oil system casualties, including loss of lube oil pressure, high bearing temperatures, and lube oil system leaks are very serious and can result in extensive damage to the main engine bearings and gears.  This damage will immobilize the ship and will be very expensive to repair. 
+
+The lube oil system is designed with safety features and redundancy to enable the operator to secure the main engine and avoid or minimize this damage. Normally the *Kennedy* is operated with an electrically driven main lube oil pump backed up by a turbine driven stand-by pump, or vice-versa.  The stand-by pump is arranged to automatically start on the loss of pressure at the main pump discharge.   Both pumps discharge to the lube oil gravity tank, which maintains a constant oil pressure on the bearings and has enough capacity to supply the system with oil for three minutes after the failure of both pumps.  At the same time, the main engine governor responds to low oil pressure by tripping the low pressure relay on the  throttles which closes the ahead throttle and stops the engine. 
+
+The first indication of a low lube oil pressure casualty will be the sounding of the low lube oil pressure alarm, triggered by a loss of the main lube oil pump's discharge pressure.  At this point the stand-by pump should automatically start and maintain normal bearing pressures.  
+
+During a lube oil casualty, the lube oil gravity tank *bull's eye* is an important indication of the system's "health."  As long as either lube oil pump is working, oil will overflow from the gravity tank and be visible in the bull's eye, and the bearings will be supplied with adequate lubrication.  If no oil flow is visible there, it means that neither pump is supplying oil, in which case immediate action must be taken.  Oil pressure gages at the lube oil header, bearing temperatures, and the lube oil bubblers at each bearing should be watched carefully during a casualty to help gage the extent of the damage.
+
+Some possible causes of lube oil failure include:
+
+-	Lube oil pump failure due to electrical or mechanical causes.
+-	A leak in in the lube oil suction line, or in the suction strainer cover, causing the pump to lose suction.  Never  change over suction strainers while the lube oil system is operating.  Note: the *Kennedy* does not have a LO suction strainer.
+-	A restriction in either the suction or discharge strainer.
+-	Relief valve failure, preventing the pump from developing sufficient pressure.
+-	A low or empty lube oil sump, which could be due to:
+	-	a leak in the lube oil cooler.
+	-	incorrect line up of the lube oil purifier causing the sump to be pumped out or,
+	-	a leak on the discharge side of the lube oil pump.
+	</Text>
+        </Document>
         <Document ID="8A3A7534-AFA7-4AF9-86EE-6441D7A8AA55">
             <Title>Introducton</Title>
             <Text>Four 4000 kW, 6600 volt, three-phase generators provide electrical power for propulsion and for all other normal ship’s requirements.  Each generator is directly driven by a 16-cylinder, 4-stroke, 4200 kW diesel engine.  Since the generators have eight poles, when driven at 900 rpm they produce 60 Hz AC.
@@ -1975,6 +2029,26 @@ n is the rotational speed of the engine in rpm.
 The ratio of an engine's brake horsepower and its indicated horsepower is called the mechanical efficiency of the engine. The mechanical efficiency of a four-cycle diesel is about 82 to 90 percent. This is slightly lower than the efficiency of the two-cycle diesel engine. The lower mechanical efficiency is due to the additional friction losses and power needed to drive the piston through the extra two strokes. 
 </Text>
         </Document>
+        <Document ID="5CADF4BC-1F90-4937-B497-E1441FC43797">
+            <Title>Action [actionfdfan]</Title>
+            <Text>You should initiate a forced shutdown of the boiler as soon as forced draft fan failure is detected. Slow down and operate on one boiler while the situation is analyzed. Be sure that the master sender is sensing the running boiler.
+ 
+If the problem can be corrected quickly, do so. Otherwise open the air supply crossover from the other boiler, purge and light off using one fan to supply both boilers. If the boiler produced significant amounts of smoke, operate the soot blowers as soon as practicable.
+
+When operating on one forced draft fan, it may be necessary to operate at reduced speed to prevent the boilers from smoking.</Text>
+        </Document>
+        <Document ID="A0C5D959-5055-4952-ABF0-CBA3D44D2F70">
+            <Title>Casualties</Title>
+            <Text>The watch engineer should be prepared to respond to emergencies such as fire, flooding, loss of feed water pressure, loss of vacuum, major steam leak, etc.  You should rehearse in your mind the action to be taken in the event of casualties such as these. In addition, rehearse the action to be taken in the event of any sudden maneuvers requested from the bridge, i.e., astern bells or man overboard.
+
+If a casualty occurs, notify the chief Engineer and the bridge and take immediate action to correct the situation. Afterwards, make appropriate entries in the log book.  
+
+If you have any doubt as to the safe operation of any equipment or if you consider it necessary for the safety of the vessel, secure the doubtful item immediately and take all necessary precautions to safeguard the vessel, personnel, and machinery.
+
+If the situation is escalating or beyond your capabilities, call for help without hesitation before it's too late.
+
+Casualty control is discussed in detail in [][Casualty Control].</Text>
+        </Document>
         <Document ID="4A388B07-62E5-4701-BA13-850D048772C4">
             <Title>Engine Shutdowns</Title>
         </Document>
@@ -2011,6 +2085,11 @@ A person who weighs 175 pounds on a scale, experiences a force of approximately 
 &lt;/figure&gt;
 Lobe pumps operate on the same principle as gear pumps. There are two rotors turning in the pump chamber operating through timing gears on the shafts outside the pump chamber. Most rotors are fitted with two to three lobes (similar to large gear teeth) to push fluid from the suction to the discharge side of the pump. Although the design will handle both liquids or gases, they are more commonly found pumping gases. A common application is an air pump to supply or increase the air flow to diesel and gasoline engines as part of the system necessary to make them run or increase the horsepower of the engine. In most cases they are considered high volume, low pressure pumps. 
 </Text>
+        </Document>
+        <Document ID="B8B8DA70-4F23-4399-9FCF-0A7CFEEB64C3">
+            <Title>Standing orders</Title>
+            <Text>Standing orders are the generalized and permanent orders written by the chief engineer that describe ship's policy, standard operating procedures, and the normal daily routine of the plant. The chief may establish the frequency for switching over machinery to equalize wear, or assign a daily task to a particular watch, such as having the 4-8 watch change over the TG lube oil strainers.</Text>
+            <Notes>eident</Notes>
         </Document>
         <Document ID="6E3A6831-C464-4F92-B8FD-AE9F8185604F">
             <Title>Head Pressure</Title>
@@ -2216,6 +2295,44 @@ Steam does not do any of these things directly. But some of the thermal energy c
 In this chapter we will discuss some basic ideas of energy and some of the important energy transformations that occur in the engineering plant of a steam-driven ship. Study this chapter carefully. The information given here will not help you to light off a boiler, clean firesides, stand a watch, or wipe up oil from the floorplates; however, it will help you to understand the generation of steam, the use of steam in the shipboard engineering plant, and the relationship of the boilers to the rest of the engineering plant. Understanding the information given in this chapter will also give you a sound background for understanding some of the more complicated things that you will have to learn as you advance. 
 As you study this chapter, watch out for unfamiliar definitions. Many of the words and terms used will be familiar to you, but the definitions we use may be more precise than the ones you have heard before. Be sure that you understand the exact meaning of each word and term used in connection with energy and energy transformations. </Text>
         </Document>
+        <Document ID="362327B3-5569-4848-9452-022E5AAF6722">
+            <Title>Bell book</Title>
+            <Text>The Bell Book is a chronological record of orders pertaining to the speed of the main engine.  It shows the time that each order directing a propeller speed is received and the meaning of such order. Most ships today are equipped with automatic bell logging equipment 
+
+The following information should be recorded in the bell book at stand-by for getting underway, departure, stand-by for entering port and finished with engines:
+
+-	Time 
+-	Signal received 
+-	FO meter reading 
+-	Main engine shaft counter reading
+
+The following symbols are used when recording engine order telegraph orders:
+
+| EOT Command    |   Symbol  |  
+| :------------- | :-------: |  
+Dead slow ahead  |  ![][dsa] |  
+Slow ahead       |  ![][sa]  |  
+Half ahead       |  ![][ha]  |  
+Full ahead       |  ![][fa]  |  
+Stop             | ![][stop] |  
+Dead slow astern |  ![][ads] |  
+Slow astern      |  ![][as]  |  
+Half astern      |  ![][ah]  |  
+Full astern      |  ![][af]  |  
+Stand-by         |  ![][sb]  |  
+
+
+[dsa]: pics/bells/deadslowahead.png width=0.5in
+[sa]: pics/bells/slowahead.png width=0.5in
+[ha]: pics/bells/halfahead.png width=0.5in
+[fa]: pics/bells/fullahead.png width=0.5in
+[stop]: pics/bells/stop.png width=0.5in
+[ads]: pics/bells/deadslowastern.png width=0.5in
+[as]: pics/bells/slowastern.png width=0.5in
+[ah]: pics/bells/halfastern.png width=0.5in
+[af]: pics/bells/fullastern.png width=0.5in
+[sb]: pics/bells/standby.png width=0.5in</Text>
+        </Document>
         <Document ID="187253AA-D3C1-4279-9D3C-37F3A1B1A2F9">
             <Title>Engine Alarm Systerm</Title>
         </Document>
@@ -2225,6 +2342,11 @@ As you study this chapter, watch out for unfamiliar definitions. Many of the wor
 Diesel engines provide a rugged, efficient, versatile, self-contained source of power. These engines come in sizes ranging from a few horsepower to over 100,000. Within the limits of its range of horsepower, the diesel engine is one of the most efficient source of power available. 
 Diesels are widely used in a wide variety of commercial and industrial applications including electrical generation. In the field of transportation, they power locomotives, construction equipment, vehicles, and all varieties of oceangoing vessels. 
 Diesel engines can operate on a wide variety of liquid fuel oils. Most small and medium engines operate on petroleum diesel fuel, which is a distilled from crude oil, while large slow speed marine engines operate on Heavy Fuel Oil (HFO). There is a growing trend for engines to run on gaseous fuels such as natural gas or bio-gas.  Engines which can operate on a combination of liquid and gaseous fuels are called dual-fuel.
+</Text>
+        </Document>
+        <Document ID="4B4A1CA7-6523-452F-8BD3-FD8DD647D094">
+            <Title>Don't delay</Title>
+            <Text>When a casualty does occur you must respond quickly.  Don't stand around waiting to see what will happen next.  Remember that the situation can spiral out of control quickly, and that the ship may be in congested or dangerous waters where loss of propulsion could endanger everyone aboard. Notify the bridge and the chief at the first sign of trouble, and take corrective action promptly. Don't be ashamed to call for more help if you need it; the safety of the vessel, personnel and machinery is in your hands, and it must be your primary consideration.
 </Text>
         </Document>
         <Document ID="F56997C1-19BE-4E1B-B838-1FC006428CBF">
@@ -2289,6 +2411,25 @@ It's important to choose the correct thread standard for your application to ens
  &lt;/choice&gt;
 &lt;/choices&gt;
 </Text>
+        </Document>
+        <Document ID="59E4B5D5-E123-4C1F-8448-AD96BAF546EE">
+            <Title>Low water in boiler</Title>
+            <Text>One of the most serious casualties you may encounter is low water in the boiler. It is essential that you always maintain a water level in the boiler, or risk serious tube damage or even a boiler explosion.  The boiler gage glasses are designed to span the safe operating range of the boiler water level. If water ever goes out of sight in the glass, the boiler must be secured immediately until the cause can be determined and rectified. Multiple water level indicators and high and low level alarms should give sufficient warning before serious damage occurs.  The main fuel oil solenoids will close and shut off fuel to the boiler upon receiving a low-low level alarm.
+A low water casualty can occur gradually or suddenly, and can affect one or both boilers.   The onset of the condition may give you some clues as to the cause of the problem. For example, if both boiler are dropping the problem is probably with the feedwater supply.  If only only one boiler is affected, the problem lies with the feedwater regulator or feed line, or within the boiler.
+Low water can be caused by:
+
+*	Incorrect Set Points -- If the feed pump governor or the feedwater regulator system automatic settings are incorrect they can be corrected by judicious adjustment. If the load on the boiler changes significantly it may be necessary to manually adjust these set points. 
+* 	Low Feed Pump Discharge Pressure -- This situation can be caused by a number of problems. Among the possibilities: low steam pressure to the feed pump, high auxiliary exhaust pressure, the feed pump recirc line open too wide, or the feed pump discharge recirculating back to the DC heater through the idle feed pump. Low auxiliary exhaust pressure, or low DC heater level may cause the hot feedwater at the pump suction to flash to steam, resulting in the pump overspeeding and tripping out. An empty DC heater will starve the feed pump. In any of these events, the root cause must be corrected and pump discharge pressure restored before the water level in the boiler drops out of sight. 
+* 	Feed pump failure -- If the feed pump shaft or bearings fail the pump will quickly come to a stop, and the watch engineer must bring the stand-by unit into service before the water level in the boilers is lost.
+*	Boiler Tube Failure -- Tube failure may be the cause of low water in the boiler, or it may be the result, because the operator has let the water level get too low and tubes have overheated. In either case the boiler must be secured immediately. See the procedure for forced boiler shutdown in [](#forcedshut-down). 
+
+Low water can result in:
+
+*	Boiler tube failure
+*	Loss of steam pressure
+*	Loss of electrical power to auxiliaries
+*	Loss of propulsion</Text>
+            <Notes>weh</Notes>
         </Document>
         <Document ID="EA5D4CC6-8D96-4995-89E1-467F589F6B8C">
             <Title>Plug-type Valves</Title>
@@ -2498,6 +2639,12 @@ The coolant pressure, temperature, flow rate and conductivity are closely monito
    - NPT threads are tapered, which helps create a seal by wedging the threads together as the fittings are tightened.
    - NPTF threads have modified shapes to improve sealing without the need for thread sealants.
 </Text>
+        </Document>
+        <Document ID="5C0939B7-2D43-4A5A-BD22-93F647D95C7B">
+            <Title>Action [actionhighwater]</Title>
+            <Text>If the boiler water level is high but still in sight, look for problems with the feedwater regulator and the feed pump.  Lower the feed pump pressure, put the feedwater regulator on hand, or hand check the boiler to get the water level under control.
+
+If the boiler water level has gone out of sight, secure the boiler immediately.  Kill the fires, close the steam stops, close the feed stops, and open the superheater vent.  Close the throttles, and if both boilers are secured, secure turbogenerators and auxiliary turbines. Open the superheater header drains and turbine drains, and lower the level in the drum by surface blows or frequent, short bottom blows. After the water level has been restored, light off again, carefully drain steam lines, and admit steam to the astern turbine first, then the ahead turbine.</Text>
         </Document>
         <Document ID="EB9FCE57-36E9-462A-9A37-12C442C56D23">
             <Title>Measuring Instruments</Title>
@@ -4091,6 +4238,28 @@ Control State The IGBT can be controlled by applying a variable voltage to the g
    &lt;image width="60%" source="images/thermister.png"/&gt;
 &lt;/figure&gt;</Text>
         </Document>
+        <Document ID="AA861BBE-EDF4-473F-AA07-9A8682FFADBC">
+            <Title>Engineroom rounds</Title>
+            <Text>Making a thorough inspection round is an important part of being a professional marine engineer. The round will enable you to become familiar with the “normal” operating conditions of the plant, i.e. temperatures, pressures, vibrations, noises, liquid levels and odors. As problems develop, you will recognize small variations and catch them before they develop into larger problems. You will learn which machines are running, which will reduce the time necessary to restart a tripped machine, or to start up a stand-by unit in an emergency. You will note which tanks are in service and their levels, to insure that you have sufficient fuel oil, lube oil and feedwater to complete the watch. 
+When you make an engine room round, you should: &lt;ul&gt;
+Feel all motors for temperature and vibration. The ends of the motors will give an indication of the condition of the bearings. Heat generated on the motor sides may mean a motor overload or a cooling problem.
+Check pump bearings and packing glands for excessive temperature or leakage. Leaking glands should be carefully tightened to minimize leakage into the bilge.
+Be observant as you move from space to space.  Note any leaks, unusual vibrations, heat, smells or noises as you move from space to space. 
+Check bilge levels for water or oil.  
+Maintain good housekeeping. Leaks and spills, burned out light bulbs, loose tools, trash, etc. should be attended to.
+Note the operation of gages and other instrumentation. A properly ranged gage will have the needle near the mid position (12 o’clock) during normal operation. A gage which never appears to move may be faulty, and should be replaced.  Note mis-calibrated gages in the maintenance log.
+Observe and log all pressures and temperatures to see that they remain normal. Compare your observations with recent readings in the logbook, and look back to identify trends. Subtle changes in pressures or temperatures may indicate developing machinery problems.
+Check the oil level in machinery sumps regularly; if changes occur, investigate for leaks. Samples of oil should be tested regularly to check for water leaks and acidity.
+Observe and log the main engines and auxiliary machinery oil and cooling water temperatures 
+Check the instrumentation on the main switchboard, to note the electrical load and check for grounds.
+
+&lt;!--todo  discuss this with operating engineers --&gt;
+
+&lt;/ul&gt;&lt;/p&gt;
+</Text>
+            <Notes>eident
+stcw</Notes>
+        </Document>
         <Document ID="70B10B01-7492-4D13-A0CD-BF653D93E36E">
             <Title>exercise</Title>
             <Text>&lt;statement&gt;
@@ -4134,6 +4303,27 @@ Partial Vacuum gauge pressure measurements require conversions which will be dis
    &lt;caption&gt; 20- Exhaust &lt;/caption&gt; 
   &lt;image source="images/diesel-image9.png" width="30%"/&gt; 
 &lt;/figure&gt;</Text>
+        </Document>
+        <Document ID="BF22C2CA-D321-4830-A0F3-183217BDA974">
+            <Title>Water in the fuel oil</Title>
+            <Text>Water in the fuel can lead to low boiler pressure, loss of propulsion, loss of the turbogenerators, etc. The water originates from contaminated fuel delivered onboard, from leaks in fuel oil tank heating coils, or from leaks in the tanks themselves.
+
+The symptoms of water are fires that sputter, burn erratically, or go out.  Water in the fuel also affects the fuel oil service pump, causing erratic fuel pressure, racing and unusual noises.
+
+For safety, the *Kennedy* boilers are fitted with flame detectors which will secure the fuel supply to the individual burners if they detect a flame failure.  Without this device, water in the fuel could cause flarebacks or possibly a boiler explosion. 
+
+Correct operation of the fuel oil settling tanks should minimize the effects of water.  Fuel should be allowed to settle for about a day before use.  The main fuel pump should take suction from the settling tank low suction connection.  If water is detected at the burners, suction can be switched to high, to be above the oil/water interface, and the FO transfer pump can be used to strip the water to the slop tank.</Text>
+            <Notes>Casualty Control Document in my files, from unknown source.</Notes>
+        </Document>
+        <Document ID="87566B40-66CE-4CB6-80F3-EA0A34EDF542">
+            <Title>Action [actionflood]</Title>
+            <Text>In the event of major flooding, locate and isolate the source as quickly as possible by closing skin valves, and then secure the watertight doors to the AMR and shaft alley to prevent progressive flooding of the adjacent spaces.  
+
+Start all available bilge pumps to control the flooding and de-water the engineroom.  Aboard the *Kennedy* this includes the bilge and ballast pump, the general service pump, the reciprocating bilge pump, the two bilge sump pumps, the oily water separator, the wilden pump, and the two chiller circulating pumps located in the AMR. By Coast Guard regulations, the largest pump in the engineroom, which in our case is the main circulating pump, has an emergency bilge suction which can also be used. For additional capacity, eductor pumps from the damage control lockers can be rigged using firemain pressure.
+
+If the flooding is out of control, secure the boilers and relieve boiler pressure by jacking open the superheater safety valves, to prevent a boiler explosion from occuring when cold water contacts the pressure parts.
+
+To minimize repair costs after a flooding incident, protect flooded machines from rusting by draining and rinsing them inside and out with fresh water and coating all surfaces with a rust preventative or lube oil.  </Text>
         </Document>
         <Document ID="3B1B6CAD-CAA4-472D-B635-C6D70EB82201">
             <Title>Head Pressure</Title>
@@ -4356,6 +4546,10 @@ in International System of Units (SI) System:101.325 kPa at Sea Level</Text>
         </Document>
         <Document ID="1931446C-6B88-4360-A0E1-71A47CC7269E">
             <Title>Thermal Energy</Title>
+        </Document>
+        <Document ID="CEBF8AFC-7736-455B-A78E-CCD1DD226112">
+            <Text>It is important to understand that there are an infinite number of potential casualties, and that every casualty situation is unique. It is not possible to create a comprehensive step-by-step response to every possible casualty. Nevertheless, it is possible to state some general principles regarding casualty control, and to pre-plan for some common or critical potential casualties. Here are four principles to consider.
+</Text>
         </Document>
         <Document ID="A8B51DFA-405E-454A-974A-D24304CE631E">
             <Title>Series-Parallel resistors</Title>
@@ -9555,6 +9749,18 @@ The unit of frequency is the Hertz (Hz), which is equal to 1 cycle/second (cps).
 Electrical power plants and household outlets commonly supply 60 Hz AC. In Europe and Japan, the standard is 50 Hz.
 </Text>
         </Document>
+        <Document ID="3425B8B8-BB87-43C4-A4D1-487D147E8F86">
+            <Title>Boiler explosion</Title>
+            <Text>A boiler explosion is a catastrophic destruction of the boiler caused by a rapid, uncontrolled combustion of fuel inside the furnace.  Boiler explosions occur when an *explosive mixture* of unburned fuel and oxygen in the furnace is ignited by an ignition source such as hot brickwork or an inserted torch.  The unburned fuel must be in vapor form to cause an explosion.  It may may be supplied by an unignited burner, or by evaporation of liquid fuel in contact with hot boiler surfaces. The oxygen is readily available through open register doors and from the forced draft fan. In order to be explosive however, the air/fuel ratio must fall within a certain range -- too much air, or too little, and the mixture will not be explosive, but with the right ratio and an ignition trigger...
+
+A *flareback* is small boiler explosion, which usually occurs during light-off. It extinguishes the atomizer fires and causes furnace gas and flame to blow into the fireroom through the burner peep hole an light-off port. While not as destructive as a boiler explosion, flarebacks can injure personnel and are a sign that something is wrong with your light off procedures -- insufficient purge, registers not opened, oil too hot or too cold, improperly assembled tips, etc. When lighting off, always wear a face shield and keep your face away from the peephole, just in case.  
+
+Boiler explosions occur most frequently during light-off, and the most common cause  is attempting to light or re-light a burner without a proper purge. The furnace must *always* be purged to remove or lower the concentration of explosive vapors before lighting off.  A five minute purge with the forced draft fan on high and the register doors wide open is sufficient to completely replace all air in the furnace.   Light off with a torch or an igniter; never attempt to light off by using the hot brickwork. Once the burner is lit, the air register must be opened wide immediately to supply enough air for good combustion.  If the boiler does not light of on the first try, review the light-off procedure before proceeding.  Repeated unsuccessful light-off attempts are a danger sign. 
+
+Another dangerous condition occurs when liquid oil accumulates in the furnace. The hot surfaces in the furnace vaporize the oil and, with the right amount of oxygen, create potentially explosive situation.  This situation can occur after a loss of fires.  Normally this will be detected by the flame scanner and the fuel oil solenoid will secure the fuel supply. If this system fails, unburned fuel will spray into the furnace until the fuel is secured manually. Other possibilities include improperly assembled or damaged atomizers, that drip oil rather than creating a well formed spray pattern, and leaking or incompletely closed burner valves on secured burners. This situation will probably be accompanied by heavy black smoke that can not be cleared by adjusting the air flow. 
+
+Purging is not sufficient when oil pools in a boiler. Any amount of unburned fuel pooled in the furnace should be considered dangerous. The boiler must be shut down and the accumulated oil removed by hand after the boiler has cooled.  </Text>
+        </Document>
         <Document ID="271E4166-6C5D-4E84-94C1-30E932046F39">
             <Title>Direct-current generators</Title>
             <Text>Since any generator with a rotating element will naturally produce an alternating voltage, it is necessary, in a DC generator, to continually convert this alternating voltage into a direct voltage. In traditional DC generators the construction of the machine is reversed relative to the alternators discussed above, so that the magnetic field is stationary, while the windings rotate, as in &lt;xref ref="fig_24_13_png"/&gt;. The rotor is then called the   &lt;term&gt;armature&lt;/term&gt;, and is fitted with a rotating switching device called a   &lt;term&gt;commutator&lt;/term&gt;, which does the AC to DC conversion. The voltage produced in the windings of the armature is sinusoidal, as it is in an alternator. If this voltage were taken out of the rotor by slip rings and brushes, as in &lt;xref ref="fig_24_12_png"/&gt;, single-phase AC would be delivered to the generator terminals. The commutator is essentially a single slip ring divided into separate segments called &lt;term&gt;commutator bars&lt;/term&gt;. Each terminal of the armature winding is connected to one commutator bar. As the armature rotates, the winding terminal beneath each brush switches half way through every revolution, simultaneously with the change in polarity of the voltage in the winding. The polarity of one brush and its connected generator terminal is thus always positive, while the other brush and generator terminal is always negative.
@@ -9635,6 +9841,14 @@ Pressure = \frac{Force}{Area}
         </Document>
         <Document ID="CF11D6BD-2D53-41F9-A1BD-D0D73E72903B">
             <Title>Requirements of Fuel Injection System</Title>
+        </Document>
+        <Document ID="0093C276-AC50-4AA6-BDE8-F41812921881">
+            <Title>Leaking boiler tubes</Title>
+            <Text>Boiler leaks range from small to large, and may come on slowly or suddenly.  Your response will depend on the severity of the casualty.
+
+A leaking boiler can be detected in a number of ways.  With small leaks, your first indication may come from unusual behavior of the boiler water chemistry.  A small leak is like putting the boiler on continuous blowdown.  You will observe a reduction in boiler chemical concentrations -- total dissolved solids, phosphates and salinity will all decrease. With larger leaks, you may notice steam in the periscope, or see wisps of steam escaping from the stack. You may see water or steam escaping from the boiler, or hear an unusual hissing noise. Leaking boilers will require more feedwater than normal -- the feed regulator will open wider, and you will use more make up feed.  Leaks cause additional fuel to be burned resulting in an increased fuel oil pressure at the manifold. With major leaks you may find it impossible to maintain the boiler water level and boiler pressure, and they might even extinguish the fires.
+
+Boiler leaks are generally caused by improper operation or maintenance</Text>
         </Document>
         <Document ID="9095D889-61B4-450A-8486-4B42DB300D2C">
             <Title>Transformers</Title>
@@ -10573,6 +10787,11 @@ Plug-type valves have a rotating element with a hole drilled or cast through it.
         <Document ID="62049D64-F17B-4D92-8477-D5BEB717837C">
             <Title>Head Pressure</Title>
         </Document>
+        <Document ID="A90D3E50-721F-4171-895B-8C9AC4BE72DD">
+            <Text>This section contains descriptions of a number of potential engineering casualties.  For each, the possible symptoms, causes and consequences of the casualty are discussed, followed by a recommended course of action.
+
+&lt;!--todo complete shipboard casualties section--&gt;</Text>
+        </Document>
         <Document ID="2D975C73-757E-4FC2-9227-7CCDE1218463">
             <Title>introduction</Title>
             <Text>The machinery and equipment in the engineering plant aboard ship is designed either to carry energy from one place to another or to change a substance from one form to another. The principles of energy transformations and some of the important energy changes that occur in the shipboard propulsion cycle are discussed here. 
@@ -11073,6 +11292,28 @@ The density of fuel oil (in kg/m^{3}) at a standard reference temperature of 15�
 
 Note this info from Roger Gills chapter, moved here because it didn't fit in engineering measurement.</Text>
         </Document>
+        <Document ID="ABCFC50E-91BB-4B6D-8905-06A388147B5B">
+            <Title>Engineroom Logbook</Title>
+            <Text>The Engineering Log is a complete daily record of important events and data pertaining to the operation of the plant.  The log includes operational details such as:
+
+-	the average watch speed in rpm,
+-	the total engine miles steamed,
+-	fuel, water and lube oil on hand  &lt;emdash/&gt;  received, expended,
+-	the status of the engine, boilers and principal auxiliaries, and
+-	important temperatures, pressures, etc.
+
+The watch rpms are computed to the even hour at the end of the watch. Fuel oil meter and shaft counter readings should be recorded at arrival, departure, stand-by, FWE, and at the end of the watch. Entries are normally maintained only for machinery and systems that are on line.  The entry for machinery and systems that are off line is a dashed line. 
+
+The remarks section of the log book is used to record non-routine events, such as:
+
+*	accidents resulting in personnel injury or death,
+*	emergency drills, including all equipment tested during the drill,
+*	equipment tests such as the emergency diesel, steering gear, throttles, etc.,
+*	bunkering, including amount and FO characteristics,
+*	non-routine starting and stopping of equipment, changes in plant status, and
+*	machinery or systems casualties or damage.</Text>
+            <Notes>al mclamore</Notes>
+        </Document>
         <Document ID="62BE07A4-37B5-4EFF-915D-39AFE75FE8E5">
             <Text>Diesel engines have as many different types of starting circuits as there are types, sizes, and manufacturers of diesel engines. Commonly, they can be started by air motors, electric motors, hydraulic motors, and manually. The start circuit can be a simple manual start pushbutton, or a complex auto-start circuit. But in almost all cases the following events must occur for the starting engine to start.  &lt;ol&gt;
 The start signal is sent to the starting motor. The air, electric, or hydraulic motor, will engage the engine's flywheel. 
@@ -11192,6 +11433,10 @@ The DC Heater serves three important functions in the steam cycle:</Text>
         <Document ID="53C537BA-CF3F-4F9E-8B77-0F772A9B1925">
             <Title>Electrical Symbols</Title>
             <Text>TBD</Text>
+        </Document>
+        <Document ID="429D6CD7-769A-4A8E-B09C-9BB9012E97EA">
+            <Text>An engineering casualty occurs when a component, machine, or system aboard ship fails to serve the purpose for which it was installed. Casualties can usually be traced to a failure of a component of the engineering system or to operator error. While some casualties are insignificant or can be easily rectified, others can lead to catastrophic consequences if not attended to quickly and effectively. Engineering casualty control is concerned with the prevention, minimization, and correction of these casualties.
+</Text>
         </Document>
         <Document ID="4F4AE298-8422-4E8F-9E9C-8C9D8ED36611">
             <Title>Smoke</Title>
@@ -11379,6 +11624,10 @@ We sometimes say psig to indicate gage pressure and other times we merely say ps
 It is important to distinguish between gage pressure and absolute pressure. Unless otherwise stated, pressure usually means gage pressure, not absolute pressure.
 </Text>
         </Document>
+        <Document ID="E832EC46-2F6D-41B9-BB0D-001BF68E12E8">
+            <Title>Sea Stories</Title>
+            <Text>&lt;!--todo complete sea stories section--&gt;</Text>
+        </Document>
         <Document ID="A1979457-5EC2-4E4F-A863-96713D714845">
             <Title>Refrigeration</Title>
         </Document>
@@ -11451,6 +11700,34 @@ For navigation on water (marine), air, and space, the Nautical Mile (NM) unit of
 Fathom: A nautical measurement equal to 6 feet or 1.8288 meters. It is commonly used for measuring depth in water. Finger tip to finger tip 
 &lt;image width="40%" source="images/fathom.png"/&gt;
 #</Text>
+        </Document>
+        <Document ID="7BB9A319-9A88-4F92-8ED8-78D65C0F0905">
+            <Title>Routine operations</Title>
+            <Text>While on watch, operations should always be conducted according to ship's policy, standing orders, U.S. and international regulations, and orders from your superior officers.  When the plant is in maneuvering status, the throttles must be continuously manned, and all equipment used for maneuvering must be ready for immediate use. You must carry out any bridge orders promptly.  
+
+The plant status, operational requirements, personnel, and material condition of the machinery are constantly changing so you must keep yourself advised of the status of everything in the engine room by making regular rounds of the machinery space.  In particular, you should look for any equipment that is out of service, expected to malfunction, or that requires special attention which may affect engineroom operations.
+
+You should operate all machinery according to standard procedure and the manufacturer's instructions and make routine adjustments as necessary to keep the plant running smoothly.  Some examples of routine operations include:
+
+*	responding to alarms,
+*	taking on make up feed,
+*	changing over tank suctions and discharge,
+*	shifting and cleaning strainers, and
+*	changing over to stand-by equipment.
+
+However, you must obtain permission from the bridge before conducting out any operations that have effects outside the engineroom.  Examples include:
+
+*	blowing tubes,
+*	starting the main engine jacking gear, 
+*	spinning the engine with steam, and 
+*	pumping bilges.
+
+Significant changes in the alignment of the main or auxiliary plants should only be made under the cognizance of the chief engineer, for example: 
+
+*	lighting off the boiler,
+*	warming up the main engines,
+*	securing after "finished with engines," and
+*	changing over generators.</Text>
         </Document>
         <Document ID="BB8A5C11-4688-4B22-B9E8-3B30FA76CF00">
             <Title>Compression Ratio and Clearance Volume</Title>
@@ -12565,6 +12842,16 @@ A governor is provided to regulate the flow of fuel.  Other devices, either inte
             <Title>Efficient Operation</Title>
             <Text>Eliminating the need for reduction gears. Typically, diesel engines and steam turbines operate most efficiently at high or medium speeds, while propellors are most efficient at low speed, below about 100 RPM.  When propulsion power is supplied electrically, speed reduction is accomplished by selecting the appropriate number of poles in the generator and varying the electrical frequency supplied to the motor. This setup allows each component to operate within its most efficient range, maximizing overall energy efficiency and reducing fuel consumption.</Text>
         </Document>
+        <Document ID="8A83E8D3-951E-4959-8E6D-791BE533FA14">
+            <Title>Oil Temperature Limits </Title>
+            <Text>&gt;*Oil temperature leaving babbitted bearings should never exceed 180 °F, nor should it ever rise more than a 50 °F across the bearing.   Action must be taken before these limits are reached.*
+
+The temperature guidelines stated above are recognized by the US Navy [079-46.8.11.3][#NSTM] and on US Coast Guard license exam [Questions 7018, 7475][#MEWB5], however the DeLaval instruction manual for the main engine aboard the *Kennedy* is more conservative, stating that 
+
+&gt; *An inlet oil temperature of 110 °F to 120 °F should be maintained. The maximum temperature rise of the oil passing through any bearing should not exceed 40 °F. The discharge temperature of oil leaving any bearing should not exceed 160 °F. Oil pressure of at least 4-5 psi at the most remote bearing is required.* [p. 5-1][#TurbineManual]
+
+Aboard the *Kennedy*, lube oil is delivered to the bearings at 110-120 °F and exits with a temperature of 125-160 °F depending on load.  Oil leaving the lube oil cooler should never exceed 130 °F.</Text>
+        </Document>
         <Document ID="5BA168C1-9A91-4536-95AD-7CDB7BB77CBF">
             <Title>Heat Transfer</Title>
             <Text>Heat can flow from one substance to another only when a temperature difference exists. Heat flow can occur only from a higher temperature to a lower temperature. When two objects at different temperatures are placed in contact with each other (or near each other), heat flows from the warmer object to the cooler one until both are at the same temperature. Heat transfer occurs at a faster rate when there is a larger temperature difference between the two objects. As the temperature difference approaches zero, the rate of heat transfer approaches zero. 
@@ -12578,6 +12865,20 @@ Conduction, radiation, and convection are usually considered to be the three met
 &lt;mrow&gt;\amp =   \psi{49.7}  \times \left[\frac{\kPa{101.3}}{\psi{14.7}}\right]  =  \kPa{343} \textrm{ (absolute)}&lt;/mrow&gt;
 &lt;/md&gt;&lt;/p&gt;
 </Text>
+        </Document>
+        <Document ID="48E90491-2876-433B-8B82-8F61E7B432ED">
+            <Title>Loss of feed pressure</Title>
+            <Text>Loss of feed pressure can lead to a low water casualty if not rectified, so it must be attended to quickly. The symptoms are low pressure on the feed pump discharge gage, and a gradual or sudden drop in the steam drum level. Also as the drum level falls, the feedwater regulator will open wide as it tries to compensate.
+
+Low feed pump discharge pressure can be caused by three different, possibly related, causes.
+
+The first is outright failure of the feed pump or governor.  In this case, there will not be enough water delivered to the boiler to meet the demand. However, steam will continue to leave the boiler and the condensate pump will continue move it to the DC heater, so the steam drum level will fall, and the DC heater level will rise as a result.
+
+The second, more common cause, is loss of suction at the feed pump.  If the DC heater is allowed to go dangerously low, either by inattentive watchstanding, or by failure of the automatic make-up feed regulator, the feed pump will have nothing to pump.  This, obviously, should be avoided.
+
+The feed pump will also lose suction if it becomes vapor bound.  The feed pump is designed to pump water; it won't pump when there is vapor at the suction, and may actually overspeed and trip out.  Since feedwater in the DC heater is at saturation temperature, it will flash to steam (vapor) when its pressure is reduced even slightly.  The DC heater is located high in the engineroom to provide enough static head to prevent this flashing.  However, when the DC heater level is low, the static head is reduced and flashing may occur.  Flashing may also occur if the pressure in the DC heater suddenly drops lower than normal. This can be caused by introducing large quantities of cold make-up water into the DC heater, condensing the steam there, or by a sudden drop in the auxiliary exhaust pressure.  A noisy or racing feed pump, low suction pressure, and fluctuating discharge pressures are signs of vapor binding. Additionally, at low loads the recirc valve needs to be open to prevent overheating of water and flashing to vapor at the suction eye. 
+
+The third is as load increases on the boiler and more water is needed in the boiler the recirc valve needs to be closed. At even higher loads the feed pump nozzle needs to be opened.</Text>
         </Document>
         <Document ID="B94194FE-4C42-4263-B6FE-AE4ED2FA911B">
             <Title>Water Jacket</Title>
@@ -12660,6 +12961,15 @@ The refractory materials are held in position with anchor bolts which are connec
         </Document>
         <Document ID="98AB2B8D-DCDB-44ED-B650-63C8F1B6E92E">
             <Title>Diesel Propulsion</Title>
+        </Document>
+        <Document ID="D0B301BB-1E10-4D4C-83CC-3091DC5D9CC4">
+            <Title>Examples of entries</Title>
+            <Text>&gt;**0900**	Examined and tested primary and secondary steering gear, whistle, internal communications equipment, telegraph, and shaft alley watertight doors.
+
+&gt; `\noindent`{=latex} **1435**	Tested emergency generator. Observed steady state temperatures and pressure readings.
+
+&gt; `\noindent`{=latex} **0730**	Tested main propulsion machinery ahead and astern.  All found in good order.</Text>
+            <Notes>al mclamore</Notes>
         </Document>
         <Document ID="EEB713CF-7B55-4745-9452-27DBA149B2BB">
             <Title>Engine Shutdowns</Title>
@@ -13418,6 +13728,14 @@ As with synchronous motors, induction~motor stators can have multiple pairs of s
         <Document ID="66D334FC-1497-41F1-9BC5-5EA67AEEB1F5">
             <Title>Electrical Charge</Title>
         </Document>
+        <Document ID="F5B13297-7D0A-4957-845C-2B073F6E0610">
+            <Title>Action [actionsalt]</Title>
+            <Text>If a salinity alarm goes off, check the salinity alarm panel to locate the source of the contamination,  and then secure the affected equipment quickly to minimize contamination of the condensate system and the boiler.  A chloride test may be used to verify the salinity alarm.
+
+In the mean time, both boilers should be tested and placed on continuous blowdown and treated to restore water quality.  Until the water chemistry recovers, the boiler firing rate should be reduced to prevent priming and carryover.  In severe cases, the boiler may have to be secured and drained.
+
+After the situation has been stabilized, the source of the contamination can be repaired. Leaking heat exchangers can be taken out of service and repaired by plugging leaking tubes.  If the source is a salty distilled water tank, it should be dumped overboard and refilled with clean distillate.</Text>
+        </Document>
         <Document ID="B923FE13-FEA5-4CE3-95D8-DBF76239EFC5">
             <Title>Butterfly Valves</Title>
             <Text>&lt;figure xml:id="Butterfly_png"&gt;
@@ -13722,6 +14040,32 @@ One Atmosphere at Sea Level = 14.7 psi, 101.325 kPa and 760 mmHg (1 Torr).</Text
 &lt;caption&gt;Bearings&lt;/caption&gt;
    &lt;image source="images/flywheel.jpg" width="50%"/&gt;
 &lt;/figure&gt;
+</Text>
+        </Document>
+        <Document ID="CF0BCEE9-930C-48EE-A49A-C4591B35A6D7">
+            <Title>Action [actionlowwater]</Title>
+            <Text>You must immediately extinguish fires if there is any doubt as to where the level is, either high or low.
+
+You must never add water to a boiler that has gone out-of-sight low until it has cooled, to avoid damage caused by water coming into contact with overheated pressure parts.
+
+If the boiler water level is falling gradually due to a slow leak or a feed problem but has not yet gone out of sight, you can slow down to reduce load on the boiler and feedwater demand, then attempt to restore the boiler level. You can reduce steam demand further by stripping the main switchboard of non-vital consumers, or by starting the auxiliary generator and tripping the turbogenerator.  Try to correct the problem while carefully watching the drum level and maintaining the level in sight.  If you are unable to restore the level, shut the boiler down, and operate on the other until the problem can be rectified. 
+
+Some things to look for:
+
+*	Low feed pressure; try adjusting the feed pump controller set point
+*	Tripped feed pump; reset trip and restart
+*	DC heater empty; check make up feed system
+*	Feed pump recirculation valve open too wide; check and close 
+*	Feed pressure lost through an idle feed pump; check and close
+*	Feedwater regulator failure; check control air pressure, switch to manual control or feed the boiler through the auxiliary feed line
+*	Feed pump nozzle being left shut
+
+If the drum level has gone out of sight, or is falling rapidly due to a major tube leak, you must initiate a forced boiler shutdown immediately.  Begin by securing the fires, slowing down and notifying the bridge.  Insure that the master sender is aligned to the remaining boiler. Then close the feed stops, the steam stops, and open the superheater vent.  Reduce the pressure in the boiler by jacking open a safety valve.  Let the furnace cool, drain the boiler, inspect the tubes, and repair the leak.</Text>
+            <Notes>weh</Notes>
+        </Document>
+        <Document ID="4F99F4D8-04B5-46AF-B440-387DB3D0BE23">
+            <Title>Recovery</Title>
+            <Text>Next, regain stable plant status by restoring the services which were interrupted by the casualty.  This may involve starting stand-by units, crossing over systems, placing automation in hand mode, bypassing regulators, or operating at reduced capacity. Don't forget to establish support services such as cooling and lubrication for the newly started equipment.
 </Text>
         </Document>
         <Document ID="3EF1E819-1D32-4FA8-872E-F0D68B06405A">
@@ -14307,6 +14651,14 @@ Once the maintenance or servicing is complete, the person who performed the LOTO
             <Title>Instruments Used to Measure Temperature-1</Title>
             <Text>&lt;term&gt;</Text>
         </Document>
+        <Document ID="C91E4B2D-E6DC-4881-98C3-1FA5C094FFEF">
+            <Title>Action [actionleaking]</Title>
+            <Text>With minor leaks, operate at reduced loads and carefully monitor the drum level until you have an opportunity to safely repair the boiler.  
+
+For sudden or major leaks, initiate a forced shut-down of the boiler.
+
+Try to maintain the boiler water level in the glass, but don't use up all your reserve feed water.  You can use the forced draft fans to carry escaping steam up the stack. When the boiler has cooled, locate and plug the leaky tube.</Text>
+        </Document>
         <Document ID="C747537B-8478-43BF-802B-86F37ABC8C46">
             <Title>Compression</Title>
             <Text>During the compression stroke, the air in the cylinder is compressed to high pressure and temperature. 
@@ -14344,6 +14696,12 @@ The output of the pilot generator is transmitted to the automatic voltage regula
 &lt;/figure&gt;
 Because the source of the excitation in this generator is from permanent magnets, rather than an electromagnet excited by the output of the main generator, the generator is considered separately excited.  The main advantage of separate excitation is that fluctuations in the voltage of the main generator do not affect the excitation supply. Voltage fluctuations can be quickly corrected and the generator output can be maintained within tight tolerances..
 
+</Text>
+        </Document>
+        <Document ID="77B7C6CB-79A3-4595-8A49-A1A48A183C15">
+            <Title>Notification</Title>
+            <Text>Most of time you will learn of a casualty from an alarm on the main console: low lube oil pressure, high salinity, low water, etc. However, some critical parameters are not alarmed, so while you're on watch you must continuously monitor main console gages like drum pressure, feed pressure, and condenser vacuum.  Good monitoring may also give you advanced notice of problems before the alarm sounds. Finally, some problems will only be found by making good rounds  &lt;emdash/&gt;  leaks, for example.
+It is important to correctly identify the root cause of the casualty.  The alarm you receive may only be a symptom of the true problem.
 </Text>
         </Document>
         <Document ID="BD0EECC8-FCF4-442A-9608-5BC73E3BDD9A">
@@ -14477,6 +14835,14 @@ Metric Ton or Tonne:  For larger masses, the metric ton is equivalent to 1000 kg
             <Title>Redundancy and Reliability</Title>
             <Text>Inherent redundancy and enhanced reliability compared to traditional propulsion systems. With multiple smaller generator sets, the system can continue to function even if one or more generators or motors fail or require maintenance. This redundancy  reduces the risk of complete propulsion failure and ensures that the propulsion system remains operational. </Text>
         </Document>
+        <Document ID="0356BE8A-9ED0-4A1C-9B08-E226E1CE396B">
+            <Title>Action [actionlowvac]</Title>
+            <Text>At the first signs of loss of vacuum, check the condensate, circulating and air removal systems, and look for air leaks to locate the root cause and correct it as quickly as possible.  
+
+If the problem can not be quickly corrected, slow down the main engine to reduce the steam load on the condenser.  The U.S. Navy recommends slowing to two thirds speed at 21 in Hg, and one third speed at 18&amp;Prime; Hg, and securing the turbine if the vacuum falls to 15&amp;Prime; Hg. [079-46.8.16.3.2][#NSTM] The turbogenerators are provided with a back pressure trip which alarms at 10&amp;Prime; Hg, and trips at 5 psi. [](#turbogen)
+
+Low vacuum in the main condenser will affect other systems.  When vacuum is lost, you must align make-up feed, auxiliary exhaust dump, first stage heater vents and drains, and the ADT to an operating turbogenerator.</Text>
+        </Document>
         <Document ID="DE6CA1D7-1D41-4015-AF34-D0145059FE38">
             <Title>Crankcase and Oil Pan</Title>
             <Text>The crankcase is the part of an engine that houses the crankshaft and the crankshaft counter weights and also directs returning lube oil into the oil pan.   The oil pan collects and stores the engine's supply of lubricating oil. Large diesel engines may have the oil pan divided into several separate pans.
@@ -14518,6 +14884,10 @@ Note that we used the conversion &lt;me&gt;\N{1} = 1 \mathrm{kg\ m}/\mathrm{s}^2
         <Document ID="BEEA511A-C355-47FD-A22F-D44ABF912F5F">
             <Title>DC Power</Title>
             <Text>TBD</Text>
+        </Document>
+        <Document ID="0018318E-1608-4938-B13A-6E087E197BA1">
+            <Title>Analysis</Title>
+            <Text>After the fact, you should determine the cause of the casualty and the lessons learned. What caused the problem? Was it wear, fatigue, inadequate lubrication, poor maintenance, faulty repairs, improper watch practice, or something else? What can be done to prevent further occurrences?  Better training, improved maintenance, redesign?</Text>
         </Document>
         <Document ID="9DFC691B-5DB8-4868-808B-7E48C6FE1EA6">
             <Title>Gas Turbines</Title>
@@ -14710,6 +15080,14 @@ A barometer is the device used to measure the pressure of the atmosphere, so the
 &lt;/choices&gt;
 </Text>
         </Document>
+        <Document ID="E6D93C8F-96E9-4C6E-8DA1-8418D0C50878">
+            <Title>High condensate salinity</Title>
+            <Text>High salinity in the condensate will lead to high salinity in the boiler, which is extremely harmful. It causes scaling and overheating of the boiler tubes, possibly destroying them.  It is usually easily recognized through a salinity alarm, which should not exceed 0.25 grains per gallon.  The *Kennedy* has salinity alarms at the main and auxiliary condenser outlets, CDT, reserve feed tank suctions, as well as at the evaporators. 
+
+High salinity also leads to priming and carryover in the boiler, which is harmful to the superheaters and turbines.  Carryover is indicated by a rapid drop in superheater temperature.
+
+High salinity is usually caused by leaking tubes in a condenser, although it may also be caused by impure make-up feed.  Other possible causes include distilling plant producing impure distillate, leaks into feed suction, or atmospheric drain lines passing through the bilge, leaks in the tank tops over reserve feed tanks, and leaking bottom blow valves on idle boilers.</Text>
+        </Document>
         <Document ID="35AD4810-8B15-4EAC-BCEC-FB74B2162C2A">
             <Text>&lt;me&gt;m = \kg{17}&lt;/me&gt;</Text>
         </Document>
@@ -14723,6 +15101,65 @@ A barometer is the device used to measure the pressure of the atmosphere, so the
         </Document>
         <Document ID="FE240C34-3316-4080-A433-65BA7E9ADA4A">
             <Title>Personal Protective Equipment</Title>
+        </Document>
+        <Document ID="FDA67A45-E4D6-4138-AB5E-52FFA5030B23">
+            <Title>Low vacuum -- hot condenser</Title>
+            <Text>Steam turbines like the main engine and the turbogenerators are designed to exhaust to a condenser operating at a very low absolute pressure, which we usually call a *high vacuum*.  The vacuum in the condenser directly affects the efficiency of the turbine. As vacuum is lost, the turbine will slow and overheat. When the vacuum gets sufficiently low, the turbine should be secured to prevent damage.  
+
+Vacuum and condenser shell temperature are closely related through the properties of saturated steam.  When the condenser starts loses vacuum, the shell temperature rises, and when the shell temperature rises, the condenser loses vacuum.  Either symptom can be the cause of the other.
+
+Condenser vacuum depends on two factors -- the partial pressure of the steam, and the partial pressure of the air (and other non-condensable gases) in the condenser shell.   In fact, the absolute pressure in the condenser is just the sum of these two partial pressures.  If either goes up,  the vacuum goes down. Loss of vacuum can be traced to situations which increase either of these two factors. [Chapter 6][#elwakil]
+
+The partial pressure of the steam in the condenser is simply the saturation pressure of steam at the condensing temperature. You can look it up in the steam tables -- pressure depends on temperature. Anything that causes the average temperature in the condenser to rise will lead to loss of vacuum.  This will occur when the sea temperature rises, or with any problem that leads to a reduction of the cooling water supply.  Overloading the condenser with too much steam will also cause the average temperature to rise, because the condensing demand is greater than the cooling water supply.   Finally, if the condensate level in the condenser rises too high, it will submerge some condensing tubes and prevent them from removing heat, leading to higher average temperatures and loss of vacuum.
+
+The partial pressure of the air and non-condensable gases depends on the quantity in the condenser shell -- more non-condensables means lower vacuum.  Since the condenser shell is under a vacuum and is not completely air tight, some inward air leakage is inevitable. Gases that leak in must be removed or the condenser shell pressure will rise and vacuum will drop.  Furthermore, air and non-condensable gases blanket the condenser tubes which reduces condenser effectiveness, and dissolved oxygen in feedwater causes corrosion the boiler.  
+
+Air removal is the job of the air ejector or on some ships, the vacuum pump.  Excessive leakage will overwhelm the air ejector.  If gases enter the condenser faster than they can be removed, vacuum will be lost, so sources of air leakage must be found and eliminated. Finally, any situation that leads to a reduction in performance of the air removal device will lead to loss of vacuum.  
+
+Any number of operational problems can lead to loss of vacuum, including:
+
+*	Overloaded condenser
+
+	-	Overloaded turbine  -- reduce load.
+	-	High sea temperature -- reduce load.
+	-	Excessive dumping from auxiliary exhaust unloader -- may be caused by  failure of the unloader, failure or incorrectly set auxiliary exhaust make-up valve, or high auxiliary exhaust pressure.
+
+
+*	Insufficient cooling water
+
+	-	Sea water pump stopped or tripped -- restart, or cross over from another pump.
+	-	Coolant flow restricted with seaweed, mud, sand, silt, marine life in condenser -- shut down and clean the condenser.
+	-	Circulation system not lined up properly --  check all valves opened properly.
+	-	Condenser shell air bound -- vent the shell.
+	-	Vessel has insufficient way on to use scoop injection -- change over to main circulation pump.
+
+*	Flooded hot well
+
+	-	Condensate recirculation valve open too wide -- close or throttle it.
+	-	Condensate pump tripped off -- restart or switch to stand-by pump.
+	-	Incorrect valve line-up -- check that suction, discharges, seal water line, casing vent line are open.
+	-	Condensate leaking back into condenser through an idle pump -- check suction, discharge, and seal valves.
+
+*	Air leakage
+
+	-	Air leaks at turbine glands --  insufficient gland sealing steam, adjust to between 1½ to 2 psi.
+	-	Air leaking past turbine glands -- glands are worn, replace at first opportunity.
+	-	Air leaking through idle condensate pump -- secure vent on idle pump.
+	-	Vacuum dragging from a dry make up feed tank - switch tanks.
+	-	Vacuum dragging an empty ADT -- caused by inattention or float level control malfunction, close   drag valve until the ADT refills.
+	-	Evaporator feed heater drains open to the atmosphere.
+	-	LP drains from first stage heater open to the atmosphere.
+	-	LP vent from first stage heater open to the atmosphere.
+	-	Casing or condenser shell cracks.
+	-	Expansion joint leaks.
+
+*	Air ejector problems
+
+	-	Low pressure air ejector steam -- adjust regulator or cross over to stand-by 600/150 psi reducing station.
+	-	Blocked or worn air ejector steam nozzle -- switch to stand-by set and replace.
+	-	Condensate water flow inadequate, air ejector condenser overheating --  open condensate recirculation valve,  check condensate outlet valve, check pump.
+	-	Condensate loop seal blown out --  refill from condensate pump discharge connection.
+	-	Air ejector overloaded -- reduce air leakage.</Text>
         </Document>
         <Document ID="3DF517E3-F28A-4318-BF3A-33F548D3D21B">
             <Title>Hazards in the workplace</Title>
@@ -14882,6 +15319,9 @@ This chapter provides an overview of the categories and units of measurement use
 As you study this chapter, you will encounter new terms and definitions for you to learn. At the end of the chapter, you will find example problems. Be sure to take the time to practice with these problems. They will help prepare you to apply these concepts. 
 </Text>
         </Document>
+        <Document ID="066C3173-3AA1-4862-BAC6-BF5D082D81A9">
+            <Title>Casualty Control</Title>
+        </Document>
         <Document ID="746F2703-DAD7-41B7-9573-3251544B13AE">
             <Text>TBD</Text>
         </Document>
@@ -15000,6 +15440,20 @@ This saves us from having to manually assign the “Front Matter” section type
 
 During Compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
         </Document>
+        <Document ID="F9764993-6E95-4D44-A081-990766199E6D">
+            <Title>High water in boiler -- carryover</Title>
+            <Text>High water is as serious as low water, but for different reasons. Low water can lead to boiler damage, while high water leads to turbine damage. If the water level in the boiler drum is too high, moisture will enter the dry pipe, pass through the superheater, and enter the main engine, turbogenerators, or auxiliary turbines. This situation is known as *carryover*.
+
+Carryover is bad for steam turbines. The thermal and mechanical shock of moisture impact on the blades can cause damage to the turbine blades and thrust bearings, and also blow out gaskets and damage connecting steam piping. In addition, the entrained boiler water contains dissolved and suspended solids which will leave deposits on superheater tubes, valves, and turbine blades. Deposits on superheaters tubes cause corrosion, overheating, and tube failure. Deposit build-up on reducing valves, governor valves or throttles can cause them to stick, resulting in loss of control. In the worst case, this could lead to turbine over-speeding. Solid particles in the steam cause erosion of the turbine blades, damaging them and reducing turbine efficiency, and build up on the blades causes rotor imbalance and vibration. [Chapter 16][#GE]
+
+The main indication of a high water situation is given by the boiler high level alarm and boiler gage glass.  Carryover is indicated by a dramatic drop in superheat temperature. Note that a high level in the steam drum will be accompanied by a low level in the DC heater, and vice versa, so when the DC heater is low, check the drum level before taking on make-up feed. Also, a completely full gage glass looks identical to a completely empty one. One way to tell the difference is to blow down the glass, which should bring a high level into view.
+
+High water is usually caused by too much feedwater entering the boiler, either due to high feed pump discharge pressure, or to problems with the feedwater regulator.  
+
+Other causes include boiler *swell* and poor boiler water quality. Swell is a rapid expansion of the steam-water mixture in the drum, caused by a sudden drop in drum pressure associated with an increase in steam demand.  Swell typically occurs during maneuvering, soot blowing, or when boiler safeties pop.  Swell can be minimized by opening throttles gradually.  
+
+Boiler water containing chlorides, high solids concentrations, high alkalinity, or oil contamination promotes the formation of stable bubbles in the boiler water, called foam.  This foam builds up in the drum and allows the contaminants to enter the dry pipe and carry over.   Foam also causes erroneous water level readings and confuses the feedwater regulator. Foaming and the resulting problems can be avoided by proper attention to boiler water treatment.</Text>
+        </Document>
         <Document ID="2A270BD6-1025-4FAC-8A9C-F1B0C9E15D5C">
             <Title>Circuit Faults</Title>
         </Document>
@@ -15012,9 +15466,33 @@ During Compile, documents assigned the “Front Matter” section type will be l
 The primary objective of the ISM Code is to establish a safety management system (SMS) on board ships and ashore, providing a framework for managing safety and minimizing risks in the maritime industry. The code applies to all types and sizes of vessels, including passenger ships, cargo ships, tankers, and offshore drilling units.
 Under the ISM Code, both the ship and the company have specific obligations to ensure the effective implementation of safety management systems and adherence to safety standards. The obligations of the ship and the company are as follows:</Text>
         </Document>
+        <Document ID="5D25FB11-38A9-4987-9F8D-A581117E58E6">
+            <Title>Oil in CDT</Title>
+            <Text>The contaminated steam system is provided to prevent oil from entering the boilers, where it would cause foaming and carryover, by isolating all potential sources of oil contamination to a closed system. See [](#contaminatedsteamsystems) for more information.
+
+Steam for all of the ship's fuel oil and lube oil heaters is supplied by the contaminated evaporator, and condensate returns to the contaminated evaporator by way of the auxiliary inspection tank on the operating level, and the contaminated drain inspection tank (CDT) on the lower level.  Any quantity of oil observed in either of these locations indicates a leak in an oil heater, which should be dealt with immediately.</Text>
+        </Document>
         <Document ID="D6C567F6-1AB6-4651-A0F7-CB3B3C67866A">
             <Text>A mechanic applies a force of \N{400} at an angle of 60 degrees relative to the  \cm{60} long wrench to loosen a bolt,  as shown in the right diagram of &lt;xref ref="wrench-T"/&gt;.
 Determine the torque applied the bolt. </Text>
+        </Document>
+        <Document ID="41D04EE7-4013-4D30-BB3C-CBFF62EC303D">
+            <Title>Other casualties</Title>
+            <Text>In this chapter, we have discussed a few of the potential engineering casualties that could occur aboard a steamship.  Here are several more that you should prepare for. 
+
+-	Main or auxiliary condensate pump failure 
+-	Main or auxiliary circulating pump failure
+-	Seawater service pump failure
+-	Main feed pump failure
+-	Steering gear motor failure
+-	Lube oil cooler leak 
+-	High level, main lube oil sump
+-	Jammed throttle
+-	Turbogenerator trip
+-	Overloaded generator
+-	Fire, both inside and outside the engineroom
+
+Consider each one, and determine what might cause the casualty, what its effects would be on the rest of the plant, and what actions you would take to correct the situation.  It is important to know more than just *what* you plan to do, you must also know precisely *how* you are going to do it -- where are the valves, power supplies, crossovers, etc?</Text>
         </Document>
         <Document ID="933BD3E8-1394-4F23-9898-9DB2D39F54D2">
             <Title>Introduction</Title>
@@ -15062,6 +15540,26 @@ Rotation of the plungers changes the part of the plunger helix that passes over 
         </Document>
         <Document ID="55237C9C-A4FF-480C-AD26-80E1DAB1A996">
             <Title>Diesel Engine Systems</Title>
+        </Document>
+        <Document ID="5D93F7D9-5429-4F1C-9A5B-7299253FF4C1">
+            <Title>Oil record book</Title>
+            <Text>Cargo and passenger ships are required maintain an *Oil Record Book Part I (Machinery Space Operations)* by Federal [33CFR151.25][#CFR] and MARPOL 73/78 regulations. The Oil Record Book contains a record of all movements of oil or oily water that occurs aboard the vessel.  Tankers are subject to different, more extensive rules, and must maintain Part I and also Part II (Cargo/Ballast Operations).
+
+Oil Record Book are available from the Coast Guard Marine Safety Office or Marine Inspection Office. The latest version of the ORB is Revision 11-16.  You should always use an up-to-date ORB, because older versions do not reflect the current laws.  Even though the ORB is used aboard the ship, it technically remains the property of the U.S. Government.
+
+You must make an entry in the Oil Record Book whenever any of the following machinery space operations take place:  
+
+-	ballasting or cleaning of fuel oil tanks,
+-	discharge of dirty ballast or cleaning water from fuel oil tanks,
+-	disposal of oily residues (sludge),
+-	discharge overboard or disposal otherwise of bilge water that has accumulated in machinery spaces, or
+-	emergency, accidental or other exceptional discharge of oil or oily mixture.
+
+The law establishes several requirements for maintaining an Oil Record Book. ORB entries must be fully recorded without delay after each operation. Each completed operation must be signed by the person in charge of the operation, and each completed page signed by the master. The ORB must be kept aboard for a period of at least three years, and readily available for inspection at all times.   Legally the ORB is the responsibility of the Master of the vessel, but the day-to-day entries will be made by the engineering watch officer. 
+
+Maintenance of the Oil Record Book is serious.  Here is a recent press release from the US Environmental Protection Agency.
+
+&gt;(10/13/05) A.P. Moller-Maersk, A/S, of Denmark, pleaded guilty and was sentenced to pay a half million dollar fine on Sept. 26 by the U.S. District Court for the Northern District of California. Moller-Maersk, which operates a fleet of more than 200 vessels worldwide, was also ordered to develop and implement a fleet-wide environmental compliance program. The investigation began on May 25, 2004, when members of the Coast Guard Marine Safety Office discovered waste oil in the overboard piping of the Motor Vessel Jane Maersk during a routine inspection. Further investigation by the Coast Guard and EPA's Criminal Investigation Division also uncovered evidence of false entries in the ship's Oil Record Book. The false entries in the book concerned the operation of the ship's incinerator which, in part, is used to burn waste oil sludge. In a related court action, Johnnie Nielsen of Copenhagen, Denmark, who is the ship's second engineer was sentenced to four months' community confinement for his role in concealing and destroying key documents in anticipation of the Coast Guard inspection of the Jane Maersk. Nielsen further admitted that he had observed engineers on other Moller-Maersk vessels hiding the same key documents prior to pending inspections. Failing to properly maintain an Oil Record Book is a violation of the MARPOL Treaty, which is designed to prevent pollution from vessels that can, among other things, represent a threat to fish and other aquatic life. The case was investigated by the U.S. Coast Guard Investigative Service and the San Francisco Office of EPA's Criminal Investigation Division with assistance from the Coast Guard Pacific Judge Advocate General's Office. It was prosecuted by the U.S. attorney's office in San Francisco.[][#EPA]</Text>
         </Document>
         <Document ID="0E7A06E3-B01F-4DB1-9547-0C6DB2126DB7">
             <Title>Resistance Temperature Detector</Title>
@@ -15202,6 +15700,20 @@ A high pressure pump and an injection nozzle for each cylinder are combined into
         <Document ID="E6567901-DE9D-4C8E-9974-B9B7C2EB02C1">
             <Title>Unit Conversions</Title>
         </Document>
+        <Document ID="D938A840-663C-40F1-AC24-39F6575CDEE2">
+            <Title>Loss of fuel oil pressure</Title>
+            <Text>Sudden loss of fuel oil pressure is most caused by  mechanical or electrical failure of the fuel oil service pump. In this event, the fires will go out, the fuel oil solenoids will close, and the fuel oil manifold pressure will be low or zero.  If the fires can not be restored quickly, loss of boiler pressure, turbogenerators and propulsion will follow.
+
+Other causes of low fuel oil pressure include:
+
+-	Loss of suction due to an empty settling tank.
+-	Loss of suction due to a clogged suction strainer.
+-	Loss of suction due to high fuel viscosity -- settler too cold.
+-	Low discharge pressure due to fuel pump vapor-bound -- settler too hot.
+-	Low discharge pressure due to open recirculation valve.
+-	Low manifold pressure due to clogged discharge strainers.
+</Text>
+        </Document>
         <Document ID="D4499CD7-4218-4DDD-8ACB-A8A39325A1D6">
             <Title>Components of a Safety Management System</Title>
         </Document>
@@ -15299,6 +15811,14 @@ Mechanical injection systems may be divided into two main groups: (1) common-rai
 As the piston approaches 48° BBDC, the cam of the exhaust lobe starts to force the follower upward, causing the exhaust valve to lift off its seat. The exhaust gases start to flow out the exhaust valve due to cylinder pressure and into the exhaust manifold. After passing BDC, the piston moves upward and accelerates to its maximum speed at 63° BTDC. From this point on the piston is decelerating. As the piston speed slows down, the velocity of the gases flowing out of the cylinder creates a pressure slightly lower than atmospheric pressure. At 28° BTDC, the intake valve opens and the cycle starts again. 
 </Text>
         </Document>
+        <Document ID="D3F9E9A3-14BA-4561-BA43-34810ECD46C3">
+            <Title>Action [actionnoise]</Title>
+            <Text>If the machinery is making metallic noises, **stop and lock the shaft immediately**.  The main engine and gears will have to be will have to be opened and inspected, which may require a visit to a shipyard.
+
+For other noises or for vibration, slow down until the problem stops.  If the problem goes away when you operate below a particular speed, operate beneath that speed for 10-15 minutes before trying to speed up again.  Some problems, like a bowed rotor, incompletely drained casing, or cold lube oil may correct themselves as the turbine warms up.  Stop the engine if the problem persists. The turbine should never be operated at speeds that cause vibration.
+
+Try to pinpoint the cause of the noise or vibration.   Open the turbine casing drains. Shift over and inspect the lube oil strainers, looking for metallic particles.  Check the turbine axial position indicator, for evidence of thrust bearing failure.  Check all bearing temperatures and oil bubblers for normal flow.  Inspect all bearings, couplings and seals associated with the turbines, gears and shafting.  Inspect the turbine blades, gear teeth, and propeller.  Recovery will depend on the cause of the casualty and the extent of the damage.</Text>
+        </Document>
         <Document ID="EE0308CE-D1C7-45C8-B60C-B26CEA21FA29">
             <Title>Operations</Title>
             <Text>The following steps describe the procedure for safely starting a centrifugal pump. 
@@ -15391,6 +15911,9 @@ We will describe a two-stroke, supercharged, diesel engine having intake ports a
 &lt;/figure&gt;
 
 </Text>
+        </Document>
+        <Document ID="D6FCC807-8A68-4C3D-A4B8-FCFDEA22ED7B">
+            <Notes>Casualty Control Document in my files, from unknown source.</Notes>
         </Document>
         <Document ID="192106C4-701B-42A0-9AEE-B29E6EE0A83A">
             <Title>Symbols</Title>
@@ -15521,6 +16044,23 @@ It's important to keep in mind how quickly these actions to occur. Very little t
   &lt;image source="images/four-stroke-timing" width="75%"&gt;&lt;remix&gt;&lt;source&gt;WEH CC0&lt;/source&gt;&lt;/remix&gt;&lt;/image&gt; 
 &lt;/figure&gt;
 We will now discuss the operation of four-stroke engine as it passes through one complete cycle.    For the purpose of the discussion,  we will assume that the engine is normally aspirated with intake and exhaust valves,  and has a 3.5-inch bore, a 4-inch stroke and a 16:1 compression ratio.</Text>
+        </Document>
+        <Document ID="6397DC61-D8E2-41D8-8842-CAC9AE648B08">
+            <Title>Action [actionbang]</Title>
+            <Text>Prevention of boiler explosions is the only practical course of action.
+
+Always conduct a proper purge before lighting off a burner.  Don't attempt to light off if oil has accumulated in the furnace. If the fires are not lit within five minutes of the purge, purge again.  After lighting off, inspect the flame pattern and the stack for peculiarities. After a burner is secured, remove the atomizer to prevent oil leakage into the furnace.
+ 
+Watch carefully for the following danger signs:
+
+*	one or more unsuccessful attempts to light a burner
+*	flame failure or sputtering fires
+*	fuel odors coming out of the light off port
+*	oil leakage into the furnace
+*	irregular, streaked smoke, or black smoke that cannot be corrected 
+*	white smoke, although some white smoke is normal when the boiler is cold
+
+If any of these danger signs are observed, proceed with caution until the problem is understood and corrected.</Text>
         </Document>
         <Document ID="3D53B52D-1BAC-4F8F-9012-66F5ED2965CE">
             <Title>exercise</Title>
@@ -15888,6 +16428,15 @@ The metal-to-metal contact in NPT fittings relies on the deformation of the thre
 If used improperly, that is, without correct alignment, overtightening, or wrong sizing, ports may expand, and cracks may form on the threads. This, in turn, leads to the formation of leakage pathways from where the medium can leak out. It is for this reason that NPT fittings are not recommended for extremely high-pressure applications.
 </Text>
         </Document>
+        <Document ID="C5B57C63-DA9A-4596-878D-58D8D0170787">
+            <Title>Watchstanding</Title>
+        </Document>
+        <Document ID="99DF1506-09B4-4282-9100-D6EB49EE50AE">
+            <Title>Forced draft fan failure</Title>
+            <Text>The failure of a forced draft fan will cause the boiler to produce large quantities of black smoke due to insufficient air for combustion.  This will be indicated by an obscured, solid black, stack periscope, or you may hear about it from the bridge.  You will also see a low pressure on the boiler draft gage, the flames will have an unusual yellow-orange color, the boiler may begin to *pant*, and you may smell unusual combustion odors in the engine room. 
+
+Forced draft fan failure is caused by either electrical failure of the fan's prime mover, or mechanical failure of the fan, dampers, linkages, bearings or the like. Electrical failure will automatically close the fuel oil solenoid and secure the fuel supply to the affected boiler.</Text>
+        </Document>
         <Document ID="7A0303C4-970D-4183-B8F7-A93914BBEDDC">
             <Text>&lt;me&gt;A = \mi{2.5}^2  = \km{6.47}^2&lt;/me&gt;</Text>
         </Document>
@@ -15915,6 +16464,13 @@ The crankshaft has large weights, called counter weights, that balance the weigh
    &lt;image source="images/diesel-image34.png" width="50%"/&gt;
 
 Figure 7 Crankshaft and Bearings</Text>
+        </Document>
+        <Document ID="43F83FA1-1EB6-4088-904D-2EA64A2BBFBF">
+            <Title>Action [actiongageglass]</Title>
+            <Text>The gage glass is equipped with quick-closing remote isolation valves.  Secure both top and bottom valves using the chains on the operating level, and drain the water from the glass. Replace the gage with a spare unit. Use alternate level indicators while the glass is being repaired.
+
+Replace the broken glass according to the manufacturer's instructions, and use this unit as a spare for the next time. Failure to tighten gage glass nuts and warm up the gage correctly will cause the new glass to fail and leak.  A properly assembled and installed gage glass will serve for months before it begins to leak.</Text>
+            <Notes>Casualty Control Document in my files, from unknown source.</Notes>
         </Document>
         <Document ID="60F57DAD-BAA1-4C8D-BD62-17F93873EC08">
             <Text>&lt;p&gt;&lt;ol&gt;
@@ -15964,6 +16520,94 @@ Result: t = \hr{12}:\minute{56}:\second{49.2}
         <Document ID="A87C6926-5E86-45CB-88E8-5CE5A6B31799">
             <Title>Mechanical Hazards</Title>
         </Document>
+        <Document ID="9A87BE8D-16ED-4208-9872-36BF6F7043EE">
+            <Title>Detailed *TS Kennedy* round</Title>
+            <Text>The following is an example of a complete round that will allow you to check all of the machinery in an efficient manner. It isn't too practical to spend a lot of time prior to the watch, so keep your round fast and efficient.  Some parts of the machinery spaces may have to be checked in detail during the watch by the watch oiler, who is the eyes and ears of engineer, or yourself if you can leave the operating platform.  
+
+1.	Start your round in the steering gear room. 
+	*	Check oil levels in the four sumps. Look for hydraulic oil leaks. 
+	*	Determine which unit is running, port or starboard. 
+1.	Enter lower six hold. 
+	*	Check the aft Hamworthy MSD. Check the level in the chlorinator tank, look for leaks, and insure that the air pump is running. 
+	*	Check the bilge level.
+1.	Enter the engine room at the upper tween deck. 
+	*	Upon entering, check the first stage heater outlet temperature. 
+	*	Check the gage glasses on steam drums. 
+	*	Check the operation of the gland exhaust fan. 
+1.	Go up the ladder. 
+	*	Check the forced draft fans. 
+	*	Check the DC heater level, temperature and steam supply pressure. 
+1.	Go down starboard side ladder to the generator flat. 
+	*	Note which turbogenerator is on. 
+	*	Check the sump oil level, bearing oil pressure [12 psi], pump oil press [80 psi], oil bubblers, air box temperature, lube oil cooler outlet oil temperature, bearing outlet temperature [115--125 °F], gland seal steam, condenser vacuum [28" Hg]. 
+1.	Go aft and to port around the reduction gear. 
+	*	Check the upper level HP and LP turbine oil bubblers, check the bearing temperatures on the remote panel [160 °F max], verify flow in the lube oil bull's eye. 
+	*	Check the two air receiver pressures: ship's service [100 psi], control air [80 psi]. Check the sump oil levels and blow-down the receivers. 
+	*	Check the contaminated evaporator. Note steam pressure, source of steam [extraction or 150 psi auxiliary steam]. 
+	*	Check the Aqua-Chem evaporators. Note which units are running. Check the chemical feed tank level, vacuum, feed heater temperature [165 °F], salinity panel, and note which tanks are filling. 
+1.	Go forward and check the refrigeration equipment. 
+	*	Note which unit is running, and the oil levels in sump bull's eyes, receiver levels, pressures and temperatures. 
+1.	Go aft and down to the lower level, port side. 
+	*	Check the port settling tank. Note which suction, if any, is open. Note the tank temperature  [110 °F]. 
+	*	Check the CDT tank for oil in the after porthole. 
+	*	Check the evaporator brine and feed pumps. 
+	*	Check the oily water separator when running. The oil content when discharging overboard must be 15 ppm or less. 
+	*	Check the main lube oil pumps. Check the discharge pressure. Note the which pump is running and insure that the other ready for stand-by use. 
+	*	Check the lube oil purifier, look in the two observation ports. Check the  inlet temperature [170 °F], feed pressure [4 psi]. 
+	*	Check the MSD lift station and pumps. 
+	*	Check the lower oil bubblers. 
+	*	Check the bilges.
+1.	Go aft over the shaft. 
+	*	Check the oil flow in the main thrust bearing. 
+	*	Check the main lube oil sump level. 
+1.	Go down shaft alley. 
+	*	Check all oil levels in line shaft bearings.  Feel the bearing casings. 
+	*	Check the bilges. 
+	*	Check the after stern tube shaft seal and one gallon head tank. 
+1.	Return to the engine room starboard side. 
+	*	Check the condenser hotwell levels, auxiliary circulation pumps, and condensate pumps. 
+	*	Check the main scoop and main circulation pump. 
+	*	Check the turbogenerator governor HPU oil levels and discharge pressure [150 psi]. 
+	*	Check the two aft potable pumps.
+	*	Check the bilges.
+1.	Go forward. 
+	*	Check the starboard settling tank. Note which suction, if any, is open. Note the tank temperature [110 °F]. 
+	*	Check which fuel oil service pump is running. Note the discharge pressure [200 psi]. 
+	*	Check which fuel heater is in service. 
+	*	Check whether the fuel oil transfer pump is on. 
+	*	Check the steam reciprocating bilge pump, if it is running. 
+	*	Check the main feed pumps. Note the oil level, oil temperature and discharge pressure. 
+	*	Check the fire pump. 
+	*	Check the bilge pump. 
+	*	Check the sea water service pump. 
+	*	Check the two potable pumps. 
+	*	Check the two Nash vacuum pumps. 
+	*	Check the Wilden pump. 
+	*	Check the main condensate pumps. Note the discharge pressure [70 psi]. 
+	*	Check the levels in the main condenser hotwell and the atmospheric drain tank. 
+1.	Go to AMR space. 
+	*	Check the NYREX evaporator.  Check the steam supply pressures at 600/150 psi reducing station. 
+	*	Check the Wärtsilä auxiliary diesel generator. 
+	*	Check the air compressors. 
+	*	Check the fuel handling room. 
+	*	Check the pumps in the AMR: evaporator, salt water, fire pump, two salt water flushing pumps, diesel cooling pump. 
+	*	Check MSD.  Insure that the blowers are running and that the chlorine tank is not empty.  
+	*	Check the bilges.
+1.	Proceed to the upper console level. 
+	*	Check the boiler drum level remote indicators. 
+	*	Check the DC heater remote level indicators. 
+	*	Check the drum pressure, superheater outlet temps. 
+	*	Check the periscope, and the condition of the flames in the boiler peep holes. 
+	*	Check the load on ship's generators. 
+	*	Inspect the logbook. 
+1.	Discuss the watch with the person to be relieved. </Text>
+        </Document>
+        <Document ID="396AD6FD-2655-43C3-AB4A-0D5488FECBF1">
+            <Title>Action [actionlossfuel]</Title>
+            <Text>If the fires remain lit, slow down and reduce steam demand until the root problem can be located and corrected.
+
+If the fires go out, the fuel oil solenoids will shut off the fuel supply. Proceed with a forced boiler shutdown and start the auxiliary generator.  Identify and the root problem and take action needed to correct it -- change over settlers, start stand-by pump, close recirculation valve, vent pump, etc.  When the fuel supply has been restored, reset the solenoids, purge the furnace, and light off.</Text>
+        </Document>
         <Document ID="9CE093CB-796D-470E-A398-2A45DDD3D146">
             <Title>Vacuum Gauge</Title>
             <Text>&lt;figure&gt;
@@ -15985,6 +16629,11 @@ In the US standard system, pressure is commonly measured using pounds per square
 The psi unit represents the amount of force (in pounds) exerted on a one-square-inch area. For instance, a pressure of 30 psi means that a force of 30 pounds is distributed over each square inch of the surface. 
 Pressure = \frac{Force}{Area} =\frac{Pounds}{InchesSquared} =\frac{lbs.}{{in.}^{2}} = psi 
 Pressure =\frac{Force}{Area} =\frac{Force = ma}{Area} F = ma (mass x acceleration) = \frac{mx{32.2fts}^{2}}{Area}</Text>
+        </Document>
+        <Document ID="2A5D6ABB-22F7-42FE-9314-29670D2AD005">
+            <Title>It's better to prevent casualties than to respond to them</Title>
+            <Text>Most casualties can be prevented by attention to proper watchstanding and maintenance. Take care of the small things before they become big things. Always maintain proper lubrication and cooling.  Test lubricating oil periodically for water and other contaminants. Keep regulating valves and control systems properly adjusted. Determine the cause of, and repair leaks as soon as they're found. Perform maintenance at the intervals recommended by the manufacturer. Remember that if one machine fails, similar units may have similar problems, so after the failure of one, check the others. And finally, don't cause casualties -- know the correct way to operate the equipment and do it that way.
+</Text>
         </Document>
         <Document ID="BD9884C7-29A0-42D5-9BB4-7984A9DF7353">
             <Title>Precautions</Title>
@@ -16075,6 +16724,21 @@ Determine the displacement of a eight cylinder engine with a \inch{3.25} bore an
         <Document ID="72378775-3A4A-4712-8722-4162D6783DE4">
             <Title>Fuel Injection System</Title>
         </Document>
+        <Document ID="BAB45C0E-6E31-4F46-AD0D-7A1793072F70">
+            <Title>Flooding of the engineroom</Title>
+            <Text>Uncontrolled flooding of the engineroom is a serious situation that can lead to loss of the vessel.  The symptoms include an obvious major leak from a piping system or heat exchanger, accompanied by a rapid rise in the bilge level.
+
+As the water level rises, the following consequences may be anticipated:
+
+*	Salt water will enter into the feed system through the ADT and condensate pump glands and cause high salinity in the boilers.
+*	Electric pumps will fail as they submerge, resulting in loss of turbogenerators, fire-main, cooling systems, bilge pumps, etc.
+*	The main lube oil sump, double bottoms and reserve feed tanks may become contaminated if water enters through the sounding tubes.
+*	Flammable liquids in tanks and bilges will rise with the flood water and may start fires when they come in contact with hot surfaces.
+*	Uncontrolled flooding of compartments will lead to loss of vessel stability.
+*	Cold sea water coming in contact with hot steam lines and the boiler may result in rupture and boiler explosion.
+
+Major flooding incidents are usually the result of carelessness, for example, when sea valves are accidentally opened while the main condenser is opened up for repair, or when shipyard work on skin valves is incomplete when the vessel is re-floated in the drydock.  Sea valves should be locked closed whenever condensers and coolers are opened for repair and all work should be inspected to be water tight before pressurizing.  Other causes of flooding include expansion joint failure, broken cooling water lines, leaking stern gland packing, flooding through leaking non-return valves in the bilge pump suction manifold, collision, etc.</Text>
+        </Document>
         <Document ID="79889FA1-622B-4C0C-BE78-CF474612D0C8">
             <Title>Thermometers</Title>
             <Text>Liquid in Glass Thermometers  are the most common instruments for measuring temperature.  The basic principle involves the expansion or contraction of a temperature-sensitive substance in response to temperature changes. This type of thermometer consists of a liquid (usually mercury or colored alcohol) sealed in a glass tube. The liquid expands or contracts with temperature changes, and the temperature is read from a scale etched on the thermometer. 
@@ -16147,6 +16811,39 @@ Mathematically, pressure is expressed as:  &lt;me&gt;Pressure = \frac{Force}{Are
         </Document>
         <Document ID="573B3C76-4FFA-4439-80C4-F401B2DA74FD">
             <Title>Energy</Title>
+        </Document>
+        <Document ID="D737FE43-2A00-4DE6-9253-F438CED42C39">
+            <Title>Unusual noise or vibration from turbines or gears</Title>
+            <Text>Unusual noise or vibration emanating from anywhere in the main propulsion machinery or turbogenerators is always cause for concern. The problem may be simple and result in very little downtime,  or may result in complete loss of the main engine.
+
+The symptoms of this casualty are simply unusual noises or vibrations.  Note, however, that it may be difficult to pinpoint the exact source of the noise or vibration since all the parts of the main engine are connected to one another.
+
+Any number of problems can lead to noise or vibrations.  Some are listed here:
+
+*	Improper turbine start-up
+
+	-	Improper turbine warm up can cause bowing of the turbine rotor, and the consequent rubbing of the blade tips on the turbine casing.  This not only causes noise, but it also wears down the  interstage packing, which reduces turbine efficiency.  Turbine warm-up procedure should always be carefully followed.
+	-	Failure to properly drain the turbine casing can cause vibrations and noise as the blades rotate through the accumulated condensate. 
+
+*	Mechanical problems
+
+	-	Worn or damaged turbine, gear, or line shaft bearings
+	-	Axial misalignment due to thrust bearing failure
+	-	Torsional vibrations due to slip-stick in the stern tube or strut bearing
+	-	Vibrations caused by a bent shaft, misalignment, or flexible coupling malfunction
+	-	An unbalanced, damaged, or fouled propeller
+	-	Broken or loose turbine blades, or broken gear teeth
+	-	Mechanical imbalance of the rotor or gears
+	-	Loose holddown bolts
+
+*	Operational problems
+
+	-	Incorrect steam temperature or pressure, wet steam
+	-	Boiler carryover deposits accumulating on the turbine blades
+	-	Rotor bowed due to standing idle too long during maneuvering
+	-	Increased propeller loading when operating in shallow water
+	-	Operation at the critical frequency of the turbine/gear system
+	-	Improper lubrication -- cold oil, dirty oil, insufficient flow</Text>
         </Document>
         <Document ID="F5B72495-5F40-4347-A5FA-5D8AFB65244D">
             <Title>Operation of a Governor</Title>
@@ -16523,6 +17220,15 @@ High steam pressure at the inlet to the turbine is important for energy conversi
             <Text>In a swing check valve the valve seat is angled 45° to the fluid flow path through the   valve. The disk is attached by an arm to a hinge pin inside the valve body near the   cover opening. The hinge pin is located just above the highest part of the seat opening.   When the fluid flow is from right to left and the pressure on the bottom of the disk is   greater than the pressure on the top of the disk, the disk swings away from the seat   allowing flow to take place. When fluid flow tries to reverse (from left to right), the   pressure on top of the disk becomes greater than the pressure on the bottom of the disk,   the disk to moves back toward the seat, preventing flow in this direction. The arm and   hinge pin assembly assure correct alignment between the disk and seat for a tight   closure. 
 </Text>
         </Document>
+        <Document ID="767C7462-0099-4B87-8017-3A376EB260DF">
+            <Title>Immediate response</Title>
+            <Text>As soon as you are aware of a problem, you should take action to minimize the casualty. Don't hesitate to sound the engineers' alarm to call for help. Attempt to prevent further damage to the unit concerned, by tripping or securing its power; and to prevent the casualty from spreading through secondary effects, but bear in mind the consequences of securing the equipment.  Notify the bridge and the chief as soon as practical.
+&lt;!--todo discuss automatic slowdown/shutdown of main engine and power management system response --&gt;
+
+If the casualty involves the main propulsion system, slowing or stopping the vessel may be prudent, but this should only be done in consultation with the bridge.
+If the casualty involves thegenerators, you can reduce the load on the generators by stripping non-vital equipment at the main switchboard.  Some candidates include the air conditioning compressors, lighting load centers, galley equipment, and ventilation fans.  You can also start the auxiliary diesel generator and put it on the line.
+</Text>
+        </Document>
         <Document ID="AB696839-9D3B-4B26-A9E2-52A1BEDB419C">
             <Title>Engulfment or entrapment</Title>
             <Text>Confined spaces often have small openings or tight access points. If an individual becomes trapped or engulfed by materials, such as loose soil, water, or flowing grain, it can lead to serious injury, suffocation, or drowning.</Text>
@@ -16622,6 +17328,16 @@ Creating and reading  P&amp;amp;IDs is a specialized skill, and professionals kn
         <Document ID="8B52DEBE-7628-472D-B9C8-523F3EB6D0AB">
             <Title>Electrical Terminology</Title>
         </Document>
+        <Document ID="D203112C-5141-4F36-8516-64C1A191EAB6">
+            <Title>Action [actionlowlo]</Title>
+            <Text>If the main lube oil pump fails, the stand-by pump is supposed to automatically start and pick up the load.  Upon hearing a lube oil pressure alarm, you should immediately verify that the stand-by pump has started and that there is flow through the bull's eye.  If this is the case, the casualty has been averted and all that remains is to discover and repair the cause of the original failure.
+
+If the stand-by pump does not start you must **immediately stop and  lock the shaft**.  The governor will close the ahead throttles, but the vessel's way will keep the propellor and shaft turning.  To stop the shaft, open the astern guardian valve and the astern throttle and admit enough steam to bring the shaft to a complete halt.   To lock the shaft, engage the jacking gear.   If the ship happens to be going astern at the time of the casualty, it will be more difficult to stop the shaft with the ahead throttle because  it will be held closed by the low lube oil trip.  To open it you will need to manually override the trip by using the emergency lever on the throttle assembly to jack open the governor valve.  See [](#turbinecontrol) for more information.
+
+A sudden stop of the engine will impact the plant -- the drum level will first swell as the astern turbine brings the shaft to a hault, then shrink when throttles are closed; boiler pressure will build up and safeties may lift, and it will be necessary to cut out burners.  Turbine extractions will need to be changed over to live steam. If the turbine will be out of service for longer than about five minutes, the main condenser vacuum should be broken, and make-up feed, vacuum drag, and auxiliary exhaust dump changed over to an auxiliary condenser.
+
+Restoration of service should include identifying and correcting the root cause, and an inspection of the bearings for damage.  Shift and clean the lube oil strainers and look for metal debris in the baskets.  Remove bearing covers and inspect, starting with the most remote and the hottest bearings to look for signs of damage.  </Text>
+        </Document>
         <Document ID="CEBADEC9-4A4C-42EA-B684-F857725F3A51">
             <Title>Atmospheric Pressure (psia)</Title>
             <Text>Atmospheric pressure, as stated earlier, is specific to elevation. Air, which is all around you, has weight, and it presses against everything it touches. That pressure is called atmospheric pressure, or air pressure. It is the force exerted on a surface by the air above it as gravity pulls it to Earth. Atmospheric pressure is the pressure exerted by the Earth's atmosphere at a given location. For example, standard atmospheric pressure at sea level is 760mmHg, 14.7 psia or 101.325 kPa. In Denver, Colorado, atmospheric pressure 12.4 psi or about 84.0 kPa, and in Death Valley, California it is 14.9 psi or 102.6 kPa. 
@@ -16692,6 +17408,21 @@ Turbocharging and supercharging are two methods used to increase the power outpu
 &lt;/figure&gt;
 
 </Text>
+        </Document>
+        <Document ID="D3249B42-0A77-42C6-A287-8C0B065CA8B8">
+            <Title>Handing over the watch</Title>
+            <Text>When the end of your watch comes,  you are responsible to insure that the watch is ready to be handed over, in particular be sure that: &lt;ul&gt;
+The bilges are dry and oil free.
+The trash cans are emptied.
+The decks are swept up.
+The logbook is completed, signed, and the log desk area is clean and neat.
+The coffee is made fresh and the coffee pot area is clean and wiped down.
+The machinery is operating normally. Any problems should be discussed with the relieving officer. If he agrees to accept the watch, he also agrees to accept the outstanding problems.
+&lt;/ul&gt;&lt;/p&gt;
+Finally, &lt;pubtitle&gt;STCW Section A-VIII/2 part 3-2 ¶ 56&lt;/pubtitle&gt; states that:
+&lt;blockquote&gt;
+the officer on charge of the engineering watch shall not hand over the watch to the relieving officer if there is reason to believe that the latter is obviously not capable of carrying out the watchkeeping  duties effectively, in which case the chief engineer officer shall be notified.
+&lt;/blockquote&gt;</Text>
         </Document>
         <Document ID="698A1138-1449-4699-9ADD-B9610C2CBF19">
             <Title>Voltage testers</Title>
@@ -16865,6 +17596,43 @@ Knowing 14.7 psia is Atmospheric Pressure and that inHg vacuum gauges indicate l
 Vacuum Gauge Reading Equivalent psia = 14.7 psia – (10 inHg x .491 psi Hg) 
 = 14.7 psia – (4.91 psi) 
 = 9.79 psia</Text>
+        </Document>
+        <Document ID="C4823085-7571-4FA9-A814-A5E0E6E58296">
+            <Title>Causes of high bearing temperatures </Title>
+            <Text>Anything that prevents the delivery of oil or increases the bearing friction will cause bearing temperatures to rise.  Among the possibilities:
+
+*	Insufficient oil flow
+
+	-	Lube oil pump failure -- mechanical or electrical
+	-	Oil pump suction failure -- empty sump, air leaks
+	-	Clogged strainers
+	-	Obstructed oil lines -- temporary screens left in place?
+	-	Bearing shell blocking oil passages
+	-	Oil too cold, high viscosity
+
+*	Excessive friction
+
+	-	Misalignment
+	-	Defect in surface of journal, embedded debris
+	-	Overload
+
+*	High oil temperature
+	
+	-	Lube oil cooler outlet temperature above 110 °F
+	-	Oil cooler thermostat failure
+	-	Inadequate supply of cooling water to oil cooler
+
+*	Poor quality or low viscosity oil
+
+	-	Oil contaminated with dirt, grit, water
+	-	Emulsified oil
+	-	Oil too hot
+	-	Excessive gland seal steam
+	
+
+![Wiped Bearing Shell, Credit: Michael Moriarty *MV Mesabi Minor*][wipedbearing]
+
+[wipedbearing]: pics/WipedBearing.jpg width=4in</Text>
         </Document>
         <Document ID="A483F33A-2B34-42A1-A661-0E5FA4D86F0D">
             <Title>Flanged Connections</Title>
@@ -21099,6 +21867,20 @@ Example Problem
 &lt;mrow&gt;\amp = \Pa{19581} = \kPa{19.6}&lt;/mrow&gt;
 &lt;/md&gt;&lt;/p&gt;</Text>
         </Document>
+        <Document ID="B138927D-DB09-439C-B760-7A24D61C3E47">
+            <Title>Action [actionfeedpressure]</Title>
+            <Text>First, notify the bridge and slow down to reduce steam demand. Watch the boiler levels carefully and secure them before they go out of sight.
+
+*	Determine the root cause of the problem -- loss of suction or 	pump failure.
+*	Restore the DC heater level if necessary.
+*	If the pump has tripped and can be restarted, do it.
+*	If the pump is vapor bound, restore suction pressure and vent 	the pump, then restart.
+*	If the cause is pump failure, start the stand-by feed pump.
+*	Check for other causes -- loss of control air, feed pump governor set too low, feedwater recirculation valve open.
+
+In an emergency, water can be supplied to the boiler by taking a cold suction from the reserve feed tanks with the in-port feed pump.  This should not be done until all other methods of providing boiler feedwater have failed.
+</Text>
+        </Document>
         <Document ID="6E7A2EF5-7A2F-43BF-AFD6-57D5ACF91B9D">
             <Title>Introduction</Title>
             <Text>Your feet are vulnerable to many potential hazards aboard ship. For example, slips and falls due to wet and slippery decks; heavy objects falling on or rolling over your foot because of the ship’s motion or accident; punctures caused by stepping on sharp objects; and potential electrical shock when your body is grounded through the soles of your shoes. In other industries, there are other hazards to consider, chemical exposure, high temperatures, molten metal splashes, static electricity, to name a few. Proper selection of footwear can minimize the danger of these hazards. 
@@ -21131,6 +21913,14 @@ The three voltage sine waves can be separated and used individually to supply si
         </Document>
         <Document ID="C2426448-0C74-4778-819A-BA76FE2E46B6">
             <Title>Safety Devices</Title>
+        </Document>
+        <Document ID="5494040B-0AF1-485F-970E-E2EC62FB3A71">
+            <Title>Logbooks</Title>
+            <Text>The Engineering Officer of the Watch is responsible for maintaining several logbooks. Every ship will have an  *Engineroom Logbook*, an *Oil Record Book* (ORB), and if not automatically logged, a *Bell Book*.  In addition, the *Kennedy* also maintains a *Maintenance Log*.
+
+The Engineering Log, ORB, and Bell Book are vital, legal documents and should be handled accordingly.  They serve to document the operations carried out aboard ship, and should answer the questions: who? what? where? when? and why? Logbooks will be used by the Coast Guard in any accident, casualty, or spill investigation.  A properly filled out logbook may be able to exonerate you, while a fraudulent one might convict you.
+
+When filling out logbooks, entries are to be printed legibly, using a black pen, and no erasures are permitted.  If a mistake is made, a single line should be drawn through the error and the correction entered and initialed. Entries must be maintained contemporaneously with the events they describe.  Wash your hands before filling out the logbook, and keep the logbook clean.  Sign the logbook at the end of the watch.</Text>
         </Document>
         <Document ID="C8C8010E-5B92-4CC2-8ED5-F7D3E5CBFCAF">
             <Text>The table below contains a large number of values that can be used to make unit-factors.   
@@ -21750,6 +22540,11 @@ The Power Module uses pulse width modulation (PWM) to trigger a set of insulated
 
 </Text>
         </Document>
+        <Document ID="DA52C4B4-78B7-49A7-ABC3-EF25FDB17D2C">
+            <Title>Anticipate and prepare for casualties</Title>
+            <Text>Surprisingly often, casualties can be predicted.  An alert engineer will notice slight changes in the operating temperatures and pressures over time, which can indicate failing pumps or fouled heat exchangers.  Failing bearings run hotter and noisier, and can easily be detected by touch or with vibration analysis.  Failing electrical insulation has a distinctive smell. Sometimes, the signs are not apparent; you just have a vague feeling that something is not right.  In any event, you should not ignore your hunches, but think through what they might mean and plan for them. You should continuously prepare for casualties before they occur by mentally reviewing potential situations, their consequences, and planning your responses.  
+</Text>
+        </Document>
         <Document ID="ED35AD9F-4804-45DC-A3FB-E650A2F0AB58">
             <Title>Engineering Fundamentals</Title>
         </Document>
@@ -22185,6 +22980,20 @@ Most generators are &lt;term&gt;self-excited&lt;/term&gt;, meaning that the exci
         <Document ID="8D395243-2369-4C35-B9F9-B9CFC9194DA8">
             <Title>Electrical Circuits</Title>
         </Document>
+        <Document ID="3E94BC69-163F-4B9A-91E5-B73E5D938DA4">
+            <Title>DC heater level too low or high</Title>
+            <Text>The DC heater normally operates at near steady state, with water inflows and outflows in balance, and the level remaining relatively constant at the midpoint of the gage glass. If this balance is upset, something is wrong and the situation must be investigated and corrected.
+
+If the problem is caught early, it is usually easy to correct as soon as the root cause is discovered.  However, if the situation is left to fester, it can lead to serious problems.  Low deaerator levels affect the feed pump suction, and can lead to low water in the boiler and loss of the plant.  Excessively high levels should be avoided to maintain proper deaeration and prevent tank rupture.
+
+Water enters the DC heater primarily from the main condensate line, but also from the high pressure drain system. Steam enters from the auxiliary exhaust system to heat and deaerate the feed, and then condenses and adds to the tank contents. Feedwater is removed from the tank by the feed pump to supply the boiler.  In a perfectly closed system, these flows would be equal, and the level would remain steady.  In a real ship, however, leaks in the steam systems must be replenished by periodic addition of *make-up feed (MUF)*. Aboard the *Kennedy*, the taking on make-up feed is the responsibility of the Cadet Engineer of the Watch.  Most ships use an automated regulating valve to do the same job. 
+
+The most common cause of incorrect DC heater level is inattention to duty by the watchstander -- failing to take on make-up when needed, or leaving the make-up valve open too long.  On automated ships, failure of the make-up feed regulator can cause similar problems. Inattention can also permit the distilled tank, which is the source of the make-up feed, to go dry. Water can also be lost into an idle condenser, if a condensate pump recirculation valve is left open.
+
+The DC heater is equipped with an automated dump valve, which opens to drain excess feed to the reserve feed tanks.  If this valve fails or is bypassed, the DC heater level will fall precipitously. 
+
+Failure of a main or auxiliary condensate pump will cause an immediate reduction in the inflow, leading to low level in the DC heater and a high level in the corresponding condenser. Failure of the main feed pump will cause the opposite problem -- high level in the DC heater and a low level in the boiler.</Text>
+        </Document>
         <Document ID="3FD0C358-2A3C-4238-BBB7-581A21ECB56D">
             <Title>Overspeed Device</Title>
             <Text>Because a diesel is not self-speed-limiting, a failure in the governor, injection system, or sudden loss of load could cause the diesel to overspeed. An overspeed condition is extremely dangerous because engine failure is usually catastrophic and can possibly cause the engine to fly apart. 
@@ -22233,6 +23042,16 @@ It's important to note that OSHA regulations mainly pertain to workplaces on lan
             <Title>introduction</Title>
             <Text>All substances are composed of molecules. The energy associated with molecules is called thermal energy. Thermal energy, like mechanical energy, exists in two stored forms and in one transitional form. The two stored forms of thermal energy are called internal potential energy, and internal kinetic energy. Thermal energy in transition is called &lt;em&gt;heat.&lt;/em&gt;Although molecules are too small to be seen, they behave in some ways pretty much like the larger objects we considered in the discussion of mechanical energy. Molecules have energy of position (internal potential energy) because of the forces which attract molecules to each other. In this way, they are somewhat like the rock and the earth we considered before. Molecules have energy of motion (internal kinetic energy) because they are constantly in motion. Thus, the two stored forms of thermal energy-internal potential energy and internal kinetic energy-are in some ways similar to mechanical potential energy and mechanical kinetic energy, except that everything is on a smaller scale. 
 </Text>
+        </Document>
+        <Document ID="9ACD872B-2C3B-4F6C-95D5-41F3EDB84FE7">
+            <Title>Standing the watch</Title>
+            <Text>When you are the Engineering Officer of the Watch (EOW) you are in charge of the engine room and responsible for the proper operation of all machinery and the safety of all personnel in the engine room.  These are your primary duties, as STCW clearly states:
+&lt;blockquote&gt;
+Officers in charge of an engineering watch shall not be assigned or undertake any duties which would interfere with their supervisory duties in respect of the main propulsion system and ancillary equipment.  They shall keep the main propulsion plant and auxiliary systems under constant supervision until properly relieved, and shall periodically inspect the machinery in their charge.  They shall also ensure that adequate rounds of the machinery and steering-gear spacers are made for the purpose of observing and reporting equipment malfunctions or breakdowns, performing or direction routine adjustments, required upkeep and any other necessary tasks. 
+&lt;attribution&gt;&lt;pubtitle&gt;STCW Code Section A-VIII/2 part 3-2 ¶ 69&lt;/pubtitle&gt;&lt;/attribution&gt;
+&lt;/blockquote&gt;
+As long as you are on watch, you are in charge and responsible.  Your responsibility only ends when you are properly relieved.  Even if the chief engineer is in the engineroom, you remain responsible for the watch unless he specifically informs you that he has taken charge.  
+The authority of the Cadet Engineer of the watch aboard the Patriot State is more limited than that of the watch engineer, so as a cadet you should get permission of the watch officer before carrying out any operations described below.</Text>
         </Document>
         <Document ID="568BD6AB-4B91-49F3-A86B-25B909A6163E">
             <Title>Types of Bourdon Tube Gauges</Title>
@@ -23087,6 +23906,11 @@ All diesel engines fall into one of two categories, two-stroke or four-stroke en
    &lt;/tabular&gt;
 &lt;/table&gt;</Text>
         </Document>
+        <Document ID="0FDDC18E-836C-4B2D-8D39-4029BE384CFB">
+            <Title>Night orders</Title>
+            <Text>Night orders are daily, specific instructions issued by the chief or first engineer, detailing machinery to be secured or started, tanks to be filled or drained, maintenance to be carried out, etc.  Orders to prepare the plant to get underway would be found in the night orders.</Text>
+            <Notes>eident</Notes>
+        </Document>
         <Document ID="2F8A478A-49B1-436D-A2E4-317944DA5F4F">
             <Title>introduction</Title>
             <Text>&lt;figure xml:id="Checkvalve_views_png"&gt;
@@ -23103,6 +23927,12 @@ There are three main variations of check valves: swing checks, lift checks, and 
         <Document ID="4573B006-4464-4CA6-A530-7942783571EB">
             <Title>Volume Units</Title>
             <Text>These are many different units  for measuring volume in use, including different units for dry and wet materials.  Here we will focus on those volume units relevant to shipboard operations.</Text>
+        </Document>
+        <Document ID="49C2685B-4535-4B30-BDE4-0DD94B2AEABB">
+            <Title>Action [actionoilcdt]</Title>
+            <Text>As soon as oil is observed in either the inspection tank or the CDT, divert all heater drains to the bilge to prevent further contamination of the system.  Inspect the condensate drains from each operating heater to determine the source of the leak.  When the leaking heater is identified, take it out of service repair it  before using it again.  Line all good drains back to the CDT, and add make-up feed as necessary to restore the system.
+
+Drain any oil from the surface of the CDT using the scum drain valve.  It may take some time for all oil in the system to be flushed out. Continue watching and draining oil until the system runs clear.</Text>
         </Document>
         <Document ID="81CC7406-F34A-4709-B333-D0198736F235">
             <Title>AC vs. DC</Title>
@@ -23500,6 +24330,28 @@ The oil pressure sensor usually stops the engine. The oil pressure sensors on la
             <Title>Toxic gases and vapors</Title>
             <Text>Confined spaces may contain hazardous gases or vapors, such as carbon monoxide, hydrogen sulfide, or volatile chemicals. These substances can accumulate in the confined space and pose a serious health risk to individuals who inhale them, leading to poisoning or respiratory problems.</Text>
         </Document>
+        <Document ID="80C959F8-1262-43CA-A742-6AD0AB924565">
+            <Title>Taking over the watch</Title>
+            <Text>Your responsibilities when you take over a watch are clearly delineated by &lt;pubtitle&gt;STCW Section A-VIII/2&lt;/pubtitle&gt;, which states:
+&lt;blockquote&gt;
+Prior to taking over the engineering watch, relieving officers shall satisfy themselves regarding at least the following: &lt;ol&gt;
+The standing orders and special instructions of the chief engineer officer relating to the operation of the ship's systems and machinery;
+the nature of all work being performed on machinery and systems, the personnel involved and potential hazards;
+the level and, where applicable, the condition of water or residues in bilges, ballast tanks, slop tanks, reserve tanks, fresh water tanks, sewage tanks and any special requirements for use or disposal of the contents thereof;
+the condition and level of fuel in the reserve tanks, settling tank, day tank and other fuel storage facilities;
+any special requirements relating to sanitary system disposals;
+condition and mode of operation of the various main and auxiliary systems, including the electrical power distribution system;
+where applicable, the condition of monitoring and control console equipment, and which equipment is being operated manually;
+where applicable, the condition and mode of operation of automatic boiler controls such as flame safeguard control systems, limit control systems, combustion control systems, fuel-supply control systems and other equipment related to the operation of steam boilers;
+any potentially adverse conditions resulting from bad weather, ice, contaminated or shallow water;
+any special modes of operation dictated by equipment failure or adverse ship conditions;
+the reports of engine-room ratings relating to their assigned duties;
+the availability of fire-fighting appliances; and
+the state of completion of engine-room log.
+&lt;/ol&gt;&lt;/p&gt; &lt;/blockquote&gt;
+These items can be ascertained by inspecting the logbook and night orders, consulting with the off-going engineer and the bridge, and most importantly: completing a thorough inspection round of the engine room. You should make a complete inspection of all operating machinery before you take over the watch, and make quick rounds hourly throughout the watch.  
+You are also required to insure that all members of your watch appear to be fully capable of performing their duties effectively.  This means no hangovers!</Text>
+        </Document>
         <Document ID="AF84D833-389F-483A-BF55-4DC0D5CCEB62">
             <Title>Operations</Title>
             <Text>TBD</Text>
@@ -23643,6 +24495,16 @@ IR thermometers are used for non-contact measurements, remote measurement, or in
    &lt;image width="50%" source="images/temperature-ir.jpg"/&gt;
 &lt;/figure&gt;
 </Text>
+        </Document>
+        <Document ID="DCB375C3-DA2C-4F36-92FF-FFF070168331">
+            <Title>Loss of control air pressure</Title>
+            <Text>Loss of control air pressure is a serious situation with wide ranging effects. 80-95 psi *control air* is used to actuate almost all of the automatic regulating valves and reducing stations aboard the *Kennedy*. The feedwater regulator, feed pump governor,  reducing stations, the auxiliary exhaust make up and dump system, automatic make-up feed and many console actuated isolation valves all require control air to function.  Without control air, these devices and others must be bypassed or switched to local manual and controlled by hand in order to operate the plant.
+
+Your first indication of a control air casualty will be the sounding of the low control air pressure alarm, which occurs at about 60 psi.  You will also observe low and dropping pressure on the control air system pressure gage on the main console.  
+
+Leslie pneumatic control valves and regulators require 30 psi supply air to operate, so they will continue to function for a few minutes after the alarm sounds, until the pressure in the control air receiver drops below 30 psi.  At that point, the regulators will start to lose control and will move towards their *fail-safe* position.    The position, either fully open or closed, that automatic regulating valves take when the  air supply fails is selected by the designer to do the least harm or to facilitate hand control.   So, for example, the feedwater regulator will fail open and the feed pump will speed up to insure a feed supply to the boiler. The fireman is expected to manually control the drum level by adjusting the feed check valve.  Many regulating valves fail open, and can be manually closed by screwing down on their handwheel.
+
+Aboard the training ship, the most likely cause of loss of control air pressure is that someone has accidentally switched off the compressor.  Mechanical or electrical compressor failure is also a possibility, as is a major air leak in the system.</Text>
         </Document>
         <Document ID="D71D82B4-9D1F-45D0-9B1D-5A9F2BECF57D">
             <Title>Pressure Conversions </Title>
@@ -24215,6 +25077,11 @@ In the following discussion of the diesel cycle it is important to keep in mind 
 Ignition occurs in a diesel by injecting fuel into the air charge which has been heated by compression to a temperature greater than the ignition point of the fuel. 
 </Text>
         </Document>
+        <Document ID="9EB73C54-3B84-4D66-8AA2-A8581CCF4B45">
+            <Title>Repair</Title>
+            <Text>At the end of the recovery phase the plant will be stable, but may be in a vulnerable condition, with reduced capacity or redundancy. Therefore, any damaged equipment should be repaired as soon as possible, and the plant brought back to full operational status.   The chief will give the captain an estimate of how long it will take to make the plant fully operational, and do the paperwork  &lt;emdash/&gt;  fill out the logbook, casualty reports, and machinery histories. 
+</Text>
+        </Document>
         <Document ID="EC57E7B9-7BC0-451F-884F-A2C3519AAF74">
             <Title>Pressure Conversions </Title>
             <Text>Gauge to Absolute Pressure Conversions 
@@ -24287,6 +25154,10 @@ The dry pipe is designed to allow steam to enter, but to exclude water droplets 
         </Document>
         <Document ID="66D684D1-FDC0-4212-9D67-246991D49FCB">
             <Title>Safety Devices</Title>
+        </Document>
+        <Document ID="B6E8D974-30CB-4EC6-90CE-67DE70289A10">
+            <Text>Watchstanding is the primary duty of the third assistant engineer, and all Massachusetts Maritime Academy engineers should graduate competent to stand a safe watch.
+The three parts of watchstanding: taking over the watch, performing the watch, and handing over the watch will be discussed in this chapter.</Text>
         </Document>
         <Document ID="09C47F81-6DFB-4A6B-BBA9-86E5BA6DE256">
             <Title>Intake</Title>
@@ -25076,6 +25947,14 @@ OSHA has established regulations for safety shoe design, including impact and co
 
 </Text>
         </Document>
+        <Document ID="0E5E8DDF-1A87-4164-9962-960BDF0F73FE">
+            <Title>You can never have too much information</Title>
+            <Text>A good engineer must have a thorough knowledge of the plant.  When you arrive onboard, trace out all major systems and learn the location of all critical valves, so that you can quickly locate and use them in an emergency.  You should particularly look for crossover valves that are not normally used, but which may become important for restoring service after a failure, and isolation valves for securing portions of piping systems.  You should also locate all available safety equipment, and the location of engineroom exits.
+You need to be thoroughly familiar with the normal operation of the plant. Without a knowledge of normal operating temperatures, pressures, noises, smells, vibrations, and familiarity with the way the system responds to changing loads, it is next to impossible for you to recognize the signs of impending trouble.  Most of this information can be obtained by good watchstanding -- making thorough rounds, remembering what you see, and reviewing the logbook for trends.  You can also refer to the ship's manuals and discuss normal operating conditions with the other engineers onboard.
+Finally, you should be completely comfortable with normal startup and shutdown procedures, because in many cases, the most appropriate response to a casualty is to quickly and safely start up a stand-by unit and secure the faulty one before things get worse.
+When a casualty occurs, you will need timely and accurate information.  The alarm and instruments on the console will probably be your first notification of a problem, so it is vitally important to keep them in good working order.  If a gage or thermometer gives any indication that is is faulty: sticking pointer, bogus readings, etc. it should be replaced, repaired, or re-calibrated without delay.  Console alarm points should be adjusted to minimize nuisance alarms.  Don't take anything for granted; always investigate every alarm on the board.  Don't become complacent and ignore alarms because "it was like that when I got here" or  "it always does that."
+</Text>
+        </Document>
         <Document ID="3EC15E09-FA14-4C90-94B4-43F9C98877CE">
             <Title>Cross Fittings</Title>
             <Text>Equal Cross
@@ -25116,6 +25995,17 @@ A Piping and Instrumentation Diagram (P&amp;amp;ID) is a schematic diagram that 
             <Text>Diesel engine speed is controlled solely by the amount of fuel injected into the engine by the injectors. Because a diesel engine is not self-speed-limiting, it requires not only a means of changing engine speed (throttle control) but also a means of maintaining the desired speed. The governor provides the engine with the feedback mechanism to change speed as needed and to maintain a speed once reached. 
 A governor is essentially a speed-sensitive device, designed to maintain a constant engine speed regardless of load variation. Since all governors used on diesel engines control engine speed through the regulation of the quantity of fuel delivered to the cylinders, these governors may be classified as speed-regulating governors. As with the engines themselves there are many types and variations of governors. In this module, only the common mechanical-hydraulic type governor will be reviewed. 
 The major function of the governor is determined by the application of the engine. In an engine that is required to come up and run at only a single speed regardless of load, the governor is called a constant-speed type governor. If the engine is manually controlled, or controlled by an outside device with engine speed being controlled over a range, the governor is called a variable- speed type governor. If the engine governor is designed to keep the engine speed above a minimum and below a maximum, then the governor is a speed-limiting type. The last category of governor is the load limiting type. This type of governor limits fuel to ensure that the engine is not loaded above a specified limit. Note that many governors act to perform several of these functions simultaneously.</Text>
+        </Document>
+        <Document ID="860EFFF5-4E83-423C-A8AA-20D8E35FE61E">
+            <Title>Action [actionwaterfuel]</Title>
+            <Text>If water is detected in the fuel but the fires haven't gone out, slow the ship down to conserve steam, and switch to the other settling tank or to the settler high suction from the console.  
+
+If the fires go out, secure the fuel supply, slow down and initiate a forced shutdown of the boiler.  Then switch to a good fuel source, purge the boiler and light off again.
+
+Since loss of the boiler affects the turbogenerator, consider starting the auxiliary generator at the first signs of trouble.
+
+Water and  contaminated fuel may be quickly returned to the port settler by opening the manual dump valve which is located in the fuel oil return line.  This valve is found just forward of the steps leading from the port boiler to the refrigeration flat, at deck height.</Text>
+            <Notes>Casualty Control Document in my files, from unknown source.</Notes>
         </Document>
         <Document ID="241E1334-0B06-49F4-B588-EF11B72CAC49">
             <Title>Exhaust Temperatures</Title>
@@ -25202,6 +26092,10 @@ Knowing 14.7 psia is Atmospheric Pressure and that inHg vacuum gauges indicate l
 Vacuum Gauge Reading Equivalent psia = 14.7 psia – (10 inHg x .491 psi Hg) 
 = 14.7 psia – (4.91 psi) 
 = 9.79 psia</Text>
+        </Document>
+        <Document ID="A75DD001-5D07-44DA-AD59-8D9886FBB695">
+            <Title>Shipboard Casualties and Response </Title>
+            <Notes>Casualty Control Document in my files, from unknown source.</Notes>
         </Document>
         <Document ID="6F59DD39-FA94-4F41-8451-7A50F188E7C9">
             <Text>&lt;example&gt;
@@ -49606,6 +50500,14 @@ Partial Vacuum gauge pressure measurements require conversions which will be dis
         <Document ID="6DE8E982-C8C0-4FA1-835B-4CBC62F99CC3">
             <Title>Unit Conversions</Title>
         </Document>
+        <Document ID="6785CA73-718E-464E-A3FF-636C6C3B1C0C">
+            <Title>Action [actiondc]</Title>
+            <Text>If the gage glass or remote level indicator shows an incorrect level in the DC heater, all sources of inflow and outflow should be immediately investigated and corrected.  Don't simply open up the make-up feed valve when the level is low without first checking the levels in the condenser hotwells and the steam drum.
+
+In some cases, the condensate missing from the DC heater is located in an idle condenser, perhaps due to leakage through a condensate pump discharge valve, or though an open recirc valve.  In this case, the water can be restored to the DC heater by lining up and starting the condensate pump.  However, rapid introduction of cold condensate into the DC heater will cause *quenching*, i.e. the cold condensate will condense the steam in the DC heater and cause a sudden drop in the auxiliary exhaust and DC heater pressures. Quenching may cause the feed pump suction to flash and the feed pump to overspeed and trip.  Therefore, when pumping condensate up to the DC heater, the condensate pump discharge should be throttled and the cold water introduced slowly to avoid problems.  Carefully watch the auxiliary exhaust pressure during this operation.
+
+If the level in the DC heater can not be restored by normal means, consider slowing down to reduce demand or securing the boilers.</Text>
+        </Document>
         <Document ID="F0874CD5-F2D0-4EA8-A47A-B8EAA131F27B">
             <Title>Pumps</Title>
         </Document>
@@ -49659,10 +50561,26 @@ On one side of the point of mesh, pockets of increasing size are formed as the g
         <Document ID="FEF72D55-55BA-4DC5-B68E-E934BDBE09B7">
             <Title>Thermodynamics</Title>
         </Document>
+        <Document ID="43FAFA8F-E7A5-485D-AA57-740FBAB4F6B3">
+            <Title>Action [actionhotbearing]</Title>
+            <Text>Do not allow any babbitted bearing to exceed the temperature limits stated previously .  
+
+If a main engine bearing is hot, or its temperature is rising rapidly, bring it down by slowing the main engine.   Find and correct the cause of the problem, then return to normal speed.  Notify the bridge before making speed changes.
+
+A turbogenerator with a hot bearing should be secured until the problem is resolved.
+
+A hot line shaft bearing should be checked for sufficient oil in the sump, and that the slinger ring is rotating. If necessary, the bearing can be cooled by applying cold water to the housing, as well as by slowing down.
+
+If the stated temperature limits are exceeded, the bearing is considered uncontrollably hot and the shaft must be stopped and locked to prevent catastrophic damage. However do not bring the shaft to a complete stop until the oil temperature drops below 180 °F to prevent the bearings from seizing to the shaft. [p. 205][#NavyEOM] After an overheating episode, the bearings and lube oil strainers should be inspected for babbitt particles, and depth gage readings should be taken.  If the readings show no wear, low speed operation can be attempted.</Text>
+        </Document>
         <Document ID="CEF28B7A-F007-4ADB-9C70-5CD6DD16E15F">
             <Title>Arc Flash and Arc Blast</Title>
             <Text>Arc flash refers to the release of intense heat, light, and energy that occurs during an electrical fault or short circuit. It is characterized by a sudden and violent discharge of electrical energy through the air. The arc flash generates extremely high temperatures, often exceeding 35,000 degrees Fahrenheit (19,400 degrees Celsius). The intense heat emitted during an arc flash can cause severe burns to anyone in its vicinity. Additionally, the arc flash produces a bright flash of light, which can lead to temporary or permanent vision impairment.
 Arc blast, on the other hand, refers to the high-pressure shockwave produced by the rapid expansion of air during an arc flash. The rapid expansion of these vapors creates a blast wave that can cause significant physical damage. Arc blasts can result in powerful pressure waves, similar to those generated by an explosion, which can cause injuries, such as concussions, fractures, hearing loss, and even fatalities. The arc blast can propel debris, molten metal, and hot gases, further exacerbating the risk to individuals in the vicinity.</Text>
+        </Document>
+        <Document ID="47856874-426D-4671-94D0-79F76A4F1481">
+            <Text>A plant that is functioning normally is pretty simple to operate &lt;emdash/&gt; as long as the engines have fuel and air the automation does the rest.  But when something goes wrong, the watch engineer needs to assess the situation quickly, and make an appropriate response without delay.  Keeping the lights on and the shaft turning is important, but  the safety of the crew and the vessel is primary.
+Although it may not seem like it when you are surrounded by alligators, casualty control can be broken into four phases.</Text>
         </Document>
         <Document ID="AC51926B-976D-4AA1-A002-712B28714F4C">
             <Title>Engineering Measurement</Title>
