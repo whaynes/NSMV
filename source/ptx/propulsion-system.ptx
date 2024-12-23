@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="propulsion-system" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Propulsion Machinery</title>
+  <section xml:id="propulsion-system-propulsion-motors">
+    <title>Propulsion Motors</title>
+    <p>tbd</p>
+  </section>
+  <section xml:id="propulsion-system-drive-shaft">
+    <title>Drive Shaft</title>
+    <subsection xml:id="propulsion-system-bearings">
+      <title>Bearings</title>
+      <p>tbd</p>
+    </subsection>
+    <subsection xml:id="propulsion-system-thrust-bearings">
+      <title>Thrust Bearings</title>
+      <p>tbd</p>
+    </subsection>
+    <subsection xml:id="propulsion-system-stern-tube">
+      <title>Stern Tube</title>
+      <p>tbd</p>
+    </subsection>
+    <subsection xml:id="propulsion-system-propeller">
+      <title>Propeller</title>
+      <figure xml:id="prop-rudder-image">
+        <caption>TSPS Propeller and Rudder under construction</caption>
+        <image source="prop-rudder-IMG_4575.png" width="80%"/>
+      </figure>
+    </subsection>
+  </section>
+  <section xml:id="propulsion-system-steering-gear">
+    <title>Steering Gear</title>
+    <p>tbd</p>
+  </section>
+  <section xml:id="propulsion-system-bow-thruster">
+    <title>Bow Thruster</title>
+    <p>tbd</p>
+  </section>
+  <section xml:id="propulsion-system-stern-thruster">
+    <title>Stern Thruster</title>
+    <figure xml:id="stern-thruster-image">
+      <caption>TSPS Stern Thruster Tunnel</caption>
+      <image source="stern-thruster-IMG_4577.png" width="80%"/>
+    </figure>
+  </section>
+</chapter>

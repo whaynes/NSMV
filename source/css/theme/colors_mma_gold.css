@@ -1,0 +1,85 @@
+/*
+ There are five main choices that define a color scheme in the
+ HTML output of PreTeXt:
+ 1) A dark color for the title on each page
+ 2) A dark color for highlighted words in the body
+ 3) A dark color for other highlighted words in the body
+
+ In the CSS those are called 'documenttitle', 'bodytitle',
+ and 'bodysubtitle'.
+
+ The other two choices appear in the ToC.
+
+ Either:
+ 3) A dark color for each chapter background
+ 4) A dark color for the current section background
+ (Often the ToC section background equals documenttitle.
+
+ Or:
+ 3') A light color for each chapter background
+ 4') A light color for the current section background
+
+ In the CSS those are called 'chaptertoc' and 'sectiontoc',
+ respectively.
+
+ With 3) and 4) you need white letters to go on the dark
+ background, and with 3') and 4') you need dark letters
+ on the light background.  Set the color of those letters
+ with 'chaptertoctext'.
+
+ In addition to the above four choices, you need to 
+ choose a contrasting shade of each color, to be used
+ for highlighting, borders, etc.
+
+ In the future you will be able to choose colors for assemblages
+ and for knowl output
+*/
+
+:root {
+  --navy: #072040;
+  --gold: #CFB888;
+  --harborblue: #78A1BB;
+  --gray: #BCBEC0;
+  --shipgray: #E2E2E2;
+  
+  --documenttitle: var(--navy);
+  --bodytitle: var(--harborblue);
+  --bodysubtitle: var(--navy);
+  --bodytitlehighlight: var(--shipgray);  /* light, and contrasting to bodytitle  */
+  --bodysubtitlehighlight: var(--shipgray);  /* light, and contrasting to bodysubtitle  */
+     /*
+       The bodytitle and bodysubtitle colors must have at least a 3:1 contrast
+       ratio with black, and at least 5:1 ratio with with the corresponding highlight.
+       (The second condition will guarantee an adequate contrast with white.)
+     */
+  --parttoc: var(--gold);  /* background */
+  --chaptertoc: var(--gold);
+  --sectiontoc: var(--shipgray);  
+  
+  --parttocactive: var(--navy);
+  --chaptertocactive: var(--navy);   
+  --sectiontocactive: var(--gray);   
+  
+ 
+  --chaptertoctext: var(--navy);
+  --sectiontoctext: var(--navy);
+   
+  --chaptertoctextactive: var(--gold);
+  --sectiontoctextactive: var(--navy);
+  
+  
+  --tocborder: var(--gray);
+
+  --highlighttoc: var(--gray);   /* same highlight for chapter/section */
+  --highlighttoctext: var(--navy);
+  
+  --highlighttocborder: var(--navy);
+
+  --videoplay: var(--bodytitle);
+  --assemblageborder: var(--gold);
+  --assemblagebackground: var(--shipgray);
+
+  --knowlborder: var(--bodytitlehighlight);
+  --knowlbackground: var(--assemblagebackground);
+}
+

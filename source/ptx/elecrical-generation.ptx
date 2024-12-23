@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="elecrical-generation" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Electrical Systems</title>
+  <section xml:id="elecrical-generation-main-generators">
+    <title>Main Generators</title>
+    <p>tbd</p>
+  </section>
+  <section xml:id="elecrical-generation-electrical-distribution">
+    <title>Electrical Distribution</title>
+    <subsection xml:id="elecrical-generation-main-electrical-network">
+      <title>Main Electrical Network</title>
+      <p>tbd</p>
+    </subsection>
+    <subsection xml:id="elecrical-generation-main-switchboards-and-distribution">
+      <title>Main Switchboards and Distribution</title>
+      <subsubsection xml:id="elecrical-generation-engine-room-distribution">
+        <title>Engine Room Distribution</title>
+        <p>tbd</p>
+      </subsubsection>
+      <subsubsection xml:id="elecrical-generation-emergency-distribution">
+        <title>Emergency Distribution</title>
+        <p>tbd</p>
+      </subsubsection>
+      <subsubsection xml:id="elecrical-generation-electrical-switchboard-rooms-and-substations">
+        <title>Electrical Switchboard Rooms and Substations</title>
+        <p>tbd</p>
+      </subsubsection>
+    </subsection>
+    <subsection xml:id="elecrical-generation-electrical-safety">
+      <title>Electrical Safety</title>
+      <subsubsection xml:id="elecrical-generation-basic-safety-rule">
+        <title>Basic Safety Rule</title>
+        <p>tbd</p>
+      </subsubsection>
+      <subsubsection xml:id="elecrical-generation-high-voltage-safety">
+        <title>High Voltage Safety</title>
+        <p>tbd</p>
+      </subsubsection>
+      <subsubsection xml:id="elecrical-generation-permit-to-work-system">
+        <title>Permit to Work System</title>
+        <p>tbd</p>
+      </subsubsection>
+    </subsection>
+    <subsection xml:id="elecrical-generation-ground-fault-detection">
+      <title>Ground Fault Detection</title>
+      <p>tbd</p>
+    </subsection>
+  </section>
+  <section xml:id="elecrical-generation-power-management-systerm">
+    <title>Power Management Systerm</title>
+    <subsection xml:id="elecrical-generation-main-switchboards-control-and-operation">
+      <title>Main Switchboards Control and Operation</title>
+      <p>tbd</p>
+    </subsection>
+  </section>
+  <section xml:id="elecrical-generation-emergency-power">
+    <title>Emergency Power</title>
+    <subsection xml:id="elecrical-generation-emergency-diesel">
+      <title>Emergency Diesel</title>
+      <subsubsection xml:id="elecrical-generation-diesel-generator-engine-operation">
+        <title>Diesel Generator Engine Operation</title>
+        <p>tbd</p>
+      </subsubsection>
+    </subsection>
+    <subsection xml:id="elecrical-generation-emergency-generator">
+      <title>Emergency Generator</title>
+      <p>tbd</p>
+    </subsection>
+    <subsection xml:id="elecrical-generation-emergency-switchboard">
+      <title>Emergency Switchboard</title>
+      <p>tbd</p>
+    </subsection>
+    <subsection xml:id="elecrical-generation-battery-and-ups-power-supplies">
+      <title>Battery and UPS Power Supplies</title>
+      <p>tbd</p>
+    </subsection>
+  </section>
+  <section xml:id="elecrical-generation-motor-control">
+    <title>Motor Control</title>
+    <p>tbd</p>
+  </section>
+  <section xml:id="elecrical-generation-propulsion-converters">
+    <title>Propulsion Converters</title>
+    <subsection xml:id="elecrical-generation-frequency-converter">
+      <title>Frequency Converter</title>
+      <p>tbd</p>
+    </subsection>
+    <subsection xml:id="elecrical-generation-propulsion-transformers">
+      <title>Propulsion Transformers</title>
+      <p>tbd</p>
+    </subsection>
+    <subsection xml:id="elecrical-generation-propulsion-control-system">
+      <title>Propulsion Control System</title>
+      <subsubsection xml:id="elecrical-generation-propulsion-control">
+        <title>Propulsion Control</title>
+        <p>tbd</p>
+      </subsubsection>
+      <subsubsection xml:id="elecrical-generation-propulsion-limitation-system">
+        <title>Propulsion Limitation System</title>
+        <p>tbd</p>
+      </subsubsection>
+    </subsection>
+  </section>
+</chapter>

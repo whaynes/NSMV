@@ -4,10 +4,8 @@
 <xi:include href="docinfo.ptx"/>
 <book >
 <title>Engineering Training Manual</title>
+<subtitle>Training Ship <em>Patriot State</em></subtitle>
 <frontmatter xml:id="frontmatter">
-    <titlepage>
-    <titlepage-items/>
-    </titlepage>
 <bibinfo>
         <author>
           <personname>Massachusetts Maritime Academy</personname>
@@ -18,6 +16,9 @@
           <today/>
         </date> 
 </bibinfo>
+    <titlepage>
+    <titlepage-items/>
+    </titlepage>
  </frontmatter>
 
 <chapter xml:id="TSPS"> 
@@ -27,7 +28,7 @@
 
 <figure xml:id="nsmv_in_yard">
 <caption>TS Patriot State under Construction, May 2023</caption>
-<image source="images/TSPS_under_construction.png">
+<image source="TSPS_under_construction.png">
 <remix><source>Roger Gill own work</source></remix>
 </image>
 </figure>
@@ -38,7 +39,7 @@
 
 <section xml:id=""><title>Principle Dimensions</title>
 
-
+<p></p>
 <table xml:id="principle_dimensions">
     <title>Principle Dimensions</title>
     <tabular>
@@ -140,110 +141,118 @@
 
 <figure xml:id="fig_waterline_profile" landscape="yes">
 <caption> <em>Patriot State</em>  Waterline Profile  </caption>
-<image width="100%" source="images/waterline_profile">
+<image width="100%" source="waterline_profile">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_outboard_profile" landscape="yes">
 <caption> <em>Patriot State</em>  Outboard Profile  </caption>
-<image width="100%" source="images/outboard_profile">
+<image width="100%" source="outboard_profile">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_inboard_port" landscape="yes">
 <caption> <em>Patriot State</em>  Inboard Profile Port  </caption>
-<image width="100%" source="images/inboard_port">
+<image width="100%" source="inboard_port">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_inboard_stbd" landscape="yes">
 <caption> <em>Patriot State</em>  Inboard Profile Starboard  </caption>
-<image width="100%" source="images/inboard_stbd">
+<image width="100%" source="inboard_stbd">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_05_level" landscape="yes">
 <caption> <em>Patriot State</em>  05 Level  </caption>
-<image width="100%" source="images/05_level">
+<image width="100%" source="05_level">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_04_level" landscape="yes">
 <caption> <em>Patriot State</em>  04 Level  </caption>
-<image width="100%" source="images/04_level">
+<image width="100%" source="04_level">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_03_level" landscape="yes">
-<caption> <em>Patriot State</em>  O3 Level  </caption>
-<image width="100%" source="images/03_level">
+<caption> <em>Patriot State</em>  03 Level  </caption>
+<image width="100%" source="03_level">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_02_level" landscape="yes">
 <caption> <em>Patriot State</em>  02 Level  </caption>
-<image width="100%" source="images/02_level">
+<image width="100%" source="02_level">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_01_level" landscape="yes">
 <caption> <em>Patriot State</em>  01 Level  </caption>
-<image width="100%" source="images/01_level">
+<image width="100%" source="01_level">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_main_deck" landscape="yes">
 <caption> <em>Patriot State</em>  Main Deck  </caption>
-<image width="100%" source="images/main_deck">
+<image width="100%" source="main_deck">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_2nd_deck" landscape="yes">
 <caption> <em>Patriot State</em>  2nd Deck  </caption>
-<image width="100%" source="images/2nd_deck">
+<image width="100%" source="2nd_deck">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_3rd_deck" landscape="yes">
 <caption> <em>Patriot State</em>  3rd Deck  </caption>
-<image width="100%" source="images/3rd_deck">
+<image width="100%" source="3rd_deck">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_4th_deck" landscape="yes">
 <caption> <em>Patriot State</em>  4th Deck  </caption>
-<image width="100%" source="images/4th_deck">
+<image width="100%" source="4th_deck">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_tank_top" landscape="yes">
 <caption> <em>Patriot State</em>  Tank Tops  </caption>
-<image width="100%" source="images/tank_top">
+<image width="100%" source="tank_top">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 <figure xml:id="fig_inner_bottom" landscape="yes">
 <caption> <em>Patriot State</em>  Inner Bottom  </caption>
-<image width="100%" source="images/inner_bottom">
+<image width="100%" source="inner_bottom">
 <remix><source>MARAD</source></remix>
 </image>
 </figure>
 
 </section>
+
+<section xml:id=""><title>Machinery Spaces</title>
+
+<figure xml:id="main_engine_generator" landscape="yes">
+<caption>ER 1: Main Engine and Generator</caption>
+<image source="images/main_engines_er1.jpeg">
+</image>
+</figure></section>
 
 <section xml:id=""><title>Ship's History</title>
 
@@ -252,19 +261,11 @@
 </chapter>
 
 
-<chapter xml:id="main-propulsion"> 
-<title>Main Propulsion System</title>
+<chapter xml:id="main-engines"> 
+<title>Main Engines</title>
 <section xml:id=""><title>Main Engines</title>
-
 <p>Turbocharged, 4-stroke, single acting, trunk piston, non-reversible, direct fuel injection</p>
 
-<figure xml:id="main_engine_generator" landscape="yes">
-<caption>Main Engine and Generator  
- </caption>
-<image source="images/main_engines_er1.jpeg">
-<remix><source>own work weh</source></remix>
-</image>
-</figure>
  
 <table xml:id="main_engine_info">
     <title>  </title>
@@ -305,6 +306,395 @@
     </tabular>
 </table>
 </section>
+
+<section xml:id=""><title>Main Engine Console</title>
+<subsection xml:id="" ><title>Control, Alarm and Monitoring System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Screen Displays and Operation</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Extension Alarm System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Engineer Safety System</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Main Engine Operation</title>
+
+<p>tbd</p></section>
+</chapter>
+
+
+<chapter xml:id="elecrical-generation"> 
+<title>Electrical Systems</title>
+<section xml:id=""><title>Main Generators</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Electrical Distribution</title>
+<subsection xml:id="" ><title>Main Electrical Network</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Main Switchboards and Distribution</title>
+<subsubsection  xml:id="" ><title>Engine Room Distribution</title>
+
+<p>tbd</p></subsubsection>
+
+<subsubsection  xml:id="" ><title>Emergency Distribution</title>
+
+<p>tbd</p></subsubsection>
+
+<subsubsection  xml:id="" ><title>Electrical Switchboard Rooms and Substations</title>
+
+<p>tbd</p></subsubsection>
+</subsection>
+
+<subsection xml:id="" ><title>Electrical Safety</title>
+<subsubsection  xml:id="" ><title>Basic Safety Rule</title>
+
+<p>tbd</p></subsubsection>
+
+<subsubsection  xml:id="" ><title>High Voltage Safety</title>
+
+<p>tbd</p></subsubsection>
+
+<subsubsection  xml:id="" ><title>Permit to Work System</title>
+
+<p>tbd</p></subsubsection>
+</subsection>
+
+<subsection xml:id="" ><title>Ground Fault Detection</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Power Management Systerm</title>
+<subsection xml:id="" ><title>Main Switchboards Control and Operation</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Emergency Power</title>
+<subsection xml:id="" ><title>Emergency Diesel</title>
+<subsubsection  xml:id="" ><title>Diesel Generator Engine Operation</title>
+
+<p>tbd</p></subsubsection>
+</subsection>
+
+<subsection xml:id="" ><title>Emergency Generator</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Emergency Switchboard</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Battery and UPS Power Supplies</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Motor Control</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Propulsion Converters</title>
+<subsection xml:id="" ><title>Frequency Converter</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Propulsion Transformers</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Propulsion Control System</title>
+<subsubsection  xml:id="" ><title>Propulsion Control</title>
+
+<p>tbd</p></subsubsection>
+
+<subsubsection  xml:id="" ><title>Propulsion Limitation System</title>
+
+<p>tbd</p></subsubsection>
+</subsection>
+</section>
+</chapter>
+
+
+<chapter xml:id="propulsion-system"> 
+<title>Propulsion Machinery</title>
+<section xml:id=""><title>Propulsion Motors</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Drive Shaft</title>
+<subsection xml:id="" ><title>Bearings</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Thrust Bearings</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Stern Tube</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Propeller</title>
+
+<figure xml:id="prop-rudder-image">
+<caption>TSPS Propeller and Rudder under construction</caption>
+<image source="prop-rudder-IMG_4575.png" width="80%" />
+</figure></subsection>
+</section>
+
+<section xml:id=""><title>Steering Gear</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Bow Thruster</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Stern Thruster</title>
+
+
+<figure xml:id="stern-thruster-image">
+<caption>TSPS Stern Thruster Tunnel</caption>
+<image source="stern-thruster-IMG_4577.png" width="80%" />
+</figure></section>
+</chapter>
+
+
+<chapter xml:id="auxiliary-systems"> 
+<title>Auxiliary Systems</title>
+<section xml:id=""><title>Fuel Oil Systems</title>
+<subsection xml:id="" ><title>Diesel Generator Fuel Oil System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Emergency Diesel Generator Fuel Oil System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Marine Gas Oil Separator System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Fuel Oil and Lubricating Oil Transfer and Bunkering Systems</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Tank Vents And Overflow System</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Sea Water Cooling System</title>
+<subsection xml:id="" ><title>Engine Rooms 1+2 Sea Water Cooling System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Motor Room 2 Sea Water Cooling System</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Lubricating Oil Systems</title>
+<subsection xml:id="" ><title>Diesel Generator Engine Lubricating Oil System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Propulsion Motor/Shaft Lubricating Oil Systems</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Lubricating Oil And Fuel Oil Drain Syste</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Sludge System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Lubricating Oil Filling and Transfer System</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Compressed Air Systems</title>
+<subsection xml:id="" ><title>Starting Air System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Control Air System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Service Air System</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Fresh Water Cooling Systems</title>
+<subsection xml:id="" ><title>Generator Engines 1+2+3+4 HT Fresh Water Cooling</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Auxiliary Machinery Rooms 1+2 and Bow Thruster Room</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Fresh Water Cooling System</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Bilge System</title>
+<subsection xml:id="" ><title>Engine Room Bilge System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Oily Water Treatment System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Hydraulic Valve Remote Control System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Oily Water Separator</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Oil Record Book</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Potable Water Systems</title>
+<subsection xml:id="" ><title>Fresh Water Generator Plant</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Reverse Osmosis Plant</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Distilled/Technical Water System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Water Treatment System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Hot Potable Water System in Machinery Spaces</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Cold Potable Water System in Machinery Spaces</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Bilge Systems</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Heating, Ventilation and AC</title>
+<subsection xml:id="" ><title>Air Conditioning Plant Refrigeration and Ventilation Systems</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Air Conditioning Plant</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Accommodation Air Conditioning Services</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Machinery Space Ventilation</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Fan Rooms</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Sewage Systems</title>
+<subsection xml:id="" ><title>Gray Water System</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Black Water Vacuum Units</title>
+
+<p>tbd</p></subsection>
+
+<subsection xml:id="" ><title>Sewage - Black Water Treatment Units</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Refrigeration Systems</title>
+<subsection xml:id="" ><title>Provisions Refrigeration System</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Marine Growth Prevention System</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Cathodic Protection System</title>
+
+<p>tbd</p></section>
+</chapter>
+
+
+<chapter xml:id="fire-and-emergency-equipment"> 
+<title>Fire and Emergency Equipment</title>
+<section xml:id=""><title>Fire Pumps</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Fire Main</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Quick-Closing Valves, Fire Damper System and Emergency Stops</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>HiFog</title>
+<subsection xml:id="" ><title>Sprinklers Heads</title>
+
+<p>tbd</p></subsection>
+</section>
+
+<section xml:id=""><title>Inergen</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Escape Routes</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Fire Extinguishers</title>
+
+<p>tbd</p></section>
+
+<section xml:id=""><title>Emergency Escape Breathing Apparatus</title>
+
+<p>tbd</p></section>
 </chapter>
 
 
@@ -357,140 +747,103 @@
 </section>
 
 <section xml:id=""><title>Standing the watch</title>
-
+<introduction>
 <p>When you are the Engineering Officer of the Watch (EOW) you are in charge of the engine room and responsible for the proper operation of all machinery and the safety of all personnel in the engine room.  These are your primary duties, as STCW clearly states:</p>
 <blockquote>
 <p>Officers in charge of an engineering watch shall not be assigned or undertake any duties which would interfere with their supervisory duties in respect of the main propulsion system and ancillary equipment.  They shall keep the main propulsion plant and auxiliary systems under constant supervision until properly relieved, and shall periodically inspect the machinery in their charge.  They shall also ensure that adequate rounds of the machinery and steering-gear spacers are made for the purpose of observing and reporting equipment malfunctions or breakdowns, performing or direction routine adjustments, required upkeep and any other necessary tasks. </p>
-<p><attribution><pubtitle>STCW Code Section A-VIII/2 part 3-2 ¶ 69</pubtitle></attribution></p>
+<attribution><pubtitle>STCW Code Section A-VIII/2 part 3-2 ¶ 69</pubtitle></attribution>
 </blockquote>
 <p>As long as you are on watch, you are in charge and responsible.  Your responsibility only ends when you are properly relieved.  Even if the chief engineer is in the engineroom, you remain responsible for the watch unless he specifically informs you that he has taken charge.  </p>
-<p>The authority of the Cadet Engineer of the watch aboard the <em>Patriot State</em> is more limited than that of the watch engineer, so as a cadet you should get permission of the watch officer before carrying out any operations described below.</p>
-While on watch, operations should always be conducted according to ship's policy, standing orders, U.S. and international regulations, and orders from your superior officers.  When the plant is in maneuvering status, the throttles must be continuously manned, and all equipment used for maneuvering must be ready for immediate use. You must carry out any bridge orders promptly.  
+<p>The authority of the Cadet Engineer of the watch aboard the <em>Patriot State</em> is more limited than that of the watch engineer, so as a cadet you should get permission of the watch officer before carrying out any operations described below.</p></introduction>
 
-The plant status, operational requirements, personnel, and material condition of the machinery are constantly changing so you must keep yourself advised of the status of everything in the engine room by making regular rounds of the machinery space.  In particular, you should look for any equipment that is out of service, expected to malfunction, or that requires special attention which may affect engineroom operations.
+<subsection xml:id="" ><title>Routine operations</title>
 
-You should operate all machinery according to standard procedure and the manufacturer's instructions and make routine adjustments as necessary to keep the plant running smoothly.  Some examples of routine operations include:
+<p>While on watch, operations should always be conducted according to ship's policy, standing orders, U.S. and international regulations, and orders from your superior officers.  When the plant is in maneuvering status, the throttles must be continuously manned, and all equipment used for maneuvering must be ready for immediate use. You must carry out any bridge orders promptly.  </p>
+<p>The plant status, operational requirements, personnel, and material condition of the machinery are constantly changing so you must keep yourself advised of the status of everything in the engine room by making regular rounds of the machinery space.  In particular, you should look for any equipment that is out of service, expected to malfunction, or that requires special attention which may affect engineroom operations.</p>
+<p>You should operate all machinery according to standard procedure and the manufacturer's instructions and make routine adjustments as necessary to keep the plant running smoothly.  Some examples of routine operations include:<ul>
+<li>responding to alarms,</li>
+<li>taking on make up feed,</li>
+<li>changing over tank suctions and discharge,</li>
+<li>shifting and cleaning strainers, and</li>
+<li>changing over to stand-by equipment.</li>
+</ul></p>
+<p>However, you must obtain permission from the bridge before conducting out any operations that have effects outside the engineroom.  Examples include: <ul>
+<li>blowing tubes,</li>
+<li>starting the main engine jacking gear, </li>
+<li>spinning the engine with steam, and </li>
+<li>pumping bilges.</li>
+</ul></p>
+<p>Significant changes in the alignment of the main or auxiliary plants should only be made under the cognizance of the chief engineer, for example: <ul>
+<li>lighting off the boiler,</li>
+<li>warming up the main engines,</li>
+<li>securing after "finished with engines," and</li>
+<li>changing over generators.</li>
+</ul></p></subsection>
 
-*	responding to alarms,
-*	taking on make up feed,
-*	changing over tank suctions and discharge,
-*	shifting and cleaning strainers, and
-*	changing over to stand-by equipment.
+<subsection xml:id="" ><title>Orders</title>
+<p>You are expected to carry out routine operations without being specifically told to what to do, but direction can be found in the standing orders, and in the night orders. Standing orders and night orders may be formal written instructions, requiring the watch officer to read and sign, or they may be less formal, simply written on the engine room status board.  On some ships, instructions are verbally passed from watch to watch.</p>
+<p>Standing orders are the generalized and permanent orders written by the chief engineer that describe ship's policy, standard operating procedures, and the normal daily routine of the plant. The chief may establish the frequency for switching over machinery to equalize wear, or assign a daily task to a particular watch, such as having the 4-8 watch change over the TG lube oil strainers.</p>
+<p>Night orders are daily, specific instructions issued by the chief or first engineer, detailing machinery to be secured or started, tanks to be filled or drained, maintenance to be carried out, etc.  Orders to prepare the plant to get underway would be found in the night orders.</p></subsection>
 
-However, you must obtain permission from the bridge before conducting out any operations that have effects outside the engineroom.  Examples include:
+<subsection xml:id="" ><title>Logbooks</title>
 
-*	blowing tubes,
-*	starting the main engine jacking gear, 
-*	spinning the engine with steam, and 
-*	pumping bilges.
+<p>The Engineering Officer of the Watch is responsible for maintaining several logbooks. Every ship will have an  <pubtitle>Engineroom Logbook</pubtitle>, an <pubtitle>Oil Record Book</pubtitle> (ORB), and if not automatically logged, a <pubtitle>Bell Book</pubtitle>.  In addition, the <em>TS Patriot State</em> also maintains a <pubtitle>Maintenance Log</pubtitle>.</p>
+<p>The Engineering Log, ORB, and Bell Book are vital, legal documents and should be handled accordingly.  They serve to document the operations carried out aboard ship, and should answer the questions: who? what? where? when? and why? Logbooks will be used by the Coast Guard in any accident, casualty, or spill investigation.  A properly filled out logbook may be able to exonerate you, while a fraudulent one might convict you.</p>
+<p>When filling out logbooks, entries are to be printed legibly, using a black pen, and no erasures are permitted.  If a mistake is made, a single line should be drawn through the error and the correction entered and initialed. Entries must be maintained contemporaneously with the events they describe.  Wash your hands before filling out the logbook, and keep the logbook clean.  Sign the logbook at the end of the watch.</p>
+<p>The Engineering Log is a complete daily record of important events and data pertaining to the operation of the plant.  The log includes operational details such as:<ul>
+<li>the average watch speed in rpm,</li>
+<li>the total engine miles steamed,</li>
+<li>fuel, water and lube oil on hand  <mdash/>  received, expended,</li>
+<li>the status of the engine, boilers and principal auxiliaries, and</li>
+<li>important temperatures, pressures, etc.</li>
+</ul></p>
+<p>The watch rpms are computed to the even hour at the end of the watch. Fuel oil meter and shaft counter readings should be recorded at arrival, departure, stand-by, FWE, and at the end of the watch. Entries are normally maintained only for machinery and systems that are on line.  The entry for machinery and systems that are off line is a dashed line. </p>
+<p>The remarks section of the log book is used to record non-routine events, such as:<ul>
+<li>accidents resulting in personnel injury or death,</li>
+<li>emergency drills, including all equipment tested during the drill,</li>
+<li>equipment tests such as the emergency diesel, steering gear, throttles, etc.,</li>
+<li>bunkering, including amount and FO characteristics,</li>
+<li>non-routine starting and stopping of equipment, changes in plant status, and</li>
+<li>machinery or systems casualties or damage.</li>
+</ul></p>
+<pre>
+0900  Examined and tested primary and secondary steering gear, whistle, internal communications equipment, telegraph, and shaft alley watertight doors.
+1435  Tested emergency generator. Observed steady state temperatures and pressure readings.
+0730  Tested main propulsion machinery ahead and astern.  All found in good order.
+</pre>
+<paragraphs><title>Bell book</title>
 
-Significant changes in the alignment of the main or auxiliary plants should only be made under the cognizance of the chief engineer, for example: 
+<p>The Bell Book is a chronological record of orders pertaining to the speed of the main engine.  It shows the time that each order directing a propeller speed is received and the meaning of such order. Most ships today are equipped with automatic bell logging equipment </p>
 
-*	lighting off the boiler,
-*	warming up the main engines,
-*	securing after "finished with engines," and
-*	changing over generators.
-<paragraphs><title>Orders</title>
+</paragraphs>
 
-You are expected to carry out routine operations without being specifically told to what to do, but direction can be found in the *standing orders*, and in the *night orders.* Standing orders and night orders may be formal written instructions, requiring the watch officer to read and sign, or they may be less formal, simply written on the engine room status board.  On some ships, instructions are verbally passed from watch to watch.
-Standing orders are the generalized and permanent orders written by the chief engineer that describe ship's policy, standard operating procedures, and the normal daily routine of the plant. The chief may establish the frequency for switching over machinery to equalize wear, or assign a daily task to a particular watch, such as having the 4-8 watch change over the TG lube oil strainers.
-Night orders are daily, specific instructions issued by the chief or first engineer, detailing machinery to be secured or started, tanks to be filled or drained, maintenance to be carried out, etc.  Orders to prepare the plant to get underway would be found in the night orders.</paragraphs>
+<paragraphs><title>Oil record book</title>
 
-<paragraphs><title>Logbooks</title>
+<p>Cargo and passenger ships are required maintain an <pubtitle>Oil Record Book Part I (Machinery Space Operations)</pubtitle> by Federal [33CFR151.25][#CFR] and MARPOL 73/78 regulations. The Oil Record Book contains a record of all movements of oil or oily water that occurs aboard the vessel.  Tankers are subject to different, more extensive rules, and must maintain Part I and also Part II (Cargo/Ballast Operations).</p>
+<p>Oil Record Book are available from the Coast Guard Marine Safety Office or Marine Inspection Office. The latest version of the ORB is Revision 11-16.  You should always use an up-to-date ORB, because older versions do not reflect the current laws.  Even though the ORB is used aboard the ship, it technically remains the property of the U.S. Government.</p>
+<p>You must make an entry in the Oil Record Book whenever any of the following machinery space operations take place:  <ul>
+<li>ballasting or cleaning of fuel oil tanks,</li>
+<li>discharge of dirty ballast or cleaning water from fuel oil tanks,</li>
+<li>disposal of oily residues (sludge),</li>
+<li>discharge overboard or disposal otherwise of bilge water that has accumulated in machinery spaces, or</li>
+<li>emergency, accidental or other exceptional discharge of oil or oily mixture.</li>
+</ul></p>
+<p>The law establishes several requirements for maintaining an Oil Record Book. ORB entries must be fully recorded without delay after each operation. Each completed operation must be signed by the person in charge of the operation, and each completed page signed by the master. The ORB must be kept aboard for a period of at least three years, and readily available for inspection at all times.   Legally the ORB is the responsibility of the Master of the vessel, but the day-to-day entries will be made by the engineering watch officer. </p>
+<p>Maintenance of the Oil Record Book is serious.  Here is a press release from the US Environmental Protection Agency.</p>
+<blockquote>
+<p>(10/13/05) A.P. Moller-Maersk, A/S, of Denmark, pleaded guilty and was sentenced to pay a half million dollar fine on Sept. 26 by the U.S. District Court for the Northern District of California. Moller-Maersk, which operates a fleet of more than 200 vessels worldwide, was also ordered to develop and implement a fleet-wide environmental compliance program. The investigation began on May 25, 2004, when members of the Coast Guard Marine Safety Office discovered waste oil in the overboard piping of the Motor Vessel Jane Maersk during a routine inspection. Further investigation by the Coast Guard and EPA's Criminal Investigation Division also uncovered evidence of false entries in the ship's Oil Record Book. The false entries in the book concerned the operation of the ship's incinerator which, in part, is used to burn waste oil sludge. In a related court action, Johnnie Nielsen of Copenhagen, Denmark, who is the ship's second engineer was sentenced to four months' community confinement for his role in concealing and destroying key documents in anticipation of the Coast Guard inspection of the Jane Maersk. Nielsen further admitted that he had observed engineers on other Moller-Maersk vessels hiding the same key documents prior to pending inspections. Failing to properly maintain an Oil Record Book is a violation of the MARPOL Treaty, which is designed to prevent pollution from vessels that can, among other things, represent a threat to fish and other aquatic life. The case was investigated by the U.S. Coast Guard Investigative Service and the San Francisco Office of EPA's Criminal Investigation Division with assistance from the Coast Guard Pacific Judge Advocate General's Office. It was prosecuted by the U.S. attorney's office in San Francisco. </p>
+</blockquote>
+</paragraphs>
+</subsection>
 
-The Engineering Officer of the Watch is responsible for maintaining several logbooks. Every ship will have an  *Engineroom Logbook*, an *Oil Record Book* (ORB), and if not automatically logged, a *Bell Book*.  In addition, the *Kennedy* also maintains a *Maintenance Log*.
+<subsection xml:id="" ><title>Casualties</title>
 
-The Engineering Log, ORB, and Bell Book are vital, legal documents and should be handled accordingly.  They serve to document the operations carried out aboard ship, and should answer the questions: who? what? where? when? and why? Logbooks will be used by the Coast Guard in any accident, casualty, or spill investigation.  A properly filled out logbook may be able to exonerate you, while a fraudulent one might convict you.
-
-When filling out logbooks, entries are to be printed legibly, using a black pen, and no erasures are permitted.  If a mistake is made, a single line should be drawn through the error and the correction entered and initialed. Entries must be maintained contemporaneously with the events they describe.  Wash your hands before filling out the logbook, and keep the logbook clean.  Sign the logbook at the end of the watch.
-<paragraphs><title>Engineroom Logbook</title>
-
-The Engineering Log is a complete daily record of important events and data pertaining to the operation of the plant.  The log includes operational details such as:
-
--	the average watch speed in rpm,
--	the total engine miles steamed,
--	fuel, water and lube oil on hand -- received, expended,
--	the status of the engine, boilers and principal auxiliaries, and
--	important temperatures, pressures, etc.
-
-The watch rpms are computed to the even hour at the end of the watch. Fuel oil meter and shaft counter readings should be recorded at arrival, departure, stand-by, FWE, and at the end of the watch. Entries are normally maintained only for machinery and systems that are on line.  The entry for machinery and systems that are off line is a dashed line. 
-
-The remarks section of the log book is used to record non-routine events, such as:
-
-*	accidents resulting in personnel injury or death,
-*	emergency drills, including all equipment tested during the drill,
-*	equipment tests such as the emergency diesel, steering gear, throttles, etc.,
-*	bunkering, including amount and FO characteristics,
-*	non-routine starting and stopping of equipment, changes in plant status, and
-*	machinery or systems casualties or damage.
->**0900**	Examined and tested primary and secondary steering gear, whistle, internal communications equipment, telegraph, and shaft alley watertight doors.
-
-> `\noindent`{=latex} **1435**	Tested emergency generator. Observed steady state temperatures and pressure readings.
-
-> `\noindent`{=latex} **0730**	Tested main propulsion machinery ahead and astern.  All found in good order.</paragraphs>
-
-The Bell Book is a chronological record of orders pertaining to the speed of the main engine.  It shows the time that each order directing a propeller speed is received and the meaning of such order. Most ships today are equipped with automatic bell logging equipment 
-
-The following information should be recorded in the bell book at stand-by for getting underway, departure, stand-by for entering port and finished with engines:
-
--	Time 
--	Signal received 
--	FO meter reading 
--	Main engine shaft counter reading
-
-The following symbols are used when recording engine order telegraph orders:
-
-| EOT Command    |   Symbol  |  
-| :------------- | :-------: |  
-Dead slow ahead  |  ![][dsa] |  
-Slow ahead       |  ![][sa]  |  
-Half ahead       |  ![][ha]  |  
-Full ahead       |  ![][fa]  |  
-Stop             | ![][stop] |  
-Dead slow astern |  ![][ads] |  
-Slow astern      |  ![][as]  |  
-Half astern      |  ![][ah]  |  
-Full astern      |  ![][af]  |  
-Stand-by         |  ![][sb]  |  
-
-
-[dsa]: pics/bells/deadslowahead.png width=0.5in
-[sa]: pics/bells/slowahead.png width=0.5in
-[ha]: pics/bells/halfahead.png width=0.5in
-[fa]: pics/bells/fullahead.png width=0.5in
-[stop]: pics/bells/stop.png width=0.5in
-[ads]: pics/bells/deadslowastern.png width=0.5in
-[as]: pics/bells/slowastern.png width=0.5in
-[ah]: pics/bells/halfastern.png width=0.5in
-[af]: pics/bells/fullastern.png width=0.5in
-[sb]: pics/bells/standby.png width=0.5in
-Cargo and passenger ships are required maintain an *Oil Record Book Part I (Machinery Space Operations)* by Federal [33CFR151.25][#CFR] and MARPOL 73/78 regulations. The Oil Record Book contains a record of all movements of oil or oily water that occurs aboard the vessel.  Tankers are subject to different, more extensive rules, and must maintain Part I and also Part II (Cargo/Ballast Operations).
-
-Oil Record Book are available from the Coast Guard Marine Safety Office or Marine Inspection Office. The latest version of the ORB is Revision 11-16.  You should always use an up-to-date ORB, because older versions do not reflect the current laws.  Even though the ORB is used aboard the ship, it technically remains the property of the U.S. Government.
-
-You must make an entry in the Oil Record Book whenever any of the following machinery space operations take place:  
-
--	ballasting or cleaning of fuel oil tanks,
--	discharge of dirty ballast or cleaning water from fuel oil tanks,
--	disposal of oily residues (sludge),
--	discharge overboard or disposal otherwise of bilge water that has accumulated in machinery spaces, or
--	emergency, accidental or other exceptional discharge of oil or oily mixture.
-
-The law establishes several requirements for maintaining an Oil Record Book. ORB entries must be fully recorded without delay after each operation. Each completed operation must be signed by the person in charge of the operation, and each completed page signed by the master. The ORB must be kept aboard for a period of at least three years, and readily available for inspection at all times.   Legally the ORB is the responsibility of the Master of the vessel, but the day-to-day entries will be made by the engineering watch officer. 
-
-Maintenance of the Oil Record Book is serious.  Here is a recent press release from the US Environmental Protection Agency.
-
->(10/13/05) A.P. Moller-Maersk, A/S, of Denmark, pleaded guilty and was sentenced to pay a half million dollar fine on Sept. 26 by the U.S. District Court for the Northern District of California. Moller-Maersk, which operates a fleet of more than 200 vessels worldwide, was also ordered to develop and implement a fleet-wide environmental compliance program. The investigation began on May 25, 2004, when members of the Coast Guard Marine Safety Office discovered waste oil in the overboard piping of the Motor Vessel Jane Maersk during a routine inspection. Further investigation by the Coast Guard and EPA's Criminal Investigation Division also uncovered evidence of false entries in the ship's Oil Record Book. The false entries in the book concerned the operation of the ship's incinerator which, in part, is used to burn waste oil sludge. In a related court action, Johnnie Nielsen of Copenhagen, Denmark, who is the ship's second engineer was sentenced to four months' community confinement for his role in concealing and destroying key documents in anticipation of the Coast Guard inspection of the Jane Maersk. Nielsen further admitted that he had observed engineers on other Moller-Maersk vessels hiding the same key documents prior to pending inspections. Failing to properly maintain an Oil Record Book is a violation of the MARPOL Treaty, which is designed to prevent pollution from vessels that can, among other things, represent a threat to fish and other aquatic life. The case was investigated by the U.S. Coast Guard Investigative Service and the San Francisco Office of EPA's Criminal Investigation Division with assistance from the Coast Guard Pacific Judge Advocate General's Office. It was prosecuted by the U.S. attorney's office in San Francisco.[][#EPA]</paragraphs>
-
-The watch engineer should be prepared to respond to emergencies such as fire, flooding, loss of feed water pressure, loss of vacuum, major steam leak, etc.  You should rehearse in your mind the action to be taken in the event of casualties such as these. In addition, rehearse the action to be taken in the event of any sudden maneuvers requested from the bridge, i.e., astern bells or man overboard.
-
-If a casualty occurs, notify the chief Engineer and the bridge and take immediate action to correct the situation. Afterwards, make appropriate entries in the log book.  
-
-If you have any doubt as to the safe operation of any equipment or if you consider it necessary for the safety of the vessel, secure the doubtful item immediately and take all necessary precautions to safeguard the vessel, personnel, and machinery.
-
-If the situation is escalating or beyond your capabilities, call for help without hesitation before it's too late.
-
-Casualty control is discussed in detail in [][Casualty Control].</section>
+<p>The watch engineer should be prepared to respond to emergencies such as fire, flooding, loss of feed water pressure, loss of vacuum, major steam leak, etc.  You should rehearse in your mind the action to be taken in the event of casualties such as these. In addition, rehearse the action to be taken in the event of any sudden maneuvers requested from the bridge, i.e., astern bells or man overboard.</p>
+<p>If a casualty occurs, notify the chief Engineer and the bridge and take immediate action to correct the situation. Afterwards, make appropriate entries in the log book.  </p>
+<p>If you have any doubt as to the safe operation of any equipment or if you consider it necessary for the safety of the vessel, secure the doubtful item immediately and take all necessary precautions to safeguard the vessel, personnel, and machinery.</p>
+<p>If the situation is escalating or beyond your capabilities, call for help without hesitation before it's too late.</p>
+<p>Casualty control is discussed in detail in <xref ref="casualty-control"/>.</p></subsection>
+</section>
 
 <section xml:id=""><title>Handing over the watch</title>
 
@@ -521,6 +874,11 @@ Casualty control is discussed in detail in [][Casualty Control].</section>
 <p>It is important to understand that there are an infinite number of potential casualties, and that every casualty situation is unique. It is not possible to create a comprehensive step-by-step response to every possible casualty. Nevertheless, it is possible to state some general principles regarding casualty control, and to pre-plan for some common or critical potential casualties. Here are four principles to consider.</p>
 </paragraphs>
 
+<paragraphs><title></title>
+
+<p>It is important to understand that there are an infinite number of potential casualties, and that every casualty situation is unique. It is not possible to create a comprehensive step-by-step response to every possible casualty. Nevertheless, it is possible to state some general principles regarding casualty control, and to pre-plan for some common or critical potential casualties. Here are four principles to consider.</p>
+</paragraphs>
+
 <paragraphs><title>It's better to prevent casualties than to respond to them</title>
 
 <p>Most casualties can be prevented by attention to proper watchstanding and maintenance. Take care of the small things before they become big things. Always maintain proper lubrication and cooling.  Test lubricating oil periodically for water and other contaminants. Keep regulating valves and control systems properly adjusted. Determine the cause of, and repair leaks as soon as they're found. Perform maintenance at the intervals recommended by the manufacturer. Remember that if one machine fails, similar units may have similar problems, so after the failure of one, check the others. And finally, don't cause casualties -- know the correct way to operate the equipment and do it that way.</p>
@@ -529,6 +887,7 @@ Casualty control is discussed in detail in [][Casualty Control].</section>
 <paragraphs><title>Anticipate and prepare for casualties</title>
 
 <p>Surprisingly often, casualties can be predicted.  An alert engineer will notice slight changes in the operating temperatures and pressures over time, which can indicate failing pumps or fouled heat exchangers.  Failing bearings run hotter and noisier, and can easily be detected by touch or with vibration analysis.  Failing electrical insulation has a distinctive smell. Sometimes, the signs are not apparent; you just have a vague feeling that something is not right.  In any event, you should not ignore your hunches, but think through what they might mean and plan for them. You should continuously prepare for casualties before they occur by mentally reviewing potential situations, their consequences, and planning your responses.  </p>
+</paragraphs>
 
 <paragraphs><title>You can never have too much information</title>
 
@@ -536,7 +895,6 @@ Casualty control is discussed in detail in [][Casualty Control].</section>
 <p>You need to be thoroughly familiar with the normal operation of the plant. Without a knowledge of normal operating temperatures, pressures, noises, smells, vibrations, and familiarity with the way the system responds to changing loads, it is next to impossible for you to recognize the signs of impending trouble.  Most of this information can be obtained by good watchstanding -- making thorough rounds, remembering what you see, and reviewing the logbook for trends.  You can also refer to the ship's manuals and discuss normal operating conditions with the other engineers onboard.</p>
 <p>Finally, you should be completely comfortable with normal startup and shutdown procedures, because in many cases, the most appropriate response to a casualty is to quickly and safely start up a stand-by unit and secure the faulty one before things get worse.</p>
 <p>When a casualty occurs, you will need timely and accurate information.  The alarm and instruments on the console will probably be your first notification of a problem, so it is vitally important to keep them in good working order.  If a gage or thermometer gives any indication that is is faulty: sticking pointer, bogus readings, etc. it should be replaced, repaired, or re-calibrated without delay.  Console alarm points should be adjusted to minimize nuisance alarms.  Don't take anything for granted; always investigate every alarm on the board.  Don't become complacent and ignore alarms because "it was like that when I got here" or  "it always does that."</p>
-</paragraphs>
 </paragraphs>
 
 <paragraphs><title>Don't delay</title>
@@ -548,12 +906,12 @@ Casualty control is discussed in detail in [][Casualty Control].</section>
 <section xml:id=""><title>Phases of Casualty Control</title>
 <paragraphs><title></title>
 
-A plant that is functioning normally is pretty simple to operate <emdash/> as long as the engines have fuel and air the automation does the rest.  But when something goes wrong, the watch engineer needs to assess the situation quickly, and make an appropriate response without delay.  Keeping the lights on and the shaft turning is important, but  the safety of the crew and the vessel is primary.
-Although it may not seem like it when you are surrounded by alligators, casualty control can be broken into four phases.</paragraphs>
+<p>A plant that is functioning normally is pretty simple to operate <mdash/> as long as the engines have fuel and air the automation does the rest.  But when something goes wrong, the watch engineer needs to assess the situation quickly, and make an appropriate response without delay.  Keeping the lights on and the shaft turning is important, but  the safety of the crew and the vessel is primary.</p>
+<p>Although it may not seem like it when you are surrounded by alligators, casualty control can be broken into four phases.</p></paragraphs>
 
 <paragraphs><title>Notification</title>
 
-<p>Most of time you will learn of a casualty from an alarm on the main console: low lube oil pressure, high salinity, low water, etc. However, some critical parameters are not alarmed, so while you're on watch you must continuously monitor main console gages like drum pressure, feed pressure, and condenser vacuum.  Good monitoring may also give you advanced notice of problems before the alarm sounds. Finally, some problems will only be found by making good rounds -- leaks, for example.</p>
+<p>Most of time you will learn of a casualty from an alarm on the main console: low lube oil pressure, high salinity, low water, etc. However, some critical parameters are not alarmed, so while you're on watch you must continuously monitor main console gages like drum pressure, feed pressure, and condenser vacuum.  Good monitoring may also give you advanced notice of problems before the alarm sounds. Finally, some problems will only be found by making good rounds  <mdash/>  leaks, for example.</p>
 <p>It is important to correctly identify the root cause of the casualty.  The alarm you receive may only be a symptom of the true problem.</p>
 </paragraphs>
 
@@ -571,7 +929,7 @@ Although it may not seem like it when you are surrounded by alligators, casualty
 
 <paragraphs><title>Repair</title>
 
-<p>At the end of the recovery phase the plant will be stable, but may be in a vulnerable condition, with reduced capacity or redundancy. Therefore, any damaged equipment should be repaired as soon as possible, and the plant brought back to full operational status.   The chief will give the captain an estimate of how long it will take to make the plant fully operational, and do the paperwork -- fill out the logbook, casualty reports, and machinery histories. </p>
+<p>At the end of the recovery phase the plant will be stable, but may be in a vulnerable condition, with reduced capacity or redundancy. Therefore, any damaged equipment should be repaired as soon as possible, and the plant brought back to full operational status.   The chief will give the captain an estimate of how long it will take to make the plant fully operational, and do the paperwork  <mdash/>  fill out the logbook, casualty reports, and machinery histories. </p>
 </paragraphs>
 
 <paragraphs><title>Analysis</title>
@@ -580,14 +938,13 @@ Although it may not seem like it when you are surrounded by alligators, casualty
 </section>
 
 <section xml:id=""><title>Shipboard Casualties and Response </title>
-<introduction>
 <p>This section contains descriptions of a number of potential engineering casualties.  For each, the possible symptoms, causes and consequences of the casualty are discussed, followed by a recommended course of action.</p>
 
-<!--todo complete shipboard casualties section--></introduction>
-</section>
+<!--todo complete shipboard casualties section--></section>
 
 <section xml:id=""><title>Sea Stories</title>
 
+<p>tbd</p>
 <!--todo complete sea stories section--></section>
 </chapter>
 </book>

@@ -55,7 +55,7 @@ print(f"\tResource Directory: {resource_dir}")
 print(f"\tExternal Directory: {external_dir}")
 print()
 
-flatten(images, resource_dir, external_dir + '/images')
+flatten(images, resource_dir, external_dir +'/images/')
 copy_and_overwrite(resource_dir + '/images/_favicon', external_dir + '/favicon')
 copy_and_overwrite(resource_dir + '/css', external_dir + '/css')  #my custom css
 

@@ -6,7 +6,7 @@
     <p>The <em>Patriot State II</em>  is the second of five National Security Multi-mission Vessels (NSMV) S5-ME-155a class vessels built for the U.S. Department of Transportation’s Maritime Administration (MARAD).</p>
     <figure xml:id="nsmv_in_yard">
       <caption>TS Patriot State under Construction, May 2023</caption>
-      <image source="images/TSPS_under_construction.png">
+      <image source="TSPS_under_construction.png">
         <remix>
           <source>Roger Gill own work</source>
         </remix>
@@ -19,6 +19,7 @@
   </introduction>
   <section xml:id="TSPS-principle-dimensions">
     <title>Principle Dimensions</title>
+    <p/>
     <table xml:id="principle_dimensions">
       <title>Principle Dimensions</title>
       <tabular>
@@ -113,7 +114,7 @@
     <title>Deck Plans</title>
     <figure xml:id="fig_waterline_profile" landscape="yes">
       <caption><em>Patriot State</em>  Waterline Profile</caption>
-      <image source="images/waterline_profile" width="100%">
+      <image source="waterline_profile" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -121,7 +122,7 @@
     </figure>
     <figure xml:id="fig_outboard_profile" landscape="yes">
       <caption><em>Patriot State</em>  Outboard Profile</caption>
-      <image source="images/outboard_profile" width="100%">
+      <image source="outboard_profile" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -129,7 +130,7 @@
     </figure>
     <figure xml:id="fig_inboard_port" landscape="yes">
       <caption><em>Patriot State</em>  Inboard Profile Port</caption>
-      <image source="images/inboard_port" width="100%">
+      <image source="inboard_port" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -137,7 +138,7 @@
     </figure>
     <figure xml:id="fig_inboard_stbd" landscape="yes">
       <caption><em>Patriot State</em>  Inboard Profile Starboard</caption>
-      <image source="images/inboard_stbd" width="100%">
+      <image source="inboard_stbd" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -145,7 +146,7 @@
     </figure>
     <figure xml:id="fig_05_level" landscape="yes">
       <caption><em>Patriot State</em>  05 Level</caption>
-      <image source="images/05_level" width="100%">
+      <image source="05_level" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -153,15 +154,15 @@
     </figure>
     <figure xml:id="fig_04_level" landscape="yes">
       <caption><em>Patriot State</em>  04 Level</caption>
-      <image source="images/04_level" width="100%">
+      <image source="04_level" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
       </image>
     </figure>
     <figure xml:id="fig_03_level" landscape="yes">
-      <caption><em>Patriot State</em>  O3 Level</caption>
-      <image source="images/03_level" width="100%">
+      <caption><em>Patriot State</em>  03 Level</caption>
+      <image source="03_level" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -169,7 +170,7 @@
     </figure>
     <figure xml:id="fig_02_level" landscape="yes">
       <caption><em>Patriot State</em>  02 Level</caption>
-      <image source="images/02_level" width="100%">
+      <image source="02_level" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -177,7 +178,7 @@
     </figure>
     <figure xml:id="fig_01_level" landscape="yes">
       <caption><em>Patriot State</em>  01 Level</caption>
-      <image source="images/01_level" width="100%">
+      <image source="01_level" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -185,7 +186,7 @@
     </figure>
     <figure xml:id="fig_main_deck" landscape="yes">
       <caption><em>Patriot State</em>  Main Deck</caption>
-      <image source="images/main_deck" width="100%">
+      <image source="main_deck" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -193,7 +194,7 @@
     </figure>
     <figure xml:id="fig_2nd_deck" landscape="yes">
       <caption><em>Patriot State</em>  2nd Deck</caption>
-      <image source="images/2nd_deck" width="100%">
+      <image source="2nd_deck" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -201,7 +202,7 @@
     </figure>
     <figure xml:id="fig_3rd_deck" landscape="yes">
       <caption><em>Patriot State</em>  3rd Deck</caption>
-      <image source="images/3rd_deck" width="100%">
+      <image source="3rd_deck" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -209,7 +210,7 @@
     </figure>
     <figure xml:id="fig_4th_deck" landscape="yes">
       <caption><em>Patriot State</em>  4th Deck</caption>
-      <image source="images/4th_deck" width="100%">
+      <image source="4th_deck" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -217,7 +218,7 @@
     </figure>
     <figure xml:id="fig_tank_top" landscape="yes">
       <caption><em>Patriot State</em>  Tank Tops</caption>
-      <image source="images/tank_top" width="100%">
+      <image source="tank_top" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
@@ -225,11 +226,18 @@
     </figure>
     <figure xml:id="fig_inner_bottom" landscape="yes">
       <caption><em>Patriot State</em>  Inner Bottom</caption>
-      <image source="images/inner_bottom" width="100%">
+      <image source="inner_bottom" width="100%">
         <remix>
           <source>MARAD</source>
         </remix>
       </image>
+    </figure>
+  </section>
+  <section xml:id="TSPS-machinery-spaces">
+    <title>Machinery Spaces</title>
+    <figure xml:id="main_engine_generator" landscape="yes">
+      <caption>ER 1: Main Engine and Generator</caption>
+      <image source="images/main_engines_er1.jpeg"/>
     </figure>
   </section>
   <section xml:id="TSPS-ship-s-history">

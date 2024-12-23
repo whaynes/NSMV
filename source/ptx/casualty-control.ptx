@@ -12,19 +12,23 @@
       <p>It is important to understand that there are an infinite number of potential casualties, and that every casualty situation is unique. It is not possible to create a comprehensive step-by-step response to every possible casualty. Nevertheless, it is possible to state some general principles regarding casualty control, and to pre-plan for some common or critical potential casualties. Here are four principles to consider.</p>
     </paragraphs>
     <paragraphs>
+      <title/>
+      <p>It is important to understand that there are an infinite number of potential casualties, and that every casualty situation is unique. It is not possible to create a comprehensive step-by-step response to every possible casualty. Nevertheless, it is possible to state some general principles regarding casualty control, and to pre-plan for some common or critical potential casualties. Here are four principles to consider.</p>
+    </paragraphs>
+    <paragraphs>
       <title>It's better to prevent casualties than to respond to them</title>
       <p>Most casualties can be prevented by attention to proper watchstanding and maintenance. Take care of the small things before they become big things. Always maintain proper lubrication and cooling.  Test lubricating oil periodically for water and other contaminants. Keep regulating valves and control systems properly adjusted. Determine the cause of, and repair leaks as soon as they're found. Perform maintenance at the intervals recommended by the manufacturer. Remember that if one machine fails, similar units may have similar problems, so after the failure of one, check the others. And finally, don't cause casualties -- know the correct way to operate the equipment and do it that way.</p>
     </paragraphs>
     <paragraphs>
       <title>Anticipate and prepare for casualties</title>
       <p>Surprisingly often, casualties can be predicted.  An alert engineer will notice slight changes in the operating temperatures and pressures over time, which can indicate failing pumps or fouled heat exchangers.  Failing bearings run hotter and noisier, and can easily be detected by touch or with vibration analysis.  Failing electrical insulation has a distinctive smell. Sometimes, the signs are not apparent; you just have a vague feeling that something is not right.  In any event, you should not ignore your hunches, but think through what they might mean and plan for them. You should continuously prepare for casualties before they occur by mentally reviewing potential situations, their consequences, and planning your responses.</p>
-      <paragraphs>
-        <title>You can never have too much information</title>
-        <p>A good engineer must have a thorough knowledge of the plant.  When you arrive onboard, trace out all major systems and learn the location of all critical valves, so that you can quickly locate and use them in an emergency.  You should particularly look for crossover valves that are not normally used, but which may become important for restoring service after a failure, and isolation valves for securing portions of piping systems.  You should also locate all available safety equipment, and the location of engineroom exits.</p>
-        <p>You need to be thoroughly familiar with the normal operation of the plant. Without a knowledge of normal operating temperatures, pressures, noises, smells, vibrations, and familiarity with the way the system responds to changing loads, it is next to impossible for you to recognize the signs of impending trouble.  Most of this information can be obtained by good watchstanding -- making thorough rounds, remembering what you see, and reviewing the logbook for trends.  You can also refer to the ship's manuals and discuss normal operating conditions with the other engineers onboard.</p>
-        <p>Finally, you should be completely comfortable with normal startup and shutdown procedures, because in many cases, the most appropriate response to a casualty is to quickly and safely start up a stand-by unit and secure the faulty one before things get worse.</p>
-        <p>When a casualty occurs, you will need timely and accurate information.  The alarm and instruments on the console will probably be your first notification of a problem, so it is vitally important to keep them in good working order.  If a gage or thermometer gives any indication that is is faulty: sticking pointer, bogus readings, etc. it should be replaced, repaired, or re-calibrated without delay.  Console alarm points should be adjusted to minimize nuisance alarms.  Don't take anything for granted; always investigate every alarm on the board.  Don't become complacent and ignore alarms because "it was like that when I got here" or  "it always does that."</p>
-      </paragraphs>
+    </paragraphs>
+    <paragraphs>
+      <title>You can never have too much information</title>
+      <p>A good engineer must have a thorough knowledge of the plant.  When you arrive onboard, trace out all major systems and learn the location of all critical valves, so that you can quickly locate and use them in an emergency.  You should particularly look for crossover valves that are not normally used, but which may become important for restoring service after a failure, and isolation valves for securing portions of piping systems.  You should also locate all available safety equipment, and the location of engineroom exits.</p>
+      <p>You need to be thoroughly familiar with the normal operation of the plant. Without a knowledge of normal operating temperatures, pressures, noises, smells, vibrations, and familiarity with the way the system responds to changing loads, it is next to impossible for you to recognize the signs of impending trouble.  Most of this information can be obtained by good watchstanding -- making thorough rounds, remembering what you see, and reviewing the logbook for trends.  You can also refer to the ship's manuals and discuss normal operating conditions with the other engineers onboard.</p>
+      <p>Finally, you should be completely comfortable with normal startup and shutdown procedures, because in many cases, the most appropriate response to a casualty is to quickly and safely start up a stand-by unit and secure the faulty one before things get worse.</p>
+      <p>When a casualty occurs, you will need timely and accurate information.  The alarm and instruments on the console will probably be your first notification of a problem, so it is vitally important to keep them in good working order.  If a gage or thermometer gives any indication that is is faulty: sticking pointer, bogus readings, etc. it should be replaced, repaired, or re-calibrated without delay.  Console alarm points should be adjusted to minimize nuisance alarms.  Don't take anything for granted; always investigate every alarm on the board.  Don't become complacent and ignore alarms because "it was like that when I got here" or  "it always does that."</p>
     </paragraphs>
     <paragraphs>
       <title>Don't delay</title>
@@ -35,14 +39,12 @@
     <title>Phases of Casualty Control</title>
     <paragraphs>
       <title/>
-      A plant that is functioning normally is pretty simple to operate
-      <emdash/>
-      as long as the engines have fuel and air the automation does the rest.  But when something goes wrong, the watch engineer needs to assess the situation quickly, and make an appropriate response without delay.  Keeping the lights on and the shaft turning is important, but  the safety of the crew and the vessel is primary.
-Although it may not seem like it when you are surrounded by alligators, casualty control can be broken into four phases.
+      <p>A plant that is functioning normally is pretty simple to operate <mdash/> as long as the engines have fuel and air the automation does the rest.  But when something goes wrong, the watch engineer needs to assess the situation quickly, and make an appropriate response without delay.  Keeping the lights on and the shaft turning is important, but  the safety of the crew and the vessel is primary.</p>
+      <p>Although it may not seem like it when you are surrounded by alligators, casualty control can be broken into four phases.</p>
     </paragraphs>
     <paragraphs>
       <title>Notification</title>
-      <p>Most of time you will learn of a casualty from an alarm on the main console: low lube oil pressure, high salinity, low water, etc. However, some critical parameters are not alarmed, so while you're on watch you must continuously monitor main console gages like drum pressure, feed pressure, and condenser vacuum.  Good monitoring may also give you advanced notice of problems before the alarm sounds. Finally, some problems will only be found by making good rounds -- leaks, for example.</p>
+      <p>Most of time you will learn of a casualty from an alarm on the main console: low lube oil pressure, high salinity, low water, etc. However, some critical parameters are not alarmed, so while you're on watch you must continuously monitor main console gages like drum pressure, feed pressure, and condenser vacuum.  Good monitoring may also give you advanced notice of problems before the alarm sounds. Finally, some problems will only be found by making good rounds  <mdash/>  leaks, for example.</p>
       <p>It is important to correctly identify the root cause of the casualty.  The alarm you receive may only be a symptom of the true problem.</p>
     </paragraphs>
     <paragraphs>
@@ -56,7 +58,7 @@ Although it may not seem like it when you are surrounded by alligators, casualty
     </paragraphs>
     <paragraphs>
       <title>Repair</title>
-      <p>At the end of the recovery phase the plant will be stable, but may be in a vulnerable condition, with reduced capacity or redundancy. Therefore, any damaged equipment should be repaired as soon as possible, and the plant brought back to full operational status.   The chief will give the captain an estimate of how long it will take to make the plant fully operational, and do the paperwork -- fill out the logbook, casualty reports, and machinery histories.</p>
+      <p>At the end of the recovery phase the plant will be stable, but may be in a vulnerable condition, with reduced capacity or redundancy. Therefore, any damaged equipment should be repaired as soon as possible, and the plant brought back to full operational status.   The chief will give the captain an estimate of how long it will take to make the plant fully operational, and do the paperwork  <mdash/>  fill out the logbook, casualty reports, and machinery histories.</p>
     </paragraphs>
     <paragraphs>
       <title>Analysis</title>
@@ -65,13 +67,12 @@ Although it may not seem like it when you are surrounded by alligators, casualty
   </section>
   <section xml:id="casualty-control-shipboard-casualties-and-response-">
     <title>Shipboard Casualties and Response</title>
-    <introduction>
-      <p>This section contains descriptions of a number of potential engineering casualties.  For each, the possible symptoms, causes and consequences of the casualty are discussed, followed by a recommended course of action.</p>
-      <!--todo complete shipboard casualties section-->
-    </introduction>
+    <p>This section contains descriptions of a number of potential engineering casualties.  For each, the possible symptoms, causes and consequences of the casualty are discussed, followed by a recommended course of action.</p>
+    <!--todo complete shipboard casualties section-->
   </section>
   <section xml:id="casualty-control-sea-stories">
     <title>Sea Stories</title>
+    <p>tbd</p>
     <!--todo complete sea stories section-->
   </section>
 </chapter>
