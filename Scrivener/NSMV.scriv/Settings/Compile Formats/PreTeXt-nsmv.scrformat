@@ -2635,8 +2635,8 @@
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
 <xi:include href="docinfo.ptx"/>
 <book >
-<title><$projecttitle></title>
-<subtitle>Training Ship <em>Patriot State</em></subtitle>
+<title>Training Ship <em>Patriot State</em></title>
+<subtitle>Engineering Training Manual</subtitle>
 ]]></DocumentPrefix>
         <DocumentSuffix><![CDATA[</book>
 </pretext>]]></DocumentSuffix>
@@ -2793,7 +2793,7 @@
         </PandocSettings>
     </EBookSettings>
     <PostProcessing Enabled="Yes" Type="Script">
-        <Script><![CDATA[(java -jar /Applications/saxon/saxon-he-12.5.jar  -xsl:/Users/whaynes/ptx/nsmv/Scrivener/scriv2ptx/scriv2ptx.xsl -s:nsmv.xml -o:nsmv.ptx && 
+        <Script><![CDATA[(java -jar /Applications/saxon/saxon-he-12.5.jar  -xsl:/Users/whaynes/ptx/nsmv/Scrivener/scriv2ptx/scriv2ptx.xsl -s:nsmv.xml -o:main.ptx && 
 ~/.local/bin/ptx-format -c ptx-format.cfg -pr . &&
 osascript -e 'display notification "Export Success" with title "Scriv2PTX"' && 
 cd ~/ptx/nsmv && ~/.pyenv/shims/pretext build &&

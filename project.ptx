@@ -2,10 +2,11 @@
 <!-- This file, the project manifest, provides the overall configuration for your PreTeXt project. To edit the content of your document, open `source/main.ptx`. See https://pretextbook.org/doc/guide/html/processing-CLI.html#cli-project-manifest. -->
 <project ptx-version="2" source="source/ptx/" xsl="source/xsl/">
   <targets>
-    <target name="web" format="html" xsl="weh-custom-html.xsl" source="nsmv.ptx">
+    <target name="web" format="html"  xsl="weh-custom-html.xsl">
       <stringparams  html.css.extra="external/css/weh-nsmv.css"/>
     </target>
-    <target name="print" format="pdf" source="ptx/nsmv.ptx" />
+    <target name="basic" format="html"  output-dir="web"/> <!--Like web, but no custom css, xsl-->
+    <target name="print" format="pdf" />
     <target name="print-latex" format="latex"/>
   </targets>
 </project>

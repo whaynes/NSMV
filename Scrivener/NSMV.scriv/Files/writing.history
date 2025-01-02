@@ -88,4 +88,7 @@
     <Day dwc="-4" dcc="-94" owc="0" occ="0">2024-12-15</Day>
     <Day dwc="-150" dcc="-948" owc="0" occ="0">2024-12-19</Day>
     <Day dwc="124" dcc="481" owc="0" occ="0">2024-12-22</Day>
+    <Day dwc="10" dcc="73" dtwc="5532" owc="0" occ="0" dtcc="37330">2024-12-31</Day>
+    <Day dwc="384" dcc="2789" dtwc="5916" owc="0" occ="0" dtcc="40119">2025-01-01</Day>
+    <Day dwc="-1" dcc="-16" owc="0" occ="0">2025-01-02</Day>
 </WritingHistory>

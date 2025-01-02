@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.4-16639" Device="whaynes-MBP" Author="" Modified="2024-12-26 09:05:31 -0500" ModID="08F28EC1-1995-44CA-857E-BB123EE9C696">
+<ScrivenerProject Identifier="9CEE092B-52A4-40FD-A463-60A47C53A797" Version="2.0" Creator="SCRMAC-3.4-16639" Device="whaynes-MBP" Author="" Modified="2025-01-02 09:35:24 -0500" ModID="20376115-347A-4683-AE17-F21045F7A1F7">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2023-05-29 09:45:48 -0400" Modified="2023-05-29 09:45:48 -0400">
             <Title>Draft</Title>
@@ -12,7 +12,17 @@
                 </OutlinerExpandedState>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="96776348-B035-46DA-A5A5-210E99B93774" Type="Folder" Created="2023-05-29 09:45:48 -0400" Modified="2024-12-22 17:47:49 -0500">
+                <BinderItem UUID="B832A9E8-9BF8-4256-B98B-96B58D0B5B55" Type="Text" Created="2025-01-01 15:57:27 -0500" Modified="2025-01-02 08:57:31 -0500">
+                    <Title>docinfo</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Information</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>109,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="96776348-B035-46DA-A5A5-210E99B93774" Type="Folder" Created="2023-05-29 09:45:48 -0400" Modified="2025-01-02 09:35:00 -0500">
                     <Title>Front Matter</Title>
                     <MetaData>
                         <SectionType>7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0</SectionType>
@@ -20,7 +30,7 @@
                         <IconFileName>Front Matter</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>78,0</TextSelection>
+                        <TextSelection>289,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="2396AEC7-B4DC-4946-BA72-5A07420AA072" Type="Folder" Created="2023-05-31 15:03:02 -0400" Modified="2023-05-31 20:45:53 -0400">
@@ -38,14 +48,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="1DCD087C-C28B-445A-9C03-CA4FE4EDA4A8" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2024-12-22 16:17:00 -0500">
+                        <BinderItem UUID="1DCD087C-C28B-445A-9C03-CA4FE4EDA4A8" Type="Text" Created="2023-05-31 15:03:02 -0400" Modified="2024-12-31 19:26:20 -0500">
                             <Title>Ship Description</Title>
                             <MetaData>
                                 <SectionType>9D1ADC50-E7BB-4E40-BA04-CCA44927A08E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>420,0</TextSelection>
+                                <TextSelection>54,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="43F1E991-B19E-4467-80F8-D856BE9C6D09" Type="Folder" Created="2023-09-21 10:36:15 -0400" Modified="2024-12-22 12:57:18 -0500">
@@ -66,13 +76,13 @@
                                 <TextSelection>1379,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="03C6ACFA-720B-4D37-8075-1A1C0E5D429C" Type="Folder" Created="2024-12-22 13:11:03 -0500" Modified="2024-12-22 16:35:37 -0500">
+                        <BinderItem UUID="03C6ACFA-720B-4D37-8075-1A1C0E5D429C" Type="Folder" Created="2024-12-22 13:11:03 -0500" Modified="2025-01-01 16:53:03 -0500">
                             <Title>Machinery Spaces</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>71,0</TextSelection>
+                                <TextSelection>122,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="D8FAD731-943C-4610-AEAA-6E5875824BCE" Type="Folder" Created="2023-09-22 10:20:35 -0400" Modified="2024-07-12 10:53:39 -0400">
@@ -14776,7 +14786,7 @@ US Standard System (psi)
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="RegEx" Type="All" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">emdash</SearchSettings>
+            <SearchSettings Operator="RegEx" Type="All" Scope="Draft" ExcludeTrash="Yes" CaseSensitive="No" IgnoreDiacritics="No">images</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -14861,12 +14871,12 @@ US Standard System (psi)
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2024-12-27 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2024-12-26 09:05:29 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-01-03 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-1" Characters="-16" Date="2025-01-02 08:57:20 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2024-12-26 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2025-01-02 00:00:00 -0500">
+        <DraftWordCount>-1</DraftWordCount>
+        <DraftCharCount>-16</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

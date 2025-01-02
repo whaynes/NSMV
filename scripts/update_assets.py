@@ -5,7 +5,7 @@ import shutil
 
 images = ['*.pdf', '*.png', '*.jpg', '*.jpeg', '*.svg', '*.ggb', '*.gif']
 # these command line arguments are set by the makefile
-resource_dir = "source/resources"  #(RESOURCES)
+resource_dir = "source/assets"  #(RESOURCES)
 external_dir = "output/assets"  #(EXTERNAL)
 css_dir = "output/web/_static/pretext/css/"
 
@@ -55,10 +55,8 @@ print(f"\tResource Directory: {resource_dir}")
 print(f"\tExternal Directory: {external_dir}")
 print()
 
-flatten(images, resource_dir, external_dir +'/images/')
+flatten(images, resource_dir, external_dir )
 copy_and_overwrite(resource_dir + '/images/_favicon', external_dir + '/favicon')
-copy_and_overwrite(resource_dir + '/css', external_dir + '/css')  #my custom css
+copy_and_preserve(resource_dir + '/css', external_dir + '/css')  #my custom css
 
-# put my theme color css in the right place
-copy_and_preserve(resource_dir + '/css/theme/', css_dir)
 print()

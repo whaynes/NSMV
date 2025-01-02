@@ -1,0 +1,26 @@
+/*  enlarge logo image in masthead to fit better. */
+.ptx-masthead .logo-link {
+width: 6em;
+height: 6em;
+}
+/*  shrink gigantic ptx logo */
+.ptx-toc::after {
+  height: 4em;
+}
+
+/*  put subtitle on its own line */
+.ptx-masthead .title-container .subtitle {display:block;}
+
+:root {
+  --navy: #072040;
+  --gold: #CFB888;
+  --harborblue: #78A1BB;
+  --gray: #BCBEC0;
+  --shipgray: #E2E2E2;
+  --logoblue: #173863;
+  }
+
+:root:not(.dark-mode) {
+     --doc-title-color: var(--logoblue);
+     --tocitem-background: var(--harborblue);
+     }

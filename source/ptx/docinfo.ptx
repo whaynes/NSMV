@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <docinfo xml:base="docinfo.ptx" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <brandlogo source="images/seal2024.svg" url="https://www.maritime.edu"/>
+  <brandlogo source="seal2024.svg" url="https://www.maritime.edu"/>
   <initialism>NSMV</initialism>
-  <math-package latex-name="cancel" mathjax-name="cancel"/>
-  <math-package latex-name="mhchem" mathjax-name="mhchem"/>
   <macros>
     \let\vecarrow\vec%
     \renewcommand{\vec}{\mathbf}%
