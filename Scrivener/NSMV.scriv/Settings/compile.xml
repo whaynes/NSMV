@@ -2,6 +2,7 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included" TreatAsComplete="Yes" IncludeGroupText="Yes">
+            <CompileGroup Type="BinderItem">2953D2B6-74A1-4F2F-8E2E-7814848C1978</CompileGroup>
             <Filter State="Off" Exclude="No" Type="Label">
                 <CollectionID>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</CollectionID>
                 <Label>-1</Label>
@@ -91,6 +92,7 @@
                 <Type ID="0E7D4855-8318-4C92-AADE-7CA18291E1B7">BAF8CD4C-853E-4698-BB85-08821A16478C</Type>
                 <Type ID="A609ADD0-B939-42A0-AE82-BCE58A64D5DA">61683532-2774-4E68-B513-6401E121CFC3</Type>
                 <Type ID="1B99BA13-CEDE-4D91-8EE2-B05B3DD3A38E">062567C3-A85A-49E1-92F7-B055FB3443EF</Type>
+                <Type ID="C3F3C28B-1096-4E0C-B201-F309BF226C73">4974A7E6-C8A0-4353-861F-3741B8B0D691</Type>
                 <Type ID="C6B4521F-46C9-4044-95C1-F4B93272DD06">AS-IS</Type>
                 <Type ID="A08C2998-A502-404B-AB6B-777D06DC42D6">AS-IS</Type>
                 <Type ID="7238A2C5-A9E6-4F21-A029-0B905D75EE01">AS-IS</Type>
@@ -98,6 +100,9 @@
                 <Type ID="7AF79F77-7E8C-44AC-96AE-BF3A8922D7D0">AS-IS</Type>
                 <Type ID="16E34A8D-1516-4AF0-9D0E-0A02F4B5A7EC">AS-IS</Type>
             </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">F3CE827B-7DE4-4DB3-991F-7EA05946ADD5</DefaultFrontMatter>
+            </FrontAndBackMatter>
         </Format>
         <Format ID="latex-memoir">
             <FrontAndBackMatter>

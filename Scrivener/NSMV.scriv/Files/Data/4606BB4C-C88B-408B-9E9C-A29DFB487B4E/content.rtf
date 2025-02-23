@@ -1,0 +1,16 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red19\green17\blue0;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c9804\c8235\c0;\cssrgb\c100000\c100000\c100000;}
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+In more detail, any AC induction motor can become an induction generator, as long as the relative rotational speed of the stator is lower than that of the rotor, or in other words you have negative slip. So since a VFD is controlling the rotational speed of the stator fields, it can maintain it to always be lower than the rotor speed and keep the motor in a state of regeneration. So when generating, the kinetic energy of the spinning load is converted to electricity, which is then dumped off into the resistor bank and burned off as heat. \cb1 \
+\
+\cb3 The chopper transistor facilitates that. You don't want the resistors on-line all the time, otherwise your DC bus always discharges into them as an easier path than the motor. So along with the chopper transistor is a DC bus voltage sensing circuit. Whenever the DC bus voltage increases above a set threshold, the chopper transistor fires a PWM DC voltage into the resistor bank to get rid of the excess. When you tell the VFD to brake the load to a stop, it does that continuously. But it also helps when running if there are periodic cycles of overhauling loads of large swings in the incoming line voltage that might otherwise make the drive trip off on Over Voltage on the DC bus.\cb1 \
+\
+\cb3 As a side note to the Dynamic Braking (DB) function, one drawback is that is suffers from the law of diminishing return. When the motor is spinning full speed there is a lot of kinetic energy in it, so there is a lot of braking energy available. But as the load slows down, so does the braking energy. At some point the DB can no longer do anything, it can't "finish the job" and the load never comes to a complete stop. Therefore, you also need DC Injection Braking (DCIB) that is triggered to come on at some low level, such as 10% speed, to finish the stopping process. The problem with DCIB is that it traps the kinetic energy in the motor as heat. So you only want to use the DCIB when there is very little kinetic energy remaining in the load.\cb1 \
+\
+\cb3 Side side note:\cb1 \
+\cb3 You usually don't see chopper transistors as separate modules on drives that are 10HP and under, because they come built-in to the integrated power module that is used to make small drives now. So on those, you just see terminals to hook up the resistors, they are already wired to the internal chopper.}

@@ -1,0 +1,48 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cambria;}
+{\colortbl;\red255\green255\blue255;\red251\green0\blue23;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c98600\c0\c9100;\csgray\c0;}
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf2 <$Scr_Ps::0>
+\f1\fs32 4.8.8.3 Motor Deceleration\
+Depending on specific project requirements, two deceleration modes can be used.\
+1) Slow deceleration mode, i.e. motor freewheeling without using braking chopper,\
+2) Fast deceleration mode with braking torque and power dissipation in chopper resistors.\
+\
+During freewheeling deceleration, the motor is still supplied with magnetizing current, but this current is\
+only reactive current and no active power is sent back to DC link. So DC link voltage is controlled and\
+doesn't increase during deceleration.\
+When option Kinetic support is available, in the occurrence of low DC link voltage, forced deceleration\
+based on reduced torque reference from torque regulation with DC link voltage set point will be used to\
+increase the DC link voltage to maintain the set-point levels.\
+When braking chopper is used to decelerate, the torque is controlled so that chopper resistors are not\
+overheating.\
+\
+DB Chopper is a hardwire option which can be added in DC bus to dissipate the excessive energy on it\
+during motor breaking. Chopper resistors are mounted outside the cubicle.\
+\
+\
+ANSI Code \'96 73F / 73A [Chopper High Temperature]\
+Fault Description\
+The Breaking Chopper temperature has exceeded the predefined limit value for Over Temperature.\
+Probable causes\
+5.3.6.20 a) The Chopper temperature limit is estimated based the used chopper ratings. High chopper\
+temperature may result when motor is braking above rated conditions and the fault occurs once the\
+temperature exceeds the predefined value.\
+Operations to be carried out\
+a) Wait for chopper cooling before braking again.\
+b) Check the chopper resistance\
+\
+2.3.5 Braking Chopper (Option)\
+Braking chopper can optionally be added between positive and negative DC bus poles to dissipate\
+excess DC link energy in case of motor braking. This chopper is made of a power stack (IGBTs and\
+diodes) identical to those used for phase legs (sub-assemblies). Chopper resistors are located outside the\
+cubicle, their location is project specific cubicle roof or other).\
+IGBT Switch (1 IGBT or more according to voltage)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf3 <!$Scr_Ps::0>
+\fs31\fsmilli15960 \
+\
+}

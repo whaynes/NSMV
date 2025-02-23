@@ -1,0 +1,21 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cambria;\f2\fmodern\fcharset0 Courier;
+}
+{\colortbl;\red255\green255\blue255;\red97\green16\blue51;}
+{\*\expandedcolortbl;;\cssrgb\c46300\c11000\c25900;}
+\pard\sb240\partightenfactor0
+
+\f0\fs24 \cf0 <$Scr_Ps::0>
+\f1\fs32 The chopper circuit is used to prevent damage to the DC link capacitors when the ship slows down. \
+When the ship decelerates, the propulsion motors temporarily become electric generators and the kinetic energy of the decelerating vessel is turned into regenerated electrical energy which is returned to the DC link capacitors\
+However, too much regenerated energy will cause the DC link voltage to exceed safe values and damage the capacitors.  The chopper circuit is used to prevent this damage by shunting excess regenerated energy to external braking resistors where it is burned off as heat.\
+The chopper circuit consists of a DC bus voltage sensor and two IGBT chopper transistors and an external resistor bank. During regeneration, if the DC bus voltage increases above a set threshold, the chopper transistors fire and connect the DC bus to the resistor bank.  The resistor bank acts as a load on the "generator" which simultaneously consumes the excess energy and produces a counter-torque that helps bring the shaft to a quick stop.  The temperature of the resistors is also sensed, and the deceleration rate will be reduced if the resistors start to become too hot.\
+\pard\sb40\sa40\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf2 <!$Scr_Ps::0><$Scr_Ps::1>
+\f2\fs28 <figure xml:id="chopper_circuit">\
+<caption>Chopper Circuit</caption>\
+<image source="chopper" width="60%"/>\
+</figure>\
+
+\f0\fs24 <!$Scr_Ps::1>}

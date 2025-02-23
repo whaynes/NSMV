@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="132 -211 684 671" width="684" height="671">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" fill="none" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" stroke="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="176" y="146" width="76.5" height="33" fill="white"/>
+        <rect x="176" y="146" width="76.5" height="33" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(181 155.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="6.241211" y="11">Macerator</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <rect x="176" y="232.5" width="76.5" height="33" fill="white"/>
+        <rect x="176" y="232.5" width="76.5" height="33" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(181 242)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="2.2333984" y="11">Feed Pump</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="285.625" y="232.5" width="76.5" height="33" fill="white"/>
+        <rect x="285.625" y="232.5" width="76.5" height="33" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(290.625 242)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="8.570312" y="11">Saturator</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="229" y="-91" width="66.5" height="71.5" fill="white"/>
+        <rect x="229" y="-91" width="66.5" height="71.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(234 -83.25)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="15.248047" y="11">Gray </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="12.467773" y="25">Water </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="7.90332" y="39">Holding </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="15.576172" y="53">Tank</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <rect x="132.5" y="-91" width="66.5" height="71.5" fill="white"/>
+        <rect x="132.5" y="-91" width="66.5" height="71.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(137.5 -83.25)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="13.578125" y="11">Black </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="12.467773" y="25">Water</tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="7.90332" y="39">Holding </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="15.576172" y="53">Tank</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <rect x="733.25" y="146" width="76.5" height="33" fill="white"/>
+        <rect x="733.25" y="146" width="76.5" height="33" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(738.25 148.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="14.567383" y="11">Sludge </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="17.576172" y="25">Pump</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <rect x="588.25" y="335.5" width="76.5" height="33" fill="white"/>
+        <rect x="588.25" y="335.5" width="76.5" height="33" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(593.25 338)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x=".23242188" y="11">Clear Phase </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="17.576172" y="25">Pump</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <rect x="181" y="21" width="66.5" height="71.5" fill="white"/>
+        <rect x="181" y="21" width="66.5" height="71.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(186 42.75)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="10.91211" y="11">Mixing </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="15.576172" y="25">Tank</tspan>
+        </text>
+      </g>
+      <g id="Line_17">
+        <line x1="165.75" y1="-163.604" x2="165.75" y2="-100.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_19">
+        <line x1="262.31103" y1="-163.604" x2="262.47423" y2="-100.89997" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_20">
+        <line x1="165.75" y1="-19.5" x2="206.65103" y2="14.654472" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_21">
+        <line x1="262.25" y1="-19.5" x2="221.81649" y2="14.615778" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_22">
+        <line x1="214.25" y1="92.5" x2="214.25" y2="136.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_23">
+        <line x1="214.25" y1="179" x2="214.25" y2="222.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_24">
+        <line x1="252.5" y1="249" x2="275.725" y2="249" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_27">
+        <line x1="362.125" y1="249" x2="385.35" y2="249" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_29">
+        <rect x="395.25" y="232.5" width="76.5" height="33" fill="white"/>
+        <rect x="395.25" y="232.5" width="76.5" height="33" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(400.25 235)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="9.241211" y="11">Pressure </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="1.6767578" y="25">Relief Valve</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <rect x="733.25" y="335.5" width="76.5" height="33" fill="white"/>
+        <rect x="733.25" y="335.5" width="76.5" height="33" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(738.25 338)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="24.91504" y="11">UV </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="2.236328" y="25">Disinfection </tspan>
+        </text>
+      </g>
+      <g id="Line_31">
+        <line x1="471.75" y1="249" x2="562.85" y2="249" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_32">
+        <rect x="572.75" y="146" width="107.5" height="33" fill="white"/>
+        <rect x="572.75" y="146" width="107.5" height="33" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(577.75 148.5)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="30.067383" y="11">Sludge </tspan>
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="12.404297" y="25">Compartment</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <rect x="572.75" y="204" width="107.5" height="90" fill="white"/>
+        <rect x="572.75" y="204" width="107.5" height="90" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(577.75 242)" fill="black">
+          <tspan font-family="Helvetica" font-size="12" fill="black" x="8.165039" y="11">Floatation Tank</tspan>
+        </text>
+      </g>
+      <g id="Line_34">
+        <line x1="626.5" y1="204" x2="626.5" y2="188.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_36">
+        <line x1="680.25" y1="162.5" x2="723.35" y2="162.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_38">
+        <line x1="626.5" y1="294" x2="626.5" y2="325.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_44">
+        <line x1="771.5" y1="179" x2="771.5" y2="222.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_45">
+        <line x1="664.75" y1="352" x2="723.35" y2="352" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_46">
+        <line x1="771.5" y1="368.5" x2="771.5" y2="421.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_47">
+        <line x1="323.7766" y1="174.448" x2="323.4435" y2="222.60024" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_48">
+        <text transform="translate(314.251 151)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15">Air</tspan>
+        </text>
+      </g>
+      <g id="Graphic_49">
+        <text transform="translate(143.086 -205.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="4.136" y="15">From </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="6679102e-19" y="33.448">Toilets</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <text transform="translate(208.778 -205.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="34.944" y="15">From</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="33.448">Sinks/Showers</tspan>
+        </text>
+      </g>
+      <g id="Graphic_54">
+        <text transform="translate(732.38 237.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="7887024e-19" y="15">Sluge Tank</tspan>
+        </text>
+      </g>
+      <g id="Graphic_55">
+        <text transform="translate(733.564 436.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15">Overboard</tspan>
+        </text>
+      </g>
+      <g id="Graphic_56">
+        <text transform="translate(472 151)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="8668621e-19" y="15">Flocculant</tspan>
+        </text>
+      </g>
+      <g id="Line_57">
+        <line x1="509.1037" y1="174.448" x2="509.3932" y2="239.1001" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -38,5 +38,5 @@
     <xsl:value-of select="."/>
     <xsl:text>}%&#xa;</xsl:text>
   </xsl:template>
-  
+   <xsl:template match="ship"><em>Patriot State</em></xsl:template>
 </xsl:stylesheet>
